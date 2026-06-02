@@ -1,0 +1,1 @@
+Have you been living under a rock, my guy? Vite is the de facto build tool of the JavaScript ecosystem. Fast dev server, fast feedback loop, used by frameworks like Vue, Astro, React Router, TanStack Start. Ring a bell?

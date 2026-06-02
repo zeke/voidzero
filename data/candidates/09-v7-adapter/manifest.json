@@ -1,0 +1,166 @@
+{
+  "createdAt": "2026-06-02T18:36:59.275Z",
+  "model": "google/nano-banana-2",
+  "jobs": [
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-05",
+      "id": "nadyqd7axdrmr0cyh6fr34t4y0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/nadyqd7axdrmr0cyh6fr34t4y0",
+      "outputUrl": "https://replicate.delivery/xezq/efed2f07bq1WHRwoB648eV7fuueazX1Gfbl7jrMkH0orZTNrWA/tmpk7oyo6ot.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v7-adapter-variants/11-james-adapter-dance__style-05__nadyqd7axdrmr0cyh6fr34t4y0.jpeg",
+      "filename": "11-james-adapter-dance__style-05__nadyqd7axdrmr0cyh6fr34t4y0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.833786745,
+        "resolution_target": "1K",
+        "total_time": 13.852569487
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-09",
+      "id": "1w6a9qfaxhrmw0cyh6fryqs700",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/1w6a9qfaxhrmw0cyh6fryqs700",
+      "outputUrl": "https://replicate.delivery/xezq/DkcXFLyTDfyeok8o1yd92UPbtVOCc7g70w9Ehx2ecQxvmaWtA/tmp79lu9uw4.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v7-adapter-variants/11-james-adapter-dance__style-09__1w6a9qfaxhrmw0cyh6fryqs700.jpeg",
+      "filename": "11-james-adapter-dance__style-09__1w6a9qfaxhrmw0cyh6fryqs700.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 12.156393679,
+        "resolution_target": "1K",
+        "total_time": 12.173778312
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-13",
+      "id": "tdmwn1fay9rmy0cyh6fttkv19g",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/tdmwn1fay9rmy0cyh6fttkv19g",
+      "outputUrl": "https://replicate.delivery/xezq/JR8eeTjUHOpK9UDGMqeIGWPnrhVcqq1LBQX6HJTHjOv1maWtA/tmpsugonbtv.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v7-adapter-variants/11-james-adapter-dance__style-13__tdmwn1fay9rmy0cyh6fttkv19g.jpeg",
+      "filename": "11-james-adapter-dance__style-13__tdmwn1fay9rmy0cyh6fttkv19g.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 14.548566266,
+        "resolution_target": "1K",
+        "total_time": 14.571266714
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-04",
+      "id": "trybk8qaxxrmy0cyh6fv9qa0kc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/trybk8qaxxrmy0cyh6fv9qa0kc",
+      "outputUrl": "https://replicate.delivery/xezq/ZY9YPTtJ6n6WONRVLH2PDmCmntYBL0l35Hc1CdVMxrz3UzqF/tmpag879oom.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v7-adapter-variants/11-james-adapter-dance__style-04__trybk8qaxxrmy0cyh6fv9qa0kc.jpeg",
+      "filename": "11-james-adapter-dance__style-04__trybk8qaxxrmy0cyh6fv9qa0kc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.926197586,
+        "resolution_target": "1K",
+        "total_time": 19.941741277
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-07",
+      "id": "7wvr9yfb35rmy0cyh6fvyjwxwr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/7wvr9yfb35rmy0cyh6fvyjwxwr",
+      "outputUrl": "https://replicate.delivery/xezq/An1MdyjWPVb4GJtMefpje4C4EWv7C801JeDjWBbdDofdcqZ1C/tmpfowctdd_.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v7-adapter-variants/11-james-adapter-dance__style-07__7wvr9yfb35rmy0cyh6fvyjwxwr.jpeg",
+      "filename": "11-james-adapter-dance__style-07__7wvr9yfb35rmy0cyh6fvyjwxwr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 23.691128834,
+        "resolution_target": "1K",
+        "total_time": 23.701720309
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-11",
+      "id": "deh2pg7b45rmt0cyh6fsggvfmc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/deh2pg7b45rmt0cyh6fsggvfmc",
+      "outputUrl": "https://replicate.delivery/xezq/V2TmtDziRGKUK5z1yixXy3ja1oYX1COI6eh9rsFfxToiTNrWA/tmplpodnpl6.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v7-adapter-variants/11-james-adapter-dance__style-11__deh2pg7b45rmt0cyh6fsggvfmc.jpeg",
+      "filename": "11-james-adapter-dance__style-11__deh2pg7b45rmt0cyh6fsggvfmc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 23.051569965,
+        "resolution_target": "1K",
+        "total_time": 23.062688449
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-19",
+      "id": "qzff2xqb4nrmt0cyh6fv35tjbg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/qzff2xqb4nrmt0cyh6fv35tjbg",
+      "outputUrl": "https://replicate.delivery/xezq/5brl6pKnlX7KI57ha1CJHHYDZ8AwcxzlrE5bSfpwGPXvpmVLA/tmp5t8s_a9f.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v7-adapter-variants/11-james-adapter-dance__style-19__qzff2xqb4nrmt0cyh6fv35tjbg.jpeg",
+      "filename": "11-james-adapter-dance__style-19__qzff2xqb4nrmt0cyh6fv35tjbg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.671331232,
+        "resolution_target": "1K",
+        "total_time": 18.681303486
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-22",
+      "id": "p3vrf1qb3srmy0cyh6ftfvgbf8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/p3vrf1qb3srmy0cyh6ftfvgbf8",
+      "outputUrl": "https://replicate.delivery/xezq/D9PjgSGPhXpfcaZiwUYNlW3eHTfUGu8VMQb4ynooCedtN1saB/tmpaj65bstf.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v7-adapter-variants/11-james-adapter-dance__style-22__p3vrf1qb3srmy0cyh6ftfvgbf8.jpeg",
+      "filename": "11-james-adapter-dance__style-22__p3vrf1qb3srmy0cyh6ftfvgbf8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 15.567556077999999,
+        "resolution_target": "1K",
+        "total_time": 15.577839526
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-15",
+      "id": "kwm37zzb5hrmr0cyh6fvb8a0fm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/kwm37zzb5hrmr0cyh6fvb8a0fm",
+      "outputUrl": "https://replicate.delivery/xezq/hYwOIkoru7aXE5WIIxUM9Ll5l6VV4AgoF4Wi8OE1Pvw3UzqF/tmpjwvz85xd.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v7-adapter-variants/11-james-adapter-dance__style-15__kwm37zzb5hrmr0cyh6fvb8a0fm.jpeg",
+      "filename": "11-james-adapter-dance__style-15__kwm37zzb5hrmr0cyh6fvb8a0fm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.003045365,
+        "resolution_target": "1K",
+        "total_time": 20.014067912
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-17",
+      "id": "gyk356zbadrmw0cyh6fr7xspyc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/gyk356zbadrmw0cyh6fr7xspyc",
+      "outputUrl": "https://replicate.delivery/xezq/EulFhvuaaIYiJ9M3MnIrgQKzz2hgaK5Lphz4fukAHD8vpmVLA/tmpau7zcwwh.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v7-adapter-variants/11-james-adapter-dance__style-17__gyk356zbadrmw0cyh6fr7xspyc.jpeg",
+      "filename": "11-james-adapter-dance__style-17__gyk356zbadrmw0cyh6fr7xspyc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.437784496,
+        "resolution_target": "1K",
+        "total_time": 19.452258406
+      }
+    }
+  ]
+}

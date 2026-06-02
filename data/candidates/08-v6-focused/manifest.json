@@ -1,0 +1,326 @@
+{
+  "createdAt": "2026-06-02T18:11:42.981Z",
+  "model": "google/nano-banana-2",
+  "jobs": [
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "style": "style-04",
+      "id": "kyf64ge8b9rmt0cyh648144hh4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/kyf64ge8b9rmt0cyh648144hh4",
+      "outputUrl": "https://replicate.delivery/xezq/An3g4zcRtSpgO5fQfbDmkMHNI2QAfan4cAGf9vgpXKrhvzsaB/tmp5_pkl3jp.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/02-zeke-bathroom-toothbrush__style-04__kyf64ge8b9rmt0cyh648144hh4.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-04__kyf64ge8b9rmt0cyh648144hh4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 24.918671229,
+        "resolution_target": "1K",
+        "total_time": 24.937582144
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "style": "style-05",
+      "id": "y1afm8y819rmw0cyh64aadkbe8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/y1afm8y819rmw0cyh64aadkbe8",
+      "outputUrl": "https://replicate.delivery/xezq/ks9VNOwoJe15ekTMaiiKrZLCnoUAKfeFOa2pTOcf2F1QeOzqF/tmpmq1ta13_.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/02-zeke-bathroom-toothbrush__style-05__y1afm8y819rmw0cyh64aadkbe8.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-05__y1afm8y819rmw0cyh64aadkbe8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.527905817,
+        "resolution_target": "1K",
+        "total_time": 19.541180401
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "style": "style-07",
+      "id": "yxmd37p8axrmy0cyh648s2gg90",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/yxmd37p8axrmy0cyh648s2gg90",
+      "outputUrl": "https://replicate.delivery/xezq/QHW4CynmOh41B9fty4CqSNA9eeGB5bceSJiUk0qs9jjRvzsaB/tmpo0a28rbd.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/02-zeke-bathroom-toothbrush__style-07__yxmd37p8axrmy0cyh648s2gg90.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-07__yxmd37p8axrmy0cyh648s2gg90.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.263067783,
+        "resolution_target": "1K",
+        "total_time": 21.278828269999998
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "style": "style-09",
+      "id": "m0jhcqy881rmt0cyh64a30h598",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/m0jhcqy881rmt0cyh64a30h598",
+      "outputUrl": "https://replicate.delivery/xezq/z5H3oB04pTZQMlrL7pTqHJ9UJyvrk15qbnj1AbkLAkH7OzqF/tmpti9d4qny.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/02-zeke-bathroom-toothbrush__style-09__m0jhcqy881rmt0cyh64a30h598.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-09__m0jhcqy881rmt0cyh64a30h598.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.349463573,
+        "resolution_target": "1K",
+        "total_time": 13.361131825
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "style": "style-11",
+      "id": "1vkepay7wdrmr0cyh64b8qj2sg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/1vkepay7wdrmr0cyh64b8qj2sg",
+      "outputUrl": "https://replicate.delivery/xezq/tVIIrmt1vSrDD91SR3IWewsSJ9nyEfei8f4EB3PxeD7reOzqF/tmpy_51kvap.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/02-zeke-bathroom-toothbrush__style-11__1vkepay7wdrmr0cyh64b8qj2sg.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-11__1vkepay7wdrmr0cyh64b8qj2sg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.100033668,
+        "resolution_target": "1K",
+        "total_time": 22.112828428
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "style": "style-13",
+      "id": "9643gtp8a5rmt0cyh64amhsxp8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/9643gtp8a5rmt0cyh64amhsxp8",
+      "outputUrl": "https://replicate.delivery/xezq/ezo7h2CGNqX2bCv4vHfffByArC6z1xgS3XZUkUfaS9H1eOzqF/tmpvm8wwca0.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/02-zeke-bathroom-toothbrush__style-13__9643gtp8a5rmt0cyh64amhsxp8.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-13__9643gtp8a5rmt0cyh64amhsxp8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 23.061165262,
+        "resolution_target": "1K",
+        "total_time": 23.082161478
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "style": "style-15",
+      "id": "8s8ezk68axrmt0cyh64918y6z8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/8s8ezk68axrmt0cyh64918y6z8",
+      "outputUrl": "https://replicate.delivery/xezq/y2eGlUFalRzwU6LXWVe7PMs1eOVXeWscAwHTkEkP6RrWvzsaB/tmptk2ogf52.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/02-zeke-bathroom-toothbrush__style-15__8s8ezk68axrmt0cyh64918y6z8.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-15__8s8ezk68axrmt0cyh64918y6z8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.793232235,
+        "resolution_target": "1K",
+        "total_time": 21.812700865
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "style": "style-17",
+      "id": "w449rp6895rmw0cyh64a4qdyd8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/w449rp6895rmw0cyh64a4qdyd8",
+      "outputUrl": "https://replicate.delivery/xezq/x1uww5GBLZbrG52SxdGY7Atf7TkxVjRHVP3IgqchzR35dmVLA/tmp10yxdq1s.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/02-zeke-bathroom-toothbrush__style-17__w449rp6895rmw0cyh64a4qdyd8.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-17__w449rp6895rmw0cyh64a4qdyd8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.433865268,
+        "resolution_target": "1K",
+        "total_time": 20.457351046
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "style": "style-19",
+      "id": "1hrs5v6899rmw0cyh64a6z1n0r",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/1hrs5v6899rmw0cyh64a6z1n0r",
+      "outputUrl": "https://replicate.delivery/xezq/IrlnX8YIv2aAFVWJDKSseetkjkQ8iN1ofZTnrhfHHseYfOzqF/tmpcdpolj44.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/02-zeke-bathroom-toothbrush__style-19__1hrs5v6899rmw0cyh64a6z1n0r.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-19__1hrs5v6899rmw0cyh64a6z1n0r.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 28.071146958,
+        "resolution_target": "1K",
+        "total_time": 28.100648183
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "style": "style-22",
+      "id": "y50wrme8b5rmt0cyh648g9h9pc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/y50wrme8b5rmt0cyh648g9h9pc",
+      "outputUrl": "https://replicate.delivery/xezq/dUQRkJmheqzeqEf9Xq6YDa5e4xo7RCpq1BNTL8UMrT6YvzsaB/tmpo2wz99sz.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/02-zeke-bathroom-toothbrush__style-22__y50wrme8b5rmt0cyh648g9h9pc.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-22__y50wrme8b5rmt0cyh648g9h9pc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.883261219,
+        "resolution_target": "1K",
+        "total_time": 22.916773032000002
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-04",
+      "id": "w2jze4p89xrmw0cyh64bc8zcg8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/w2jze4p89xrmw0cyh64bc8zcg8",
+      "outputUrl": "https://replicate.delivery/xezq/1LDZmo7piP48BliW55Xixh6ArK1yRR1dFlC3rgnNeRp2dmVLA/tmp2szyh28b.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/05-james-vite-explainer__style-04__w2jze4p89xrmw0cyh64bc8zcg8.jpeg",
+      "filename": "05-james-vite-explainer__style-04__w2jze4p89xrmw0cyh64bc8zcg8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 14.264180418,
+        "resolution_target": "1K",
+        "total_time": 14.287442488
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-05",
+      "id": "qrjk8wp89hrmw0cyh64amgt6x8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/qrjk8wp89hrmw0cyh64amgt6x8",
+      "outputUrl": "https://replicate.delivery/xezq/Weizrp4fnrpiC0CQ2hTcumhErlL8QvLNSM6dZ8n9mDTr7MrWA/tmpr8ql16nq.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/05-james-vite-explainer__style-05__qrjk8wp89hrmw0cyh64amgt6x8.jpeg",
+      "filename": "05-james-vite-explainer__style-05__qrjk8wp89hrmw0cyh64amgt6x8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 11.839696944,
+        "resolution_target": "1K",
+        "total_time": 11.880010795
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-07",
+      "id": "vr7pfap835rmw0cyh648d204y0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/vr7pfap835rmw0cyh648d204y0",
+      "outputUrl": "https://replicate.delivery/xezq/MuAUSNeG0V1fepbjJenVhP4cAm5scf85ZnfcyYEEr88O9OzqF/tmptsjybf35.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/05-james-vite-explainer__style-07__vr7pfap835rmw0cyh648d204y0.jpeg",
+      "filename": "05-james-vite-explainer__style-07__vr7pfap835rmw0cyh648d204y0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.425825905,
+        "resolution_target": "1K",
+        "total_time": 21.441060835
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-09",
+      "id": "c0h4trp815rmy0cyh64byqm90w",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/c0h4trp815rmy0cyh64byqm90w",
+      "outputUrl": "https://replicate.delivery/xezq/k6P6SztE8GrJLhldknqrkcfJ7VRRwe23v4MeeWYjVTrdvzsaB/tmpb214cbi1.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/05-james-vite-explainer__style-09__c0h4trp815rmy0cyh64byqm90w.jpeg",
+      "filename": "05-james-vite-explainer__style-09__c0h4trp815rmy0cyh64byqm90w.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 24.132799204,
+        "resolution_target": "1K",
+        "total_time": 24.147148687
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-11",
+      "id": "pbfj9j682drmr0cyh64a1r1av0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/pbfj9j682drmr0cyh64a1r1av0",
+      "outputUrl": "https://replicate.delivery/xezq/YXlHg8kRPfW1NSKYrp45H0Srd69qf8hKnxUOUioFJ2Yt7MrWA/tmp3133nor1.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/05-james-vite-explainer__style-11__pbfj9j682drmr0cyh64a1r1av0.jpeg",
+      "filename": "05-james-vite-explainer__style-11__pbfj9j682drmr0cyh64a1r1av0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.923194263,
+        "resolution_target": "1K",
+        "total_time": 13.936623473000001
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-13",
+      "id": "ptenxqy7mnrmr0cyh649y60ejm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/ptenxqy7mnrmr0cyh649y60ejm",
+      "outputUrl": "https://replicate.delivery/xezq/S5WD6Iq6bNLFBJ5wYNqW0G0pHZfmnpYGfKQ2bxM0LjW27MrWA/tmp3051jtme.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/05-james-vite-explainer__style-13__ptenxqy7mnrmr0cyh649y60ejm.jpeg",
+      "filename": "05-james-vite-explainer__style-13__ptenxqy7mnrmr0cyh649y60ejm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.976561695,
+        "resolution_target": "1K",
+        "total_time": 22.991900177
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-15",
+      "id": "sywrb9e86xrmw0cyh64azzgwyc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/sywrb9e86xrmw0cyh64azzgwyc",
+      "outputUrl": "https://replicate.delivery/xezq/5kLZYS52H9qEIRiuXtzADsePCCL9PfIFS3fPnTr3mxmk3ZWtA/tmpo8fgrac8.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/05-james-vite-explainer__style-15__sywrb9e86xrmw0cyh64azzgwyc.jpeg",
+      "filename": "05-james-vite-explainer__style-15__sywrb9e86xrmw0cyh64azzgwyc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.574223143,
+        "resolution_target": "1K",
+        "total_time": 19.585246577
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-17",
+      "id": "n4kb96y88nrmy0cyh64999h80c",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/n4kb96y88nrmy0cyh64999h80c",
+      "outputUrl": "https://replicate.delivery/xezq/JxzLSBhEFzLtNF1zV6NeAZDcIyZiQwGaZgS6pvSosKz7dmVLA/tmp8__b_gkg.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/05-james-vite-explainer__style-17__n4kb96y88nrmy0cyh64999h80c.jpeg",
+      "filename": "05-james-vite-explainer__style-17__n4kb96y88nrmy0cyh64999h80c.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 24.458798442,
+        "resolution_target": "1K",
+        "total_time": 24.469730729
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-19",
+      "id": "w8qzpap88hrmy0cyh649f0n2c8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/w8qzpap88hrmy0cyh649f0n2c8",
+      "outputUrl": "https://replicate.delivery/xezq/EeHDLYPDVK2qKqfnh1Bq65ufbfWbXaYyuKdPVqqx3au2uzsaB/tmpz8uy0k9e.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/05-james-vite-explainer__style-19__w8qzpap88hrmy0cyh649f0n2c8.jpeg",
+      "filename": "05-james-vite-explainer__style-19__w8qzpap88hrmy0cyh649f0n2c8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 14.17121361,
+        "resolution_target": "1K",
+        "total_time": 14.213100279
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-22",
+      "id": "k23bjyy821rmt0cyh64b8sjw68",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/k23bjyy821rmt0cyh64b8sjw68",
+      "outputUrl": "https://replicate.delivery/xezq/hsVKmCfRr12rC6lbA3WPCKfYwYupranDxOwCmMcDalLy7MrWA/tmpuhxf_2ul.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v6-focused-variants/05-james-vite-explainer__style-22__k23bjyy821rmt0cyh64b8sjw68.jpeg",
+      "filename": "05-james-vite-explainer__style-22__k23bjyy821rmt0cyh64b8sjw68.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.888428692,
+        "resolution_target": "1K",
+        "total_time": 18.901113823
+      }
+    }
+  ]
+}

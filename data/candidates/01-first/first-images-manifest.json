@@ -1,0 +1,102 @@
+{
+  "createdAt": "2026-06-01T21:11:17.793Z",
+  "model": "google/nano-banana-2",
+  "jobs": [
+    {
+      "slug": "01-james-wakeup-phone",
+      "speaker": "james",
+      "style": "style-01",
+      "id": "ca7ccapkasrmy0cygm39by92k0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/ca7ccapkasrmy0cygm39by92k0",
+      "outputUrl": "https://replicate.delivery/xezq/pdGnQMNT9y6nDZRCgTTtqBw0yb7kcf4JFrfhRbXtdstJe0VtA/tmpdm2pkk0l.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/images/01-james-wakeup-phone__ca7ccapkasrmy0cygm39by92k0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.981540265,
+        "resolution_target": "1K",
+        "total_time": 20.02232927
+      }
+    },
+    {
+      "slug": "01-zeke-bed-phone",
+      "speaker": "zeke",
+      "style": "style-01",
+      "id": "pkf4ewyk9hrmw0cygm39fzs868",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/pkf4ewyk9hrmw0cygm39fzs868",
+      "outputUrl": "https://replicate.delivery/xezq/u2FaW5CUjrKlBBI9BMbCW4MTfG2myPlgo2C0rWtxNRzJPdVLA/tmp2ryf8pqd.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/images/01-zeke-bed-phone__pkf4ewyk9hrmw0cygm39fzs868.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 29.426645478,
+        "resolution_target": "1K",
+        "total_time": 29.458841091
+      }
+    },
+    {
+      "slug": "02-james-matrix-news",
+      "speaker": "james",
+      "style": "style-02",
+      "id": "fv09h3ekvxrmy0cygm3az04yyc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/fv09h3ekvxrmy0cygm3az04yyc",
+      "outputUrl": "https://replicate.delivery/xezq/9cfa6JtQfRoaM0cVibTFYGoHfSkY04itRdfY38AWEIfffOdVLA/tmpccnq4njp.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/images/02-james-matrix-news__fv09h3ekvxrmy0cygm3az04yyc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 10.249075986,
+        "resolution_target": "1K",
+        "total_time": 10.261344883
+      }
+    },
+    {
+      "slug": "02-zeke-bathroom-robe",
+      "speaker": "zeke",
+      "style": "style-02",
+      "id": "jz51w2ykksrmr0cygm3aenbg1c",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/jz51w2ykksrmr0cygm3aenbg1c",
+      "outputUrl": "https://replicate.delivery/xezq/8j3JI1mvxHJUPhIySefgf4l80n3Qjev5NaUEljx9DGJU4praB/tmpnxeh865n.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/images/02-zeke-bathroom-robe__jz51w2ykksrmr0cygm3aenbg1c.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 15.903540726,
+        "resolution_target": "1K",
+        "total_time": 15.918672379
+      }
+    },
+    {
+      "slug": "03-james-open-source-laptop",
+      "speaker": "james",
+      "style": "style-03",
+      "id": "9ak59sykmdrmr0cygm39nkdewm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/9ak59sykmdrmr0cygm39nkdewm",
+      "outputUrl": "https://replicate.delivery/xezq/fLHe6fLrILM5fTElQ8cZrYkTUBqZOBn2uz4OZdIJoCCJ4praB/tmpwlkra_l_.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/images/03-james-open-source-laptop__9ak59sykmdrmr0cygm39nkdewm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.069488416,
+        "resolution_target": "1K",
+        "total_time": 13.088094923
+      }
+    },
+    {
+      "slug": "03-zeke-kitchen-coffee",
+      "speaker": "zeke",
+      "style": "style-03",
+      "id": "4r0bbhekknrmr0cygm3bqgy6n0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/4r0bbhekknrmr0cygm3bqgy6n0",
+      "outputUrl": "https://replicate.delivery/xezq/DQxZk6OW54LBDt7a97uMuSKXSJJ5hHDkyFb6OOS80JyhnuqF/tmp8bzjinsm.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/images/03-zeke-kitchen-coffee__4r0bbhekknrmr0cygm3bqgy6n0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 17.719557964,
+        "resolution_target": "1K",
+        "total_time": 17.735771657
+      }
+    }
+  ]
+}

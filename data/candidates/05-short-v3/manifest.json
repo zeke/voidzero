@@ -1,0 +1,1146 @@
+{
+  "createdAt": "2026-06-01T22:49:44.913Z",
+  "model": "google/nano-banana-2",
+  "jobs": [
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "sceneTitle": "1A. James: pre-dawn desk",
+      "speaker": "James",
+      "line": "Wake up babe. VoidZero just joined Cloudflare.",
+      "style": "style-14",
+      "id": "s38wbdzqwdrmr0cygng9cp1v6w",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/s38wbdzqwdrmr0cygng9cp1v6w",
+      "outputUrl": "https://replicate.delivery/xezq/GnwrefIlEotDT0xTzkmeyha2VpyBOqezqxryP4NOVBGMpvraB/tmpuuokvo2g.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/01-james-predawn-desk__style-14__s38wbdzqwdrmr0cygng9cp1v6w.jpeg",
+      "filename": "01-james-predawn-desk__style-14__s38wbdzqwdrmr0cygng9cp1v6w.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 10.06797268,
+        "resolution_target": "1K",
+        "total_time": 10.099058143
+      }
+    },
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "sceneTitle": "1A. James: pre-dawn desk",
+      "speaker": "James",
+      "line": "Wake up babe. VoidZero just joined Cloudflare.",
+      "style": "style-15",
+      "id": "1f4gpyfqwhrmt0cygng9267pxr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/1f4gpyfqwhrmt0cygng9267pxr",
+      "outputUrl": "https://replicate.delivery/xezq/PIlrLTSFh5obFRlAfKVoWt0pvfA3ShIeuzmXgo9xibK403VtA/tmp93nukyob.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/01-james-predawn-desk__style-15__1f4gpyfqwhrmt0cygng9267pxr.jpeg",
+      "filename": "01-james-predawn-desk__style-15__1f4gpyfqwhrmt0cygng9267pxr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.195903949,
+        "resolution_target": "1K",
+        "total_time": 19.230716596
+      }
+    },
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "sceneTitle": "1A. James: pre-dawn desk",
+      "speaker": "James",
+      "line": "Wake up babe. VoidZero just joined Cloudflare.",
+      "style": "style-16",
+      "id": "amnvcgfqwnrmy0cygngbrezy7r",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/amnvcgfqwnrmy0cygngbrezy7r",
+      "outputUrl": "https://replicate.delivery/xezq/RbSmtVGeqKxDViGIYrH5u4YPHvMe2efefPz7WijfeGs8d67qWA/tmptwzfaaf1.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/01-james-predawn-desk__style-16__amnvcgfqwnrmy0cygngbrezy7r.jpeg",
+      "filename": "01-james-predawn-desk__style-16__amnvcgfqwnrmy0cygngbrezy7r.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.834795598,
+        "resolution_target": "1K",
+        "total_time": 19.899430632
+      }
+    },
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "sceneTitle": "1A. James: pre-dawn desk",
+      "speaker": "James",
+      "line": "Wake up babe. VoidZero just joined Cloudflare.",
+      "style": "style-17",
+      "id": "w4t2cr7qyhrmw0cygng99tpqe8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/w4t2cr7qyhrmw0cygng99tpqe8",
+      "outputUrl": "https://replicate.delivery/xezq/xmiaYsXKkfUZLCMYREbkEbeWrX6BMea1JlRfXe0ObME1SfuqF/tmpx46svknt.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/01-james-predawn-desk__style-17__w4t2cr7qyhrmw0cygng99tpqe8.jpeg",
+      "filename": "01-james-predawn-desk__style-17__w4t2cr7qyhrmw0cygng99tpqe8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.30627629,
+        "resolution_target": "1K",
+        "total_time": 13.338509735
+      }
+    },
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "sceneTitle": "1A. James: pre-dawn desk",
+      "speaker": "James",
+      "line": "Wake up babe. VoidZero just joined Cloudflare.",
+      "style": "style-18",
+      "id": "pp050c7qwnrmr0cygng9ct8g14",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/pp050c7qwnrmr0cygng9ct8g14",
+      "outputUrl": "https://replicate.delivery/xezq/EqjIUiRfhmW6BqW9xm9tr9QQmzGMqMIdkkuZnbMPiBwN9dVLA/tmpqankjbue.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/01-james-predawn-desk__style-18__pp050c7qwnrmr0cygng9ct8g14.jpeg",
+      "filename": "01-james-predawn-desk__style-18__pp050c7qwnrmr0cygng9ct8g14.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.384471107,
+        "resolution_target": "1K",
+        "total_time": 18.418698841
+      }
+    },
+    {
+      "sceneSlug": "01-zeke-bed-phone",
+      "sceneTitle": "1B. Zeke: waking up",
+      "speaker": "Zeke",
+      "line": "Hey James. Good morning. You mean the veet guys? And why are you calling me babe?",
+      "style": "style-14",
+      "id": "xsey3bzqxhrmt0cygng8cgt6tg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/xsey3bzqxhrmt0cygng8cgt6tg",
+      "outputUrl": "https://replicate.delivery/xezq/kFhnVwBMqBYmOxjHc39ZbAWSUPqE74165urgtfDB5ehT67qWA/tmp062ydngt.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/01-zeke-bed-phone__style-14__xsey3bzqxhrmt0cygng8cgt6tg.jpeg",
+      "filename": "01-zeke-bed-phone__style-14__xsey3bzqxhrmt0cygng8cgt6tg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 10.072277716,
+        "resolution_target": "1K",
+        "total_time": 10.10778001
+      }
+    },
+    {
+      "sceneSlug": "01-zeke-bed-phone",
+      "sceneTitle": "1B. Zeke: waking up",
+      "speaker": "Zeke",
+      "line": "Hey James. Good morning. You mean the veet guys? And why are you calling me babe?",
+      "style": "style-15",
+      "id": "z49xgcfqwhrmy0cygng91pafdg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/z49xgcfqwhrmy0cygng91pafdg",
+      "outputUrl": "https://replicate.delivery/xezq/bIq3whnvleVf2k2hl7amRopwMG1sH8edBiuekNsTdwEUpvraB/tmpkdq0blz7.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/01-zeke-bed-phone__style-15__z49xgcfqwhrmy0cygng91pafdg.jpeg",
+      "filename": "01-zeke-bed-phone__style-15__z49xgcfqwhrmy0cygng91pafdg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 12.326397049,
+        "resolution_target": "1K",
+        "total_time": 12.371962715
+      }
+    },
+    {
+      "sceneSlug": "01-zeke-bed-phone",
+      "sceneTitle": "1B. Zeke: waking up",
+      "speaker": "Zeke",
+      "line": "Hey James. Good morning. You mean the veet guys? And why are you calling me babe?",
+      "style": "style-16",
+      "id": "gn65j7qr05rmt0cygng9fmr60r",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/gn65j7qr05rmt0cygng9fmr60r",
+      "outputUrl": "https://replicate.delivery/xezq/WAenIi3Jya03PaoPXksyyfx87kJaF2ek95lkEwZGmEP303VtA/tmp18bpg0h6.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/01-zeke-bed-phone__style-16__gn65j7qr05rmt0cygng9fmr60r.jpeg",
+      "filename": "01-zeke-bed-phone__style-16__gn65j7qr05rmt0cygng9fmr60r.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.62163816,
+        "resolution_target": "1K",
+        "total_time": 18.636093914
+      }
+    },
+    {
+      "sceneSlug": "01-zeke-bed-phone",
+      "sceneTitle": "1B. Zeke: waking up",
+      "speaker": "Zeke",
+      "line": "Hey James. Good morning. You mean the veet guys? And why are you calling me babe?",
+      "style": "style-17",
+      "id": "ch7kzcfr6srmt0cygng8f98w30",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/ch7kzcfr6srmt0cygng8f98w30",
+      "outputUrl": "https://replicate.delivery/xezq/pFi1tAYTW8KVGZ4wphxQtLGoGEqqBa5Dyx6zeqnkZcAL9dVLA/tmpkqq4fdlb.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/01-zeke-bed-phone__style-17__ch7kzcfr6srmt0cygng8f98w30.jpeg",
+      "filename": "01-zeke-bed-phone__style-17__ch7kzcfr6srmt0cygng8f98w30.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.453220936,
+        "resolution_target": "1K",
+        "total_time": 13.547518708
+      }
+    },
+    {
+      "sceneSlug": "01-zeke-bed-phone",
+      "sceneTitle": "1B. Zeke: waking up",
+      "speaker": "Zeke",
+      "line": "Hey James. Good morning. You mean the veet guys? And why are you calling me babe?",
+      "style": "style-18",
+      "id": "mdb1ctqr15rmt0cygng8dzt0km",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/mdb1ctqr15rmt0cygng8dzt0km",
+      "outputUrl": "https://replicate.delivery/xezq/RVDMUePMAgzYAKxmcYhdIhDG21FW2YV9z3zEu07YqEOO9dVLA/tmpy4h78er_.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/01-zeke-bed-phone__style-18__mdb1ctqr15rmt0cygng8dzt0km.jpeg",
+      "filename": "01-zeke-bed-phone__style-18__mdb1ctqr15rmt0cygng8dzt0km.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.277914388,
+        "resolution_target": "1K",
+        "total_time": 19.294977743
+      }
+    },
+    {
+      "sceneSlug": "02-james-kitchen-laptops",
+      "sceneTitle": "2A. James: kitchen multitask",
+      "speaker": "James",
+      "line": "Sorry, I just got excited. Yes, the veet people. Veet, Veet test, Rolldown, Oxc, Veet plus, the whole team.",
+      "style": "style-14",
+      "id": "6jxyh0fr7xrmy0cygng9ahcq3g",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/6jxyh0fr7xrmy0cygng9ahcq3g",
+      "outputUrl": "https://replicate.delivery/xezq/SZN1HuMTspZ4AlT1mZVU1xClBnDYxgyzIYQCeFuIPdWO9dVLA/tmp_a8kxour.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/02-james-kitchen-laptops__style-14__6jxyh0fr7xrmy0cygng9ahcq3g.jpeg",
+      "filename": "02-james-kitchen-laptops__style-14__6jxyh0fr7xrmy0cygng9ahcq3g.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.923469214,
+        "resolution_target": "1K",
+        "total_time": 18.974447579
+      }
+    },
+    {
+      "sceneSlug": "02-james-kitchen-laptops",
+      "sceneTitle": "2A. James: kitchen multitask",
+      "speaker": "James",
+      "line": "Sorry, I just got excited. Yes, the veet people. Veet, Veet test, Rolldown, Oxc, Veet plus, the whole team.",
+      "style": "style-15",
+      "id": "ybqq7rqr5hrmy0cygng9wadx5m",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/ybqq7rqr5hrmy0cygng9wadx5m",
+      "outputUrl": "https://replicate.delivery/xezq/xX1bgzU65RZSMJOzobe08KSeRU9xiWITwMUUWYEEwJxd67qWA/tmp1jn1gbp8.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/02-james-kitchen-laptops__style-15__ybqq7rqr5hrmy0cygng9wadx5m.jpeg",
+      "filename": "02-james-kitchen-laptops__style-15__ybqq7rqr5hrmy0cygng9wadx5m.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.167160086,
+        "resolution_target": "1K",
+        "total_time": 20.187189437
+      }
+    },
+    {
+      "sceneSlug": "02-james-kitchen-laptops",
+      "sceneTitle": "2A. James: kitchen multitask",
+      "speaker": "James",
+      "line": "Sorry, I just got excited. Yes, the veet people. Veet, Veet test, Rolldown, Oxc, Veet plus, the whole team.",
+      "style": "style-16",
+      "id": "f9t1e2fr0xrmt0cygng841teym",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/f9t1e2fr0xrmt0cygng841teym",
+      "outputUrl": "https://replicate.delivery/xezq/1pQ13u4zerxIYKaDPSdbw5wjlOu6BQsASZyYxrl2MYfd67qWA/tmphm7739hd.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/02-james-kitchen-laptops__style-16__f9t1e2fr0xrmt0cygng841teym.jpeg",
+      "filename": "02-james-kitchen-laptops__style-16__f9t1e2fr0xrmt0cygng841teym.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.056531328,
+        "resolution_target": "1K",
+        "total_time": 20.069235327
+      }
+    },
+    {
+      "sceneSlug": "02-james-kitchen-laptops",
+      "sceneTitle": "2A. James: kitchen multitask",
+      "speaker": "James",
+      "line": "Sorry, I just got excited. Yes, the veet people. Veet, Veet test, Rolldown, Oxc, Veet plus, the whole team.",
+      "style": "style-17",
+      "id": "mz7ha4qr6nrmy0cygng8rpmjaw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/mz7ha4qr6nrmy0cygng8rpmjaw",
+      "outputUrl": "https://replicate.delivery/xezq/p6POjpZHgtItBpVGyZk1egZBOg1kesFXccXfTzZewMl3pvraB/tmptdxoqeli.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/02-james-kitchen-laptops__style-17__mz7ha4qr6nrmy0cygng8rpmjaw.jpeg",
+      "filename": "02-james-kitchen-laptops__style-17__mz7ha4qr6nrmy0cygng8rpmjaw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.076829408,
+        "resolution_target": "1K",
+        "total_time": 20.116485006
+      }
+    },
+    {
+      "sceneSlug": "02-james-kitchen-laptops",
+      "sceneTitle": "2A. James: kitchen multitask",
+      "speaker": "James",
+      "line": "Sorry, I just got excited. Yes, the veet people. Veet, Veet test, Rolldown, Oxc, Veet plus, the whole team.",
+      "style": "style-18",
+      "id": "z2dsh67r6srmy0cygngbsy6ehg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/z2dsh67r6srmy0cygngbsy6ehg",
+      "outputUrl": "https://replicate.delivery/xezq/dCpAOZYcUdZ5Glp3gaA2ws9eLqgXtJgVagg1xAFAYiAM9dVLA/tmp3xg9zij9.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/02-james-kitchen-laptops__style-18__z2dsh67r6srmy0cygngbsy6ehg.jpeg",
+      "filename": "02-james-kitchen-laptops__style-18__z2dsh67r6srmy0cygngbsy6ehg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 14.878316172,
+        "resolution_target": "1K",
+        "total_time": 14.932685251
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "sceneTitle": "2B. Zeke: brushing teeth",
+      "speaker": "Zeke",
+      "line": "Huh. That’s actually big. Huh.",
+      "style": "style-14",
+      "id": "a2168afqzxrmt0cygngbkgh7pw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/a2168afqzxrmt0cygngbkgh7pw",
+      "outputUrl": "https://replicate.delivery/xezq/fq921o9e6xo9fomHEMgbwueAOf4KPuFTseAKEJp8TmQroedVLA/tmpa0wh7_zd.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/02-zeke-bathroom-toothbrush__style-14__a2168afqzxrmt0cygngbkgh7pw.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-14__a2168afqzxrmt0cygngbkgh7pw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 25.570616374,
+        "resolution_target": "1K",
+        "total_time": 25.595571103
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "sceneTitle": "2B. Zeke: brushing teeth",
+      "speaker": "Zeke",
+      "line": "Huh. That’s actually big. Huh.",
+      "style": "style-15",
+      "id": "2kbc5rfr55rmw0cygngapd54mc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/2kbc5rfr55rmw0cygngapd54mc",
+      "outputUrl": "https://replicate.delivery/xezq/vTWfHGrRGyz8aC70xiitJZoKemMtFhegyGRRwmaEySRE13VtA/tmpj9suj_2e.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/02-zeke-bathroom-toothbrush__style-15__2kbc5rfr55rmw0cygngapd54mc.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-15__2kbc5rfr55rmw0cygngapd54mc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 25.400337245,
+        "resolution_target": "1K",
+        "total_time": 25.424318337
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "sceneTitle": "2B. Zeke: brushing teeth",
+      "speaker": "Zeke",
+      "line": "Huh. That’s actually big. Huh.",
+      "style": "style-16",
+      "id": "x92d52fr6xrmr0cygngbhd866c",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/x92d52fr6xrmr0cygngbhd866c",
+      "outputUrl": "https://replicate.delivery/xezq/o2cFQytSkqIHFhZza2f8iC2WO7eOn5BcDryaGKcN98ng67qWA/tmp5sk2zheq.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/02-zeke-bathroom-toothbrush__style-16__x92d52fr6xrmr0cygngbhd866c.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-16__x92d52fr6xrmr0cygngbhd866c.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.837552725,
+        "resolution_target": "1K",
+        "total_time": 22.880520596
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "sceneTitle": "2B. Zeke: brushing teeth",
+      "speaker": "Zeke",
+      "line": "Huh. That’s actually big. Huh.",
+      "style": "style-17",
+      "id": "qwq6kt7qzxrmw0cygng9dv03km",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/qwq6kt7qzxrmw0cygng9dv03km",
+      "outputUrl": "https://replicate.delivery/xezq/rxzlvuFs4d66Ad80hPLrfYqYvdasOgWNDLmVPuIDKR6L9dVLA/tmp789v527j.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/02-zeke-bathroom-toothbrush__style-17__qwq6kt7qzxrmw0cygng9dv03km.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-17__qwq6kt7qzxrmw0cygng9dv03km.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 14.099656823,
+        "resolution_target": "1K",
+        "total_time": 14.136423812
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-toothbrush",
+      "sceneTitle": "2B. Zeke: brushing teeth",
+      "speaker": "Zeke",
+      "line": "Huh. That’s actually big. Huh.",
+      "style": "style-18",
+      "id": "wcw9ej7r71rmy0cygngbnq6cam",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/wcw9ej7r71rmy0cygngbnq6cam",
+      "outputUrl": "https://replicate.delivery/xezq/yrARTDQc4BovMhC3KR3XvdQZ1XHnUYyKOgUSSuBH3Y8nedVLA/tmp6y2d1t12.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/02-zeke-bathroom-toothbrush__style-18__wcw9ej7r71rmy0cygngbnq6cam.jpeg",
+      "filename": "02-zeke-bathroom-toothbrush__style-18__wcw9ej7r71rmy0cygngbnq6cam.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.993585904,
+        "resolution_target": "1K",
+        "total_time": 22.016831495
+      }
+    },
+    {
+      "sceneSlug": "03-james-standing-desk",
+      "sceneTitle": "3A. James: standing desk verify",
+      "speaker": "James",
+      "line": "The main thing they’re saying is: veet stays veet. MIT licensed, open source, vendor agnostic, community driven.",
+      "style": "style-14",
+      "id": "j4q22rzr49rmw0cygngb311ga4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/j4q22rzr49rmw0cygngb311ga4",
+      "outputUrl": "https://replicate.delivery/xezq/u9Z5kffnHOorXU4VlmEPd0pZVdEs6rsFXJpXzB9nTQfx03VtA/tmp_d8dn8sm.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/03-james-standing-desk__style-14__j4q22rzr49rmw0cygngb311ga4.jpeg",
+      "filename": "03-james-standing-desk__style-14__j4q22rzr49rmw0cygngb311ga4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 14.777795858,
+        "resolution_target": "1K",
+        "total_time": 14.866879869
+      }
+    },
+    {
+      "sceneSlug": "03-james-standing-desk",
+      "sceneTitle": "3A. James: standing desk verify",
+      "speaker": "James",
+      "line": "The main thing they’re saying is: veet stays veet. MIT licensed, open source, vendor agnostic, community driven.",
+      "style": "style-15",
+      "id": "qa3afr7r49rmt0cygngbdsx9xm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/qa3afr7r49rmt0cygngbdsx9xm",
+      "outputUrl": "https://replicate.delivery/xezq/0WQmBHRmpB4KC1GE0Jx9NuElGGHtUZj2ldwEY1z3bT8medVLA/tmphtc0tsef.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/03-james-standing-desk__style-15__qa3afr7r49rmt0cygngbdsx9xm.jpeg",
+      "filename": "03-james-standing-desk__style-15__qa3afr7r49rmt0cygngbdsx9xm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.524375055,
+        "resolution_target": "1K",
+        "total_time": 18.542408194
+      }
+    },
+    {
+      "sceneSlug": "03-james-standing-desk",
+      "sceneTitle": "3A. James: standing desk verify",
+      "speaker": "James",
+      "line": "The main thing they’re saying is: veet stays veet. MIT licensed, open source, vendor agnostic, community driven.",
+      "style": "style-16",
+      "id": "pxzvj67r1srmr0cygng8aj5d5g",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/pxzvj67r1srmr0cygng8aj5d5g",
+      "outputUrl": "https://replicate.delivery/xezq/OmFpSdmC9hrqBNLT40zRAE9WYzxWZPeHO3XnWXI5jyGO9dVLA/tmpk0jj63ln.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/03-james-standing-desk__style-16__pxzvj67r1srmr0cygng8aj5d5g.jpeg",
+      "filename": "03-james-standing-desk__style-16__pxzvj67r1srmr0cygng8aj5d5g.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.384888716,
+        "resolution_target": "1K",
+        "total_time": 19.399190496
+      }
+    },
+    {
+      "sceneSlug": "03-james-standing-desk",
+      "sceneTitle": "3A. James: standing desk verify",
+      "speaker": "James",
+      "line": "The main thing they’re saying is: veet stays veet. MIT licensed, open source, vendor agnostic, community driven.",
+      "style": "style-17",
+      "id": "2q6xg2qr5drmt0cygng9nqmxv4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/2q6xg2qr5drmt0cygng9nqmxv4",
+      "outputUrl": "https://replicate.delivery/xezq/rLYQx88Hy46hAtz34SBJM6hgXGMHcR1nOU3wSVCeB1AO9dVLA/tmp2mm51zt4.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/03-james-standing-desk__style-17__2q6xg2qr5drmt0cygng9nqmxv4.jpeg",
+      "filename": "03-james-standing-desk__style-17__2q6xg2qr5drmt0cygng9nqmxv4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.454657623,
+        "resolution_target": "1K",
+        "total_time": 19.533736404
+      }
+    },
+    {
+      "sceneSlug": "03-james-standing-desk",
+      "sceneTitle": "3A. James: standing desk verify",
+      "speaker": "James",
+      "line": "The main thing they’re saying is: veet stays veet. MIT licensed, open source, vendor agnostic, community driven.",
+      "style": "style-18",
+      "id": "30cs80fr5srmr0cygnga40c6a8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/30cs80fr5srmr0cygnga40c6a8",
+      "outputUrl": "https://replicate.delivery/xezq/Pv5NegvkSNyFfUEBJc8fooPW7fMbUVnKf7yXNHWXRIefO9dVLA/tmpml2edsbo.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/03-james-standing-desk__style-18__30cs80fr5srmr0cygnga40c6a8.jpeg",
+      "filename": "03-james-standing-desk__style-18__30cs80fr5srmr0cygnga40c6a8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.96736967,
+        "resolution_target": "1K",
+        "total_time": 20.053904349
+      }
+    },
+    {
+      "sceneSlug": "03-zeke-kitchen-coffee",
+      "sceneTitle": "3B. Zeke: pouring coffee",
+      "speaker": "Zeke",
+      "line": "Good. Because the fastest way to make JavaScript people nervous is to touch their build tool.",
+      "style": "style-14",
+      "id": "qq4e2rzr4nrmt0cygngbpyb1b8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/qq4e2rzr4nrmt0cygngbpyb1b8",
+      "outputUrl": "https://replicate.delivery/xezq/HZNwBccfJG2daSFVxGPveHGkpFbAxdA2SJHXililabgV67qWA/tmpjs5wxr32.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/03-zeke-kitchen-coffee__style-14__qq4e2rzr4nrmt0cygngbpyb1b8.jpeg",
+      "filename": "03-zeke-kitchen-coffee__style-14__qq4e2rzr4nrmt0cygngbpyb1b8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 11.886180557,
+        "resolution_target": "1K",
+        "total_time": 11.907293326
+      }
+    },
+    {
+      "sceneSlug": "03-zeke-kitchen-coffee",
+      "sceneTitle": "3B. Zeke: pouring coffee",
+      "speaker": "Zeke",
+      "line": "Good. Because the fastest way to make JavaScript people nervous is to touch their build tool.",
+      "style": "style-15",
+      "id": "bkkyyb7r4hrmy0cygng9rvqpqw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/bkkyyb7r4hrmy0cygng9rvqpqw",
+      "outputUrl": "https://replicate.delivery/xezq/LLzkLIdwX3KMKttp0CWj1f14eRkLMpnvFfXn3H7eBz2VpvraB/tmp1cduf_4w.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/03-zeke-kitchen-coffee__style-15__bkkyyb7r4hrmy0cygng9rvqpqw.jpeg",
+      "filename": "03-zeke-kitchen-coffee__style-15__bkkyyb7r4hrmy0cygng9rvqpqw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 12.318233882,
+        "resolution_target": "1K",
+        "total_time": 12.342472648
+      }
+    },
+    {
+      "sceneSlug": "03-zeke-kitchen-coffee",
+      "sceneTitle": "3B. Zeke: pouring coffee",
+      "speaker": "Zeke",
+      "line": "Good. Because the fastest way to make JavaScript people nervous is to touch their build tool.",
+      "style": "style-16",
+      "id": "trqqz5fqx9rmy0cygng91qdfx8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/trqqz5fqx9rmy0cygng91qdfx8",
+      "outputUrl": "https://replicate.delivery/xezq/AsRUCWWkBPKyNdhYg9l5MBFwrvuivOU1xKLgw4s7QNeK9dVLA/tmp8n9lqqzp.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/03-zeke-kitchen-coffee__style-16__trqqz5fqx9rmy0cygng91qdfx8.jpeg",
+      "filename": "03-zeke-kitchen-coffee__style-16__trqqz5fqx9rmy0cygng91qdfx8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 12.152018525999999,
+        "resolution_target": "1K",
+        "total_time": 12.184063695
+      }
+    },
+    {
+      "sceneSlug": "03-zeke-kitchen-coffee",
+      "sceneTitle": "3B. Zeke: pouring coffee",
+      "speaker": "Zeke",
+      "line": "Good. Because the fastest way to make JavaScript people nervous is to touch their build tool.",
+      "style": "style-17",
+      "id": "e5m2jgfr01rmt0cygng8e93xq4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/e5m2jgfr01rmt0cygng8e93xq4",
+      "outputUrl": "https://replicate.delivery/xezq/wXNcPwYCXjonNNqKFgQOLJqetgaVrMtcrdk2Hd9r3Ned67qWA/tmpgatiutdw.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/03-zeke-kitchen-coffee__style-17__e5m2jgfr01rmt0cygng8e93xq4.jpeg",
+      "filename": "03-zeke-kitchen-coffee__style-17__e5m2jgfr01rmt0cygng8e93xq4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.86736051,
+        "resolution_target": "1K",
+        "total_time": 19.900050492
+      }
+    },
+    {
+      "sceneSlug": "03-zeke-kitchen-coffee",
+      "sceneTitle": "3B. Zeke: pouring coffee",
+      "speaker": "Zeke",
+      "line": "Good. Because the fastest way to make JavaScript people nervous is to touch their build tool.",
+      "style": "style-18",
+      "id": "c3ej49zr8srmw0cygngasa3ab4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/c3ej49zr8srmw0cygngasa3ab4",
+      "outputUrl": "https://replicate.delivery/xezq/ba2loeuW3dWTNihUfJol08kZTHZ0RxeC3531JB7CUsMs03VtA/tmpxy8lrqhd.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/03-zeke-kitchen-coffee__style-18__c3ej49zr8srmw0cygngasa3ab4.jpeg",
+      "filename": "03-zeke-kitchen-coffee__style-18__c3ej49zr8srmw0cygngasa3ab4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.482056876,
+        "resolution_target": "1K",
+        "total_time": 13.567535779
+      }
+    },
+    {
+      "sceneSlug": "04-james-train-laptop",
+      "sceneTitle": "4A. James: nerdy commute",
+      "speaker": "James",
+      "line": "Veet is kind of the shared road now. Vue, SvelteKit, Nuxt, Astro, Solid, Qwik, Angular, React Router, TanStack Start, a lot of people are building on it.",
+      "style": "style-14",
+      "id": "xbx5vwqr59rmw0cygng9hm5jeg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/xbx5vwqr59rmw0cygng9hm5jeg",
+      "outputUrl": "https://replicate.delivery/xezq/eFQGHuEzm23uLSLNHk6nQ17PwSgTTqZ6YNuvzVXgsYjO9dVLA/tmpnus6zjqo.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/04-james-train-laptop__style-14__xbx5vwqr59rmw0cygng9hm5jeg.jpeg",
+      "filename": "04-james-train-laptop__style-14__xbx5vwqr59rmw0cygng9hm5jeg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.832808161,
+        "resolution_target": "1K",
+        "total_time": 19.85329069
+      }
+    },
+    {
+      "sceneSlug": "04-james-train-laptop",
+      "sceneTitle": "4A. James: nerdy commute",
+      "speaker": "James",
+      "line": "Veet is kind of the shared road now. Vue, SvelteKit, Nuxt, Astro, Solid, Qwik, Angular, React Router, TanStack Start, a lot of people are building on it.",
+      "style": "style-15",
+      "id": "hcvp9n7r35rmw0cygngbppyytm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/hcvp9n7r35rmw0cygngbppyytm",
+      "outputUrl": "https://replicate.delivery/xezq/ZMu54BMU1xrqGxH6Xmojr7wpK8uYYfSnVrPT7Os6AAkO9dVLA/tmp31eqqhyf.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/04-james-train-laptop__style-15__hcvp9n7r35rmw0cygngbppyytm.jpeg",
+      "filename": "04-james-train-laptop__style-15__hcvp9n7r35rmw0cygngbppyytm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.794451142,
+        "resolution_target": "1K",
+        "total_time": 20.82160139
+      }
+    },
+    {
+      "sceneSlug": "04-james-train-laptop",
+      "sceneTitle": "4A. James: nerdy commute",
+      "speaker": "James",
+      "line": "Veet is kind of the shared road now. Vue, SvelteKit, Nuxt, Astro, Solid, Qwik, Angular, React Router, TanStack Start, a lot of people are building on it.",
+      "style": "style-16",
+      "id": "883c41frb1rmr0cygng8x449xm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/883c41frb1rmr0cygng8x449xm",
+      "outputUrl": "https://replicate.delivery/xezq/e6tRIwXWiGQqCyCr0ywJux5s8jT0pAzzVqjnGwbOl3VL9dVLA/tmpdhna3sml.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/04-james-train-laptop__style-16__883c41frb1rmr0cygng8x449xm.jpeg",
+      "filename": "04-james-train-laptop__style-16__883c41frb1rmr0cygng8x449xm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.309988668999999,
+        "resolution_target": "1K",
+        "total_time": 13.365646382
+      }
+    },
+    {
+      "sceneSlug": "04-james-train-laptop",
+      "sceneTitle": "4A. James: nerdy commute",
+      "speaker": "James",
+      "line": "Veet is kind of the shared road now. Vue, SvelteKit, Nuxt, Astro, Solid, Qwik, Angular, React Router, TanStack Start, a lot of people are building on it.",
+      "style": "style-17",
+      "id": "xks9vnzr9nrmy0cygng9apx0d8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/xks9vnzr9nrmy0cygng9apx0d8",
+      "outputUrl": "https://replicate.delivery/xezq/zFVFeS8dQX37T6agsf1nFab5ncV5nFjcRLvXOdNZNNPg67qWA/tmpwco4jjbm.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/04-james-train-laptop__style-17__xks9vnzr9nrmy0cygng9apx0d8.jpeg",
+      "filename": "04-james-train-laptop__style-17__xks9vnzr9nrmy0cygng9apx0d8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 23.269488265,
+        "resolution_target": "1K",
+        "total_time": 23.295246434
+      }
+    },
+    {
+      "sceneSlug": "04-james-train-laptop",
+      "sceneTitle": "4A. James: nerdy commute",
+      "speaker": "James",
+      "line": "Veet is kind of the shared road now. Vue, SvelteKit, Nuxt, Astro, Solid, Qwik, Angular, React Router, TanStack Start, a lot of people are building on it.",
+      "style": "style-18",
+      "id": "p76mctzr99rmw0cygngbx6jmzw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/p76mctzr99rmw0cygngbx6jmzw",
+      "outputUrl": "https://replicate.delivery/xezq/cFPksA3TXXqKFhZMq5qujxHw2ecGcWXr04jyC9ECE1VO9dVLA/tmpmnkf5c39.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/04-james-train-laptop__style-18__p76mctzr99rmw0cygngbx6jmzw.jpeg",
+      "filename": "04-james-train-laptop__style-18__p76mctzr99rmw0cygngbx6jmzw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.345990157,
+        "resolution_target": "1K",
+        "total_time": 19.378409129
+      }
+    },
+    {
+      "sceneSlug": "04-zeke-garden-coffee",
+      "sceneTitle": "4B. Zeke: garden coffee",
+      "speaker": "Zeke",
+      "line": "Right. Not the same framework. Just the same road. Ideally one without potholes made of Webpack config.",
+      "style": "style-14",
+      "id": "tmqr6wfrc1rmw0cygng8qxhr1g",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/tmqr6wfrc1rmw0cygng8qxhr1g",
+      "outputUrl": "https://replicate.delivery/xezq/svQnFCY8rwpANJrCJ5dX04gyDhgJ8MUfiSiL2WYgjRGP9dVLA/tmpjn0gn205.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/04-zeke-garden-coffee__style-14__tmqr6wfrc1rmw0cygng8qxhr1g.jpeg",
+      "filename": "04-zeke-garden-coffee__style-14__tmqr6wfrc1rmw0cygng8qxhr1g.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.755236927,
+        "resolution_target": "1K",
+        "total_time": 20.830422397
+      }
+    },
+    {
+      "sceneSlug": "04-zeke-garden-coffee",
+      "sceneTitle": "4B. Zeke: garden coffee",
+      "speaker": "Zeke",
+      "line": "Right. Not the same framework. Just the same road. Ideally one without potholes made of Webpack config.",
+      "style": "style-15",
+      "id": "qbhn62fr3drmy0cygng84nrnhr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/qbhn62fr3drmy0cygng84nrnhr",
+      "outputUrl": "https://replicate.delivery/xezq/LCJKPUFAobLOO1bQ9uAq2ByY9JbZeH4gIwFmvpNxHb3K9dVLA/tmptjdcxzvx.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/04-zeke-garden-coffee__style-15__qbhn62fr3drmy0cygng84nrnhr.jpeg",
+      "filename": "04-zeke-garden-coffee__style-15__qbhn62fr3drmy0cygng84nrnhr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 11.776562635,
+        "resolution_target": "1K",
+        "total_time": 11.80564164
+      }
+    },
+    {
+      "sceneSlug": "04-zeke-garden-coffee",
+      "sceneTitle": "4B. Zeke: garden coffee",
+      "speaker": "Zeke",
+      "line": "Right. Not the same framework. Just the same road. Ideally one without potholes made of Webpack config.",
+      "style": "style-16",
+      "id": "4ewg6r7r6hrmy0cygngb9tjqzr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/4ewg6r7r6hrmy0cygngb9tjqzr",
+      "outputUrl": "https://replicate.delivery/xezq/Peqp4JGSQIwYQqHppLn95COlUlg51Snp7KLsyqJtEaCP9dVLA/tmp84t_rczu.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/04-zeke-garden-coffee__style-16__4ewg6r7r6hrmy0cygngb9tjqzr.jpeg",
+      "filename": "04-zeke-garden-coffee__style-16__4ewg6r7r6hrmy0cygngb9tjqzr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.920609334,
+        "resolution_target": "1K",
+        "total_time": 20.949464293
+      }
+    },
+    {
+      "sceneSlug": "04-zeke-garden-coffee",
+      "sceneTitle": "4B. Zeke: garden coffee",
+      "speaker": "Zeke",
+      "line": "Right. Not the same framework. Just the same road. Ideally one without potholes made of Webpack config.",
+      "style": "style-17",
+      "id": "6k7zr57r8nrmy0cygngafmxns8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/6k7zr57r8nrmy0cygngafmxns8",
+      "outputUrl": "https://replicate.delivery/xezq/9pEzdy6ffkso4Uuxl2No7iiB8YGIFSYSdaWH3lq5I2Wc67qWA/tmpc7hqj6e_.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/04-zeke-garden-coffee__style-17__6k7zr57r8nrmy0cygngafmxns8.jpeg",
+      "filename": "04-zeke-garden-coffee__style-17__6k7zr57r8nrmy0cygngafmxns8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.68449013,
+        "resolution_target": "1K",
+        "total_time": 18.725626579
+      }
+    },
+    {
+      "sceneSlug": "04-zeke-garden-coffee",
+      "sceneTitle": "4B. Zeke: garden coffee",
+      "speaker": "Zeke",
+      "line": "Right. Not the same framework. Just the same road. Ideally one without potholes made of Webpack config.",
+      "style": "style-18",
+      "id": "a4fgkxqr6srmr0cygnga0s6ahw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/a4fgkxqr6srmr0cygnga0s6ahw",
+      "outputUrl": "https://replicate.delivery/xezq/3IJRYX6L5sq7L99A4frrSNK1Af5ITlWSvCmiPLRT0nTc67qWA/tmpleem8ka4.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/04-zeke-garden-coffee__style-18__a4fgkxqr6srmr0cygnga0s6ahw.jpeg",
+      "filename": "04-zeke-garden-coffee__style-18__a4fgkxqr6srmr0cygnga0s6ahw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.437079718,
+        "resolution_target": "1K",
+        "total_time": 19.549131308
+      }
+    },
+    {
+      "sceneSlug": "05-james-coworking-fund",
+      "sceneTitle": "5A. James: community table",
+      "speaker": "James",
+      "line": "And they’re putting a million dollars into the veet ecosystem fund. Not a swag budget. Actual maintainer support, run by the veet core team.",
+      "style": "style-14",
+      "id": "672b6hfr4xrmr0cygnga5xq9t0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/672b6hfr4xrmr0cygnga5xq9t0",
+      "outputUrl": "https://replicate.delivery/xezq/UeM0WvIJQmWlBKsuPWNrf1KQzzM4Ko6cUNMy2cNvmAYe03VtA/tmpdzmhn07v.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/05-james-coworking-fund__style-14__672b6hfr4xrmr0cygnga5xq9t0.jpeg",
+      "filename": "05-james-coworking-fund__style-14__672b6hfr4xrmr0cygnga5xq9t0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.587789359,
+        "resolution_target": "1K",
+        "total_time": 21.630102239
+      }
+    },
+    {
+      "sceneSlug": "05-james-coworking-fund",
+      "sceneTitle": "5A. James: community table",
+      "speaker": "James",
+      "line": "And they’re putting a million dollars into the veet ecosystem fund. Not a swag budget. Actual maintainer support, run by the veet core team.",
+      "style": "style-15",
+      "id": "18c2pv7r5xrmr0cygng9zmhj3w",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/18c2pv7r5xrmr0cygng9zmhj3w",
+      "outputUrl": "https://replicate.delivery/xezq/4MuH3BeM6Wye5Ur8fCB8q56CFfR1ZJUK2CGxwQcZtodvpvraB/tmpjii11cid.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/05-james-coworking-fund__style-15__18c2pv7r5xrmr0cygng9zmhj3w.jpeg",
+      "filename": "05-james-coworking-fund__style-15__18c2pv7r5xrmr0cygng9zmhj3w.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.532625253,
+        "resolution_target": "1K",
+        "total_time": 18.624607633
+      }
+    },
+    {
+      "sceneSlug": "05-james-coworking-fund",
+      "sceneTitle": "5A. James: community table",
+      "speaker": "James",
+      "line": "And they’re putting a million dollars into the veet ecosystem fund. Not a swag budget. Actual maintainer support, run by the veet core team.",
+      "style": "style-16",
+      "id": "102fngfr5hrmy0cygngajevszc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/102fngfr5hrmy0cygngajevszc",
+      "outputUrl": "https://replicate.delivery/xezq/O6GMAYIuoS6lLVYfPNInVAr9wtYWQ9GjdWeHvvlfpBsw03VtA/tmpsfysv8rg.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/05-james-coworking-fund__style-16__102fngfr5hrmy0cygngajevszc.jpeg",
+      "filename": "05-james-coworking-fund__style-16__102fngfr5hrmy0cygngajevszc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 14.913363995,
+        "resolution_target": "1K",
+        "total_time": 14.934542538
+      }
+    },
+    {
+      "sceneSlug": "05-james-coworking-fund",
+      "sceneTitle": "5A. James: community table",
+      "speaker": "James",
+      "line": "And they’re putting a million dollars into the veet ecosystem fund. Not a swag budget. Actual maintainer support, run by the veet core team.",
+      "style": "style-17",
+      "id": "c5bve6qrcxrmr0cygngb23smfw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/c5bve6qrcxrmr0cygngb23smfw",
+      "outputUrl": "https://replicate.delivery/xezq/E1rzpLOSWHKuHxf8LoeT9w0k0VG4y7fjFke0AoZSuWAzpvraB/tmp_tclezdm.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/05-james-coworking-fund__style-17__c5bve6qrcxrmr0cygngb23smfw.jpeg",
+      "filename": "05-james-coworking-fund__style-17__c5bve6qrcxrmr0cygngb23smfw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.509371864,
+        "resolution_target": "1K",
+        "total_time": 19.556988628
+      }
+    },
+    {
+      "sceneSlug": "05-james-coworking-fund",
+      "sceneTitle": "5A. James: community table",
+      "speaker": "James",
+      "line": "And they’re putting a million dollars into the veet ecosystem fund. Not a swag budget. Actual maintainer support, run by the veet core team.",
+      "style": "style-18",
+      "id": "718sa5fr5srmw0cygngb0has1r",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/718sa5fr5srmw0cygngb0has1r",
+      "outputUrl": "https://replicate.delivery/xezq/9C9XvIl9ve3fCUDczRAXbcpLtNWbEVB5Xmx8xqaLivf603VtA/tmp_6grm91_.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/05-james-coworking-fund__style-18__718sa5fr5srmw0cygngb0has1r.jpeg",
+      "filename": "05-james-coworking-fund__style-18__718sa5fr5srmw0cygngb0has1r.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.899113149,
+        "resolution_target": "1K",
+        "total_time": 19.932002689
+      }
+    },
+    {
+      "sceneSlug": "05-zeke-garden-awake",
+      "sceneTitle": "5B. Zeke: awake in garden",
+      "speaker": "Zeke",
+      "line": "A million dollars for maintainers. Okay, now I’m awake.",
+      "style": "style-14",
+      "id": "nam0r37r6nrmr0cygngbf3nep8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/nam0r37r6nrmr0cygngbf3nep8",
+      "outputUrl": "https://replicate.delivery/xezq/anyRTeBgrhRgOKe17QQCVS0Wgt8SsSlvSy80evv7AP3503VtA/tmp_8risnyt.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/05-zeke-garden-awake__style-14__nam0r37r6nrmr0cygngbf3nep8.jpeg",
+      "filename": "05-zeke-garden-awake__style-14__nam0r37r6nrmr0cygngbf3nep8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.39655117,
+        "resolution_target": "1K",
+        "total_time": 19.430111508
+      }
+    },
+    {
+      "sceneSlug": "05-zeke-garden-awake",
+      "sceneTitle": "5B. Zeke: awake in garden",
+      "speaker": "Zeke",
+      "line": "A million dollars for maintainers. Okay, now I’m awake.",
+      "style": "style-15",
+      "id": "cx6pcyzr7xrmr0cygng91ngn18",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/cx6pcyzr7xrmr0cygng91ngn18",
+      "outputUrl": "https://replicate.delivery/xezq/zzAPNXPguQ7QDR2UmE7HtO6vyNjW4cNxX8LGRRTKpt0nedVLA/tmpa21i5bjq.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/05-zeke-garden-awake__style-15__cx6pcyzr7xrmr0cygng91ngn18.jpeg",
+      "filename": "05-zeke-garden-awake__style-15__cx6pcyzr7xrmr0cygng91ngn18.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.415366076,
+        "resolution_target": "1K",
+        "total_time": 22.513578673
+      }
+    },
+    {
+      "sceneSlug": "05-zeke-garden-awake",
+      "sceneTitle": "5B. Zeke: awake in garden",
+      "speaker": "Zeke",
+      "line": "A million dollars for maintainers. Okay, now I’m awake.",
+      "style": "style-16",
+      "id": "c8zpwsqrgdrmt0cygngbtx84p8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/c8zpwsqrgdrmt0cygngbtx84p8",
+      "outputUrl": "https://replicate.delivery/xezq/iTYDUdGr3j6AO5vPFiAxxvJxhKeRSo6M2HHrYYVx5F8J9dVLA/tmpy2auqw98.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/05-zeke-garden-awake__style-16__c8zpwsqrgdrmt0cygngbtx84p8.jpeg",
+      "filename": "05-zeke-garden-awake__style-16__c8zpwsqrgdrmt0cygngbtx84p8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 10.122228352,
+        "resolution_target": "1K",
+        "total_time": 10.136571069
+      }
+    },
+    {
+      "sceneSlug": "05-zeke-garden-awake",
+      "sceneTitle": "5B. Zeke: awake in garden",
+      "speaker": "Zeke",
+      "line": "A million dollars for maintainers. Okay, now I’m awake.",
+      "style": "style-17",
+      "id": "78n2q87r45rmr0cygngbwnnf44",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/78n2q87r45rmr0cygngbwnnf44",
+      "outputUrl": "https://replicate.delivery/xezq/iPnYN2nU6PZ7JRRpKCb2XY9QsemVasrrZienysVta15U67qWA/tmp28g1mjrk.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/05-zeke-garden-awake__style-17__78n2q87r45rmr0cygngbwnnf44.jpeg",
+      "filename": "05-zeke-garden-awake__style-17__78n2q87r45rmr0cygngbwnnf44.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 11.645572714,
+        "resolution_target": "1K",
+        "total_time": 11.662341621
+      }
+    },
+    {
+      "sceneSlug": "05-zeke-garden-awake",
+      "sceneTitle": "5B. Zeke: awake in garden",
+      "speaker": "Zeke",
+      "line": "A million dollars for maintainers. Okay, now I’m awake.",
+      "style": "style-18",
+      "id": "6gwhmczrbxrmt0cygngaby15p0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/6gwhmczrbxrmt0cygngaby15p0",
+      "outputUrl": "https://replicate.delivery/xezq/2VFe4PZQwi07O66R72hPqVD2Nml3vAFfU11kBbDXn6kd67qWA/tmpey4_t1jh.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/05-zeke-garden-awake__style-18__6gwhmczrbxrmt0cygngaby15p0.jpeg",
+      "filename": "05-zeke-garden-awake__style-18__6gwhmczrbxrmt0cygngaby15p0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.515355137,
+        "resolution_target": "1K",
+        "total_time": 20.596216399
+      }
+    },
+    {
+      "sceneSlug": "06-james-daylight-desk",
+      "sceneTitle": "6A. James: daylight wrap",
+      "speaker": "James",
+      "line": "That’s the opportunity: keep veet portable, make Cloudflare’s app tooling feel more like veet, and build better primitives for full-stack apps and agents.",
+      "style": "style-14",
+      "id": "0fn3g4zr5xrmw0cygngbfy1veg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/0fn3g4zr5xrmw0cygngbfy1veg",
+      "outputUrl": "https://replicate.delivery/xezq/z0phxaFZhhJ0FhLmkfhmJL8D3nKh4GngQfpAXhDwuOBc67qWA/tmpb2_5tgxq.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/06-james-daylight-desk__style-14__0fn3g4zr5xrmw0cygngbfy1veg.jpeg",
+      "filename": "06-james-daylight-desk__style-14__0fn3g4zr5xrmw0cygngbfy1veg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.102233291,
+        "resolution_target": "1K",
+        "total_time": 19.147605274
+      }
+    },
+    {
+      "sceneSlug": "06-james-daylight-desk",
+      "sceneTitle": "6A. James: daylight wrap",
+      "speaker": "James",
+      "line": "That’s the opportunity: keep veet portable, make Cloudflare’s app tooling feel more like veet, and build better primitives for full-stack apps and agents.",
+      "style": "style-15",
+      "id": "jamz8kqrb9rmw0cygng8zd96x4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/jamz8kqrb9rmw0cygng8zd96x4",
+      "outputUrl": "https://replicate.delivery/xezq/vToXs0ac64JJE1C2GHZPsi0BvKLa1Z5WCzz1DHLVVesO9dVLA/tmp9wgs4_bf.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/06-james-daylight-desk__style-15__jamz8kqrb9rmw0cygng8zd96x4.jpeg",
+      "filename": "06-james-daylight-desk__style-15__jamz8kqrb9rmw0cygng8zd96x4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.911837259,
+        "resolution_target": "1K",
+        "total_time": 20.000389229
+      }
+    },
+    {
+      "sceneSlug": "06-james-daylight-desk",
+      "sceneTitle": "6A. James: daylight wrap",
+      "speaker": "James",
+      "line": "That’s the opportunity: keep veet portable, make Cloudflare’s app tooling feel more like veet, and build better primitives for full-stack apps and agents.",
+      "style": "style-16",
+      "id": "nxb7zz7rbnrmw0cygngaezw47r",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/nxb7zz7rbnrmw0cygngaezw47r",
+      "outputUrl": "https://replicate.delivery/xezq/CKaCN4YfMjwZHi3PA8bGanDxC7qrnqP6xF1vYfsKoiRc67qWA/tmpdvg7zei6.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/06-james-daylight-desk__style-16__nxb7zz7rbnrmw0cygngaezw47r.jpeg",
+      "filename": "06-james-daylight-desk__style-16__nxb7zz7rbnrmw0cygngaezw47r.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.177903124,
+        "resolution_target": "1K",
+        "total_time": 19.222287272
+      }
+    },
+    {
+      "sceneSlug": "06-james-daylight-desk",
+      "sceneTitle": "6A. James: daylight wrap",
+      "speaker": "James",
+      "line": "That’s the opportunity: keep veet portable, make Cloudflare’s app tooling feel more like veet, and build better primitives for full-stack apps and agents.",
+      "style": "style-17",
+      "id": "65j15y7r6nrmr0cygng9yvzgrw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/65j15y7r6nrmr0cygng9yvzgrw",
+      "outputUrl": "https://replicate.delivery/xezq/h1YmWlfl9dTVIqK4fb2ceK2GUYhU5JmKef9xyNMnTF9cTfuqF/tmpazt9xlhs.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/06-james-daylight-desk__style-17__65j15y7r6nrmr0cygng9yvzgrw.jpeg",
+      "filename": "06-james-daylight-desk__style-17__65j15y7r6nrmr0cygng9yvzgrw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.417822572,
+        "resolution_target": "1K",
+        "total_time": 18.455710111
+      }
+    },
+    {
+      "sceneSlug": "06-james-daylight-desk",
+      "sceneTitle": "6A. James: daylight wrap",
+      "speaker": "James",
+      "line": "That’s the opportunity: keep veet portable, make Cloudflare’s app tooling feel more like veet, and build better primitives for full-stack apps and agents.",
+      "style": "style-18",
+      "id": "9gfr5zfrbxrmr0cygng8xqtzdc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/9gfr5zfrbxrmr0cygng8xqtzdc",
+      "outputUrl": "https://replicate.delivery/xezq/l6RzZhxxfRx3GqXP0jUTdn0HKUB3MjhAxQx2jCtLJqbO9dVLA/tmp1kxdp1d8.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/06-james-daylight-desk__style-18__9gfr5zfrbxrmr0cygng8xqtzdc.jpeg",
+      "filename": "06-james-daylight-desk__style-18__9gfr5zfrbxrmr0cygng8xqtzdc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.297051506,
+        "resolution_target": "1K",
+        "total_time": 19.32509938
+      }
+    },
+    {
+      "sceneSlug": "06-zeke-garden-finale",
+      "sceneTitle": "6B. Zeke: garden finale",
+      "speaker": "Zeke",
+      "line": "Great. The coffee is kicking in, our precious build tools are safe, and I'm your babe. Not a bad start to the day.",
+      "style": "style-14",
+      "id": "c50eg6zr7drmy0cygng8314ak8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/c50eg6zr7drmy0cygng8314ak8",
+      "outputUrl": "https://replicate.delivery/xezq/bXeZlODneqtCLEkA0wLQwXei6xbXJVBDYc1h6IX6tHI203VtA/tmpsdks2ors.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/06-zeke-garden-finale__style-14__c50eg6zr7drmy0cygng8314ak8.jpeg",
+      "filename": "06-zeke-garden-finale__style-14__c50eg6zr7drmy0cygng8314ak8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.543443714,
+        "resolution_target": "1K",
+        "total_time": 18.571720553
+      }
+    },
+    {
+      "sceneSlug": "06-zeke-garden-finale",
+      "sceneTitle": "6B. Zeke: garden finale",
+      "speaker": "Zeke",
+      "line": "Great. The coffee is kicking in, our precious build tools are safe, and I'm your babe. Not a bad start to the day.",
+      "style": "style-15",
+      "id": "n80n0kfraxrmr0cygnga86qjw4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/n80n0kfraxrmr0cygnga86qjw4",
+      "outputUrl": "https://replicate.delivery/xezq/eRLjdwGguTQDNqVOYnqIyY7R0o2kt7OHiQjfdTANx0xd67qWA/tmp4lr44lji.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/06-zeke-garden-finale__style-15__n80n0kfraxrmr0cygnga86qjw4.jpeg",
+      "filename": "06-zeke-garden-finale__style-15__n80n0kfraxrmr0cygnga86qjw4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.362846476,
+        "resolution_target": "1K",
+        "total_time": 20.412853608
+      }
+    },
+    {
+      "sceneSlug": "06-zeke-garden-finale",
+      "sceneTitle": "6B. Zeke: garden finale",
+      "speaker": "Zeke",
+      "line": "Great. The coffee is kicking in, our precious build tools are safe, and I'm your babe. Not a bad start to the day.",
+      "style": "style-16",
+      "id": "jtpejpzr7srmt0cygng85gnbhw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/jtpejpzr7srmt0cygng85gnbhw",
+      "outputUrl": "https://replicate.delivery/xezq/cyfSg7pyRiUWailtTfMqgtuEmxMyirb1gfHBdzd0p3Vt03VtA/tmp22mo2okd.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/06-zeke-garden-finale__style-16__jtpejpzr7srmt0cygng85gnbhw.jpeg",
+      "filename": "06-zeke-garden-finale__style-16__jtpejpzr7srmt0cygng85gnbhw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 12.742566503,
+        "resolution_target": "1K",
+        "total_time": 12.787874691
+      }
+    },
+    {
+      "sceneSlug": "06-zeke-garden-finale",
+      "sceneTitle": "6B. Zeke: garden finale",
+      "speaker": "Zeke",
+      "line": "Great. The coffee is kicking in, our precious build tools are safe, and I'm your babe. Not a bad start to the day.",
+      "style": "style-17",
+      "id": "xpn14tfr9nrmy0cygng84mma5c",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/xpn14tfr9nrmy0cygng84mma5c",
+      "outputUrl": "https://replicate.delivery/xezq/oYU0KkBILoJhI1jrmz4f61TsWFugJq2u5M8wlgNmXnhK9dVLA/tmpad6sye9t.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/06-zeke-garden-finale__style-17__xpn14tfr9nrmy0cygng84mma5c.jpeg",
+      "filename": "06-zeke-garden-finale__style-17__xpn14tfr9nrmy0cygng84mma5c.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 12.026776125,
+        "resolution_target": "1K",
+        "total_time": 12.06954326
+      }
+    },
+    {
+      "sceneSlug": "06-zeke-garden-finale",
+      "sceneTitle": "6B. Zeke: garden finale",
+      "speaker": "Zeke",
+      "line": "Great. The coffee is kicking in, our precious build tools are safe, and I'm your babe. Not a bad start to the day.",
+      "style": "style-18",
+      "id": "ghk38b7r55rmt0cygngachp61c",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/ghk38b7r55rmt0cygngachp61c",
+      "outputUrl": "https://replicate.delivery/xezq/ZWRf7EhzwW1YFqeLJyFXM8isWdZ6MiHGf7lpOty209i803VtA/tmpuwd4ooyb.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/short-v3-variants/06-zeke-garden-finale__style-18__ghk38b7r55rmt0cygngachp61c.jpeg",
+      "filename": "06-zeke-garden-finale__style-18__ghk38b7r55rmt0cygngachp61c.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.858756548,
+        "resolution_target": "1K",
+        "total_time": 20.894965748
+      }
+    }
+  ]
+}

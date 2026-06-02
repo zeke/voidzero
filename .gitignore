@@ -1,0 +1,19 @@
+# Local clone of the captioner (tracked in its own repo; PR'd upstream)
+nice-ass-captions/
+
+# Scratch / regenerable intermediates
+data/tmp/
+**/raw-*.mp4
+**/norm-*.mp4
+
+# Node
+node_modules/
+
+# Secrets
+.env
+.env.*
+
+# OS / editor noise
+.DS_Store
+**/.DS_Store
+*.log

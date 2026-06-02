@@ -1,0 +1,956 @@
+{
+  "createdAt": "2026-06-01T21:52:40.598Z",
+  "model": "google/nano-banana-2",
+  "jobs": [
+    {
+      "sceneSlug": "04-james-shared-foundation",
+      "sceneTitle": "4A. James: shared foundation",
+      "speaker": "James",
+      "line": "Vite is kind of the shared road now. Vue, SvelteKit, Nuxt, Astro, Solid, Qwik, Angular, React Router, TanStack Start, a lot of people are building on it.",
+      "style": "style-14",
+      "id": "ydr66dxq61rmw0cygmp801vxc8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/ydr66dxq61rmw0cygmp801vxc8",
+      "outputUrl": "https://replicate.delivery/xezq/NIkGJseAwfgQ60gfsb8zxF2JGvrU3bOBUJTXxbi1Kn1tJ2VtA/tmphvt_fllf.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/04-james-shared-foundation__style-14__ydr66dxq61rmw0cygmp801vxc8.jpeg",
+      "filename": "04-james-shared-foundation__style-14__ydr66dxq61rmw0cygmp801vxc8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.357518639,
+        "resolution_target": "1K",
+        "total_time": 13.38411731
+      }
+    },
+    {
+      "sceneSlug": "04-james-shared-foundation",
+      "sceneTitle": "4A. James: shared foundation",
+      "speaker": "James",
+      "line": "Vite is kind of the shared road now. Vue, SvelteKit, Nuxt, Astro, Solid, Qwik, Angular, React Router, TanStack Start, a lot of people are building on it.",
+      "style": "style-15",
+      "id": "9cr3bwxq5hrmt0cygmpb9tpw04",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/9cr3bwxq5hrmt0cygmpb9tpw04",
+      "outputUrl": "https://replicate.delivery/xezq/pgSZJPxBfPTNQqRzlzwAnreP2DmWQ1HEsURFP3MFrId2E7qWA/tmp06d7vayx.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/04-james-shared-foundation__style-15__9cr3bwxq5hrmt0cygmpb9tpw04.jpeg",
+      "filename": "04-james-shared-foundation__style-15__9cr3bwxq5hrmt0cygmpb9tpw04.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.321356006,
+        "resolution_target": "1K",
+        "total_time": 13.340402074
+      }
+    },
+    {
+      "sceneSlug": "04-james-shared-foundation",
+      "sceneTitle": "4A. James: shared foundation",
+      "speaker": "James",
+      "line": "Vite is kind of the shared road now. Vue, SvelteKit, Nuxt, Astro, Solid, Qwik, Angular, React Router, TanStack Start, a lot of people are building on it.",
+      "style": "style-16",
+      "id": "drkv4enq55rmr0cygmpa5c8gnw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/drkv4enq55rmr0cygmpa5c8gnw",
+      "outputUrl": "https://replicate.delivery/xezq/e7qkAMCnUUXlTi9gyQf9Wc3UV1ZZvcckcfjfZCn3JFjxTsraB/tmp3nkdswxb.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/04-james-shared-foundation__style-16__drkv4enq55rmr0cygmpa5c8gnw.jpeg",
+      "filename": "04-james-shared-foundation__style-16__drkv4enq55rmr0cygmpa5c8gnw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.604111003,
+        "resolution_target": "1K",
+        "total_time": 19.630662689
+      }
+    },
+    {
+      "sceneSlug": "04-james-shared-foundation",
+      "sceneTitle": "4A. James: shared foundation",
+      "speaker": "James",
+      "line": "Vite is kind of the shared road now. Vue, SvelteKit, Nuxt, Astro, Solid, Qwik, Angular, React Router, TanStack Start, a lot of people are building on it.",
+      "style": "style-17",
+      "id": "swfhbs5q6drmw0cygmpbxwbww0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/swfhbs5q6drmw0cygmpbxwbww0",
+      "outputUrl": "https://replicate.delivery/xezq/C95W3gDQO2I8GJzIkRXa7nPoM2eFXGzJkoajxtcQeh5zE7qWA/tmpo3bo279l.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/04-james-shared-foundation__style-17__swfhbs5q6drmw0cygmpbxwbww0.jpeg",
+      "filename": "04-james-shared-foundation__style-17__swfhbs5q6drmw0cygmpbxwbww0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 10.789107231,
+        "resolution_target": "1K",
+        "total_time": 10.799044763
+      }
+    },
+    {
+      "sceneSlug": "04-james-shared-foundation",
+      "sceneTitle": "4A. James: shared foundation",
+      "speaker": "James",
+      "line": "Vite is kind of the shared road now. Vue, SvelteKit, Nuxt, Astro, Solid, Qwik, Angular, React Router, TanStack Start, a lot of people are building on it.",
+      "style": "style-18",
+      "id": "r1jvw9dq7xrmy0cygmp8cfhhcr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/r1jvw9dq7xrmy0cygmp8cfhhcr",
+      "outputUrl": "https://replicate.delivery/xezq/rDbGAVytLezFS66eMOTRpvvSPurgTfmw2yHEeuftruecPxuqF/tmpnjps3dxf.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/04-james-shared-foundation__style-18__r1jvw9dq7xrmy0cygmp8cfhhcr.jpeg",
+      "filename": "04-james-shared-foundation__style-18__r1jvw9dq7xrmy0cygmp8cfhhcr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.300589847,
+        "resolution_target": "1K",
+        "total_time": 20.310835782
+      }
+    },
+    {
+      "sceneSlug": "04-zeke-plant-garden",
+      "sceneTitle": "4B. Zeke: plant garden",
+      "speaker": "Zeke",
+      "line": "Right. Not everyone use the same framework. More like, can we at least agree the road should be fast?",
+      "style": "style-14",
+      "id": "0eha83xq5xrmt0cygmp9a1s66m",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/0eha83xq5xrmt0cygmp9a1s66m",
+      "outputUrl": "https://replicate.delivery/xezq/HO5WiExxS5qsN10kNeX2NY9eAIewEMgqnlfxBFLUjq7yTsraB/tmp6hlfhnww.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/04-zeke-plant-garden__style-14__0eha83xq5xrmt0cygmp9a1s66m.jpeg",
+      "filename": "04-zeke-plant-garden__style-14__0eha83xq5xrmt0cygmp9a1s66m.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.559033992,
+        "resolution_target": "1K",
+        "total_time": 19.569890943
+      }
+    },
+    {
+      "sceneSlug": "04-zeke-plant-garden",
+      "sceneTitle": "4B. Zeke: plant garden",
+      "speaker": "Zeke",
+      "line": "Right. Not everyone use the same framework. More like, can we at least agree the road should be fast?",
+      "style": "style-15",
+      "id": "6mkvgynqk5rmr0cygmpbmyqzd4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/6mkvgynqk5rmr0cygmpbmyqzd4",
+      "outputUrl": "https://replicate.delivery/xezq/n0xZ6be3G5V1M6VAbUYRFgzFJQ7sZ8GoASJNNK9x6SyeE7qWA/tmpeut9asf0.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/04-zeke-plant-garden__style-15__6mkvgynqk5rmr0cygmpbmyqzd4.jpeg",
+      "filename": "04-zeke-plant-garden__style-15__6mkvgynqk5rmr0cygmpbmyqzd4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.289182462,
+        "resolution_target": "1K",
+        "total_time": 20.299404854
+      }
+    },
+    {
+      "sceneSlug": "04-zeke-plant-garden",
+      "sceneTitle": "4B. Zeke: plant garden",
+      "speaker": "Zeke",
+      "line": "Right. Not everyone use the same framework. More like, can we at least agree the road should be fast?",
+      "style": "style-16",
+      "id": "ygp1hpnqmhrmy0cygmp8kz89x8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/ygp1hpnqmhrmy0cygmp8kz89x8",
+      "outputUrl": "https://replicate.delivery/xezq/bpzf2yrU7qygIqCR6YP38lkaLfYPHBhf9Ph6zCKd8vJnJ2VtA/tmph1tjbetf.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/04-zeke-plant-garden__style-16__ygp1hpnqmhrmy0cygmp8kz89x8.jpeg",
+      "filename": "04-zeke-plant-garden__style-16__ygp1hpnqmhrmy0cygmp8kz89x8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 10.720920527,
+        "resolution_target": "1K",
+        "total_time": 10.778124453
+      }
+    },
+    {
+      "sceneSlug": "04-zeke-plant-garden",
+      "sceneTitle": "4B. Zeke: plant garden",
+      "speaker": "Zeke",
+      "line": "Right. Not everyone use the same framework. More like, can we at least agree the road should be fast?",
+      "style": "style-17",
+      "id": "shetgbdqn1rmt0cygmp9353krr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/shetgbdqn1rmt0cygmp9353krr",
+      "outputUrl": "https://replicate.delivery/xezq/7Koic3FRolKGAV5Kkv7GSfDxdoIOPME0j7kBvrLj0vbaidVLA/tmpor4mej30.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/04-zeke-plant-garden__style-17__shetgbdqn1rmt0cygmp9353krr.jpeg",
+      "filename": "04-zeke-plant-garden__style-17__shetgbdqn1rmt0cygmp9353krr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 11.164830932,
+        "resolution_target": "1K",
+        "total_time": 11.191756823
+      }
+    },
+    {
+      "sceneSlug": "04-zeke-plant-garden",
+      "sceneTitle": "4B. Zeke: plant garden",
+      "speaker": "Zeke",
+      "line": "Right. Not everyone use the same framework. More like, can we at least agree the road should be fast?",
+      "style": "style-18",
+      "id": "j2t418dqkxrmr0cygmp93he51m",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/j2t418dqkxrmr0cygmp93he51m",
+      "outputUrl": "https://replicate.delivery/xezq/fbYqxHWe5Zqk3E0glFGVNKmfeBcjim0lomFBuXIbbIeGoYX1C/tmphsimk0pt.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/04-zeke-plant-garden__style-18__j2t418dqkxrmr0cygmp93he51m.jpeg",
+      "filename": "04-zeke-plant-garden__style-18__j2t418dqkxrmr0cygmp93he51m.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 23.852206141,
+        "resolution_target": "1K",
+        "total_time": 23.868772895
+      }
+    },
+    {
+      "sceneSlug": "05-james-ecosystem-fund",
+      "sceneTitle": "5A. James: ecosystem fund",
+      "speaker": "James",
+      "line": "Cloudflare is also putting one million dollars into a Vite ecosystem fund, run by the Vite core team.",
+      "style": "style-14",
+      "id": "ctyt8cxqj5rmr0cygmp8crdn50",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/ctyt8cxqj5rmr0cygmp8crdn50",
+      "outputUrl": "https://replicate.delivery/xezq/yiW0i5ZJfgXZDK6zeIVFtBZQWDI1C6m39POUEkccupK8E7qWA/tmpgzlyvb_n.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/05-james-ecosystem-fund__style-14__ctyt8cxqj5rmr0cygmp8crdn50.jpeg",
+      "filename": "05-james-ecosystem-fund__style-14__ctyt8cxqj5rmr0cygmp8crdn50.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.731003655,
+        "resolution_target": "1K",
+        "total_time": 19.742887523
+      }
+    },
+    {
+      "sceneSlug": "05-james-ecosystem-fund",
+      "sceneTitle": "5A. James: ecosystem fund",
+      "speaker": "James",
+      "line": "Cloudflare is also putting one million dollars into a Vite ecosystem fund, run by the Vite core team.",
+      "style": "style-15",
+      "id": "09e63a5qjsrmw0cygmpb43ngm0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/09e63a5qjsrmw0cygmpb43ngm0",
+      "outputUrl": "https://replicate.delivery/xezq/Aw2flzRPVh3PdKGr2on8brvgZzHSxKgglu28ir9a18eeJ2VtA/tmppfrg0647.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/05-james-ecosystem-fund__style-15__09e63a5qjsrmw0cygmpb43ngm0.jpeg",
+      "filename": "05-james-ecosystem-fund__style-15__09e63a5qjsrmw0cygmpb43ngm0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.181766105,
+        "resolution_target": "1K",
+        "total_time": 21.191628644
+      }
+    },
+    {
+      "sceneSlug": "05-james-ecosystem-fund",
+      "sceneTitle": "5A. James: ecosystem fund",
+      "speaker": "James",
+      "line": "Cloudflare is also putting one million dollars into a Vite ecosystem fund, run by the Vite core team.",
+      "style": "style-16",
+      "id": "pjj72cnqssrmy0cygmp8q8c41m",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/pjj72cnqssrmy0cygmp8q8c41m",
+      "outputUrl": "https://replicate.delivery/xezq/IBCl6KjkLdbTLxchHTiNeNGmgufDoD6XIQVB3Esyezy3J2VtA/tmpprphmeir.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/05-james-ecosystem-fund__style-16__pjj72cnqssrmy0cygmp8q8c41m.jpeg",
+      "filename": "05-james-ecosystem-fund__style-16__pjj72cnqssrmy0cygmp8q8c41m.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.423819917,
+        "resolution_target": "1K",
+        "total_time": 18.440483829
+      }
+    },
+    {
+      "sceneSlug": "05-james-ecosystem-fund",
+      "sceneTitle": "5A. James: ecosystem fund",
+      "speaker": "James",
+      "line": "Cloudflare is also putting one million dollars into a Vite ecosystem fund, run by the Vite core team.",
+      "style": "style-17",
+      "id": "fye1qn5qjdrmt0cygmpb0zbk6r",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/fye1qn5qjdrmt0cygmpb0zbk6r",
+      "outputUrl": "https://replicate.delivery/xezq/TnxV9Vt9bewoKqaMwS0KXVnW0oDcXzy8eil8vs1LGf13J2VtA/tmpucmuxtnm.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/05-james-ecosystem-fund__style-17__fye1qn5qjdrmt0cygmpb0zbk6r.jpeg",
+      "filename": "05-james-ecosystem-fund__style-17__fye1qn5qjdrmt0cygmpb0zbk6r.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.209484764,
+        "resolution_target": "1K",
+        "total_time": 18.221385485
+      }
+    },
+    {
+      "sceneSlug": "05-james-ecosystem-fund",
+      "sceneTitle": "5A. James: ecosystem fund",
+      "speaker": "James",
+      "line": "Cloudflare is also putting one million dollars into a Vite ecosystem fund, run by the Vite core team.",
+      "style": "style-18",
+      "id": "zva4n9xqrsrmt0cygmpaj6d4km",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/zva4n9xqrsrmt0cygmpaj6d4km",
+      "outputUrl": "https://replicate.delivery/xezq/QcSGar8CAPLoOZpMnDbErB1dIT8bbNe3vSmd7x6QvFaeE7qWA/tmp9254ka__.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/05-james-ecosystem-fund__style-18__zva4n9xqrsrmt0cygmpaj6d4km.jpeg",
+      "filename": "05-james-ecosystem-fund__style-18__zva4n9xqrsrmt0cygmpaj6d4km.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.597565868,
+        "resolution_target": "1K",
+        "total_time": 19.623899944
+      }
+    },
+    {
+      "sceneSlug": "05-zeke-maintainer-garden",
+      "sceneTitle": "5B. Zeke: maintainer garden",
+      "speaker": "Zeke",
+      "line": "Paying maintainers. I like this part. We should make open source but with rent money a trend.",
+      "style": "style-14",
+      "id": "vwe9pjdqnnrmy0cygmp8pw58dr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/vwe9pjdqnnrmy0cygmp8pw58dr",
+      "outputUrl": "https://replicate.delivery/xezq/JfKjJYV7XmS3Eit2dbCWRNcpGIrLNepHf8TbmFI4cAufTsraB/tmpp0js8c76.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/05-zeke-maintainer-garden__style-14__vwe9pjdqnnrmy0cygmp8pw58dr.jpeg",
+      "filename": "05-zeke-maintainer-garden__style-14__vwe9pjdqnnrmy0cygmp8pw58dr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.115799012,
+        "resolution_target": "1K",
+        "total_time": 22.13955643
+      }
+    },
+    {
+      "sceneSlug": "05-zeke-maintainer-garden",
+      "sceneTitle": "5B. Zeke: maintainer garden",
+      "speaker": "Zeke",
+      "line": "Paying maintainers. I like this part. We should make open source but with rent money a trend.",
+      "style": "style-15",
+      "id": "yzypaf5qmhrmr0cygmpbk23yx0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/yzypaf5qmhrmr0cygmpbk23yx0",
+      "outputUrl": "https://replicate.delivery/xezq/80eJISwt7zXsdSID5BiYqyoMjysB69NwccgYiIEPpHKbidVLA/tmppjhaige7.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/05-zeke-maintainer-garden__style-15__yzypaf5qmhrmr0cygmpbk23yx0.jpeg",
+      "filename": "05-zeke-maintainer-garden__style-15__yzypaf5qmhrmr0cygmpbk23yx0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.733720907,
+        "resolution_target": "1K",
+        "total_time": 13.743695544
+      }
+    },
+    {
+      "sceneSlug": "05-zeke-maintainer-garden",
+      "sceneTitle": "5B. Zeke: maintainer garden",
+      "speaker": "Zeke",
+      "line": "Paying maintainers. I like this part. We should make open source but with rent money a trend.",
+      "style": "style-16",
+      "id": "jk0wg7xqkxrmw0cygmpb6xtnsw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/jk0wg7xqkxrmw0cygmpb6xtnsw",
+      "outputUrl": "https://replicate.delivery/xezq/nLkArFY2fFQoO6qDLeUjZvdSyFlEfijTF2ISrqP4a5j3J2VtA/tmpit4e9nds.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/05-zeke-maintainer-garden__style-16__jk0wg7xqkxrmw0cygmpb6xtnsw.jpeg",
+      "filename": "05-zeke-maintainer-garden__style-16__jk0wg7xqkxrmw0cygmpb6xtnsw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.759144979,
+        "resolution_target": "1K",
+        "total_time": 18.782807718
+      }
+    },
+    {
+      "sceneSlug": "05-zeke-maintainer-garden",
+      "sceneTitle": "5B. Zeke: maintainer garden",
+      "speaker": "Zeke",
+      "line": "Paying maintainers. I like this part. We should make open source but with rent money a trend.",
+      "style": "style-17",
+      "id": "es5jk6xqmhrmt0cygmpbt7ymdm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/es5jk6xqmhrmt0cygmpbt7ymdm",
+      "outputUrl": "https://replicate.delivery/xezq/tiRaBhdfPAUnK6E6gDidUphOkxCpiT3J4MoqSi63dYvfE7qWA/tmpdip_ekut.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/05-zeke-maintainer-garden__style-17__es5jk6xqmhrmt0cygmpbt7ymdm.jpeg",
+      "filename": "05-zeke-maintainer-garden__style-17__es5jk6xqmhrmt0cygmpbt7ymdm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.585682034,
+        "resolution_target": "1K",
+        "total_time": 22.607411041
+      }
+    },
+    {
+      "sceneSlug": "05-zeke-maintainer-garden",
+      "sceneTitle": "5B. Zeke: maintainer garden",
+      "speaker": "Zeke",
+      "line": "Paying maintainers. I like this part. We should make open source but with rent money a trend.",
+      "style": "style-18",
+      "id": "qjabjcdqmsrmt0cygmp88rf7m4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/qjabjcdqmsrmt0cygmp88rf7m4",
+      "outputUrl": "https://replicate.delivery/xezq/ULWfu5KPplzLekcJERQxfJLcRv2hc4fLnNB1XefKxmyVPxuqF/tmprhjspq2u.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/05-zeke-maintainer-garden__style-18__qjabjcdqmsrmt0cygmp88rf7m4.jpeg",
+      "filename": "05-zeke-maintainer-garden__style-18__qjabjcdqmsrmt0cygmp88rf7m4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.859764873,
+        "resolution_target": "1K",
+        "total_time": 20.875008224
+      }
+    },
+    {
+      "sceneSlug": "06-james-workerd-lab",
+      "sceneTitle": "6A. James: runtime lab",
+      "speaker": "James",
+      "line": "The Cloudflare part already makes sense technically. The Vite Environment API lets server code run somewhere other than Node during dev. Cloudflare built the Vite plugin on that, so your local code can run in workerd.",
+      "style": "style-14",
+      "id": "gfav8kdqknrmw0cygmp8q62nxm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/gfav8kdqknrmw0cygmp8q62nxm",
+      "outputUrl": "https://replicate.delivery/xezq/eJ6peauhRrvO502m6PuG12MmjN1nTwfUfZFexyKKfPRMNxuqF/tmphhh0dzm3.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/06-james-workerd-lab__style-14__gfav8kdqknrmw0cygmp8q62nxm.jpeg",
+      "filename": "06-james-workerd-lab__style-14__gfav8kdqknrmw0cygmp8q62nxm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 11.958835741,
+        "resolution_target": "1K",
+        "total_time": 11.990656871
+      }
+    },
+    {
+      "sceneSlug": "06-james-workerd-lab",
+      "sceneTitle": "6A. James: runtime lab",
+      "speaker": "James",
+      "line": "The Cloudflare part already makes sense technically. The Vite Environment API lets server code run somewhere other than Node during dev. Cloudflare built the Vite plugin on that, so your local code can run in workerd.",
+      "style": "style-15",
+      "id": "18eea4nqrdrmy0cygmp8daqp9m",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/18eea4nqrdrmy0cygmp8daqp9m",
+      "outputUrl": "https://replicate.delivery/xezq/4ecsE3lkCpQZf0zIQ02qbwffiuQfj3vcdc2n6esBxgKkNxuqF/tmp6pwqpr2y.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/06-james-workerd-lab__style-15__18eea4nqrdrmy0cygmp8daqp9m.jpeg",
+      "filename": "06-james-workerd-lab__style-15__18eea4nqrdrmy0cygmp8daqp9m.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.406182657,
+        "resolution_target": "1K",
+        "total_time": 13.429340974
+      }
+    },
+    {
+      "sceneSlug": "06-james-workerd-lab",
+      "sceneTitle": "6A. James: runtime lab",
+      "speaker": "James",
+      "line": "The Cloudflare part already makes sense technically. The Vite Environment API lets server code run somewhere other than Node during dev. Cloudflare built the Vite plugin on that, so your local code can run in workerd.",
+      "style": "style-16",
+      "id": "qxw095dqrdrmw0cygmp8jydsr8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/qxw095dqrdrmw0cygmp8jydsr8",
+      "outputUrl": "https://replicate.delivery/xezq/fNlNQeXpbvpVl0fdogzEN2cZTrg0nfTkrjqpIl4kRUDzTsraB/tmp0gnocq7o.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/06-james-workerd-lab__style-16__qxw095dqrdrmw0cygmp8jydsr8.jpeg",
+      "filename": "06-james-workerd-lab__style-16__qxw095dqrdrmw0cygmp8jydsr8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.463194741,
+        "resolution_target": "1K",
+        "total_time": 19.483313078
+      }
+    },
+    {
+      "sceneSlug": "06-james-workerd-lab",
+      "sceneTitle": "6A. James: runtime lab",
+      "speaker": "James",
+      "line": "The Cloudflare part already makes sense technically. The Vite Environment API lets server code run somewhere other than Node during dev. Cloudflare built the Vite plugin on that, so your local code can run in workerd.",
+      "style": "style-17",
+      "id": "ya92m3nqqnrmt0cygmp82xnxy0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/ya92m3nqqnrmt0cygmp82xnxy0",
+      "outputUrl": "https://replicate.delivery/xezq/GMPLvklvJQIYLVub3pY6bzXx2fTJSkMASsNeeZwuvKx3J2VtA/tmpwh4zjoph.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/06-james-workerd-lab__style-17__ya92m3nqqnrmt0cygmp82xnxy0.jpeg",
+      "filename": "06-james-workerd-lab__style-17__ya92m3nqqnrmt0cygmp82xnxy0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.003620337,
+        "resolution_target": "1K",
+        "total_time": 19.046582016
+      }
+    },
+    {
+      "sceneSlug": "06-james-workerd-lab",
+      "sceneTitle": "6A. James: runtime lab",
+      "speaker": "James",
+      "line": "The Cloudflare part already makes sense technically. The Vite Environment API lets server code run somewhere other than Node during dev. Cloudflare built the Vite plugin on that, so your local code can run in workerd.",
+      "style": "style-18",
+      "id": "zxeam0xqs1rmw0cygmp9egrpgr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/zxeam0xqs1rmw0cygmp9egrpgr",
+      "outputUrl": "https://replicate.delivery/xezq/t0EQjO0oo3YkCxIG4Q9QpvESbfeDhX0R6BU4xbEhvd87E7qWA/tmptur9iz7f.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/06-james-workerd-lab__style-18__zxeam0xqs1rmw0cygmp9egrpgr.jpeg",
+      "filename": "06-james-workerd-lab__style-18__zxeam0xqs1rmw0cygmp9egrpgr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.512371198,
+        "resolution_target": "1K",
+        "total_time": 18.576050058
+      }
+    },
+    {
+      "sceneSlug": "06-zeke-train-local-prod",
+      "sceneTitle": "6B. Zeke: train platform",
+      "speaker": "Zeke",
+      "line": "So local dev gets closer to production without turning Vite into a Cloudflare-specific thing. That’s the important bit.",
+      "style": "style-14",
+      "id": "vpy4pkdqssrmw0cygmp89aa8y0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/vpy4pkdqssrmw0cygmp89aa8y0",
+      "outputUrl": "https://replicate.delivery/xezq/zkI2G9ea69wekkdBxfVPjqisPRzMf81BAT5ewPA8N81cnYX1C/tmpk29es_sa.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/06-zeke-train-local-prod__style-14__vpy4pkdqssrmw0cygmp89aa8y0.jpeg",
+      "filename": "06-zeke-train-local-prod__style-14__vpy4pkdqssrmw0cygmp89aa8y0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.823648164,
+        "resolution_target": "1K",
+        "total_time": 18.882622082
+      }
+    },
+    {
+      "sceneSlug": "06-zeke-train-local-prod",
+      "sceneTitle": "6B. Zeke: train platform",
+      "speaker": "Zeke",
+      "line": "So local dev gets closer to production without turning Vite into a Cloudflare-specific thing. That’s the important bit.",
+      "style": "style-15",
+      "id": "g3p2t1dqsnrmr0cygmp9zbzy0c",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/g3p2t1dqsnrmr0cygmp9zbzy0c",
+      "outputUrl": "https://replicate.delivery/xezq/6Mq4nie0NW1dc60V5kdvGHsCAzunz0EjTZOAxQR5JLtfE7qWA/tmpn0b0i50t.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/06-zeke-train-local-prod__style-15__g3p2t1dqsnrmr0cygmp9zbzy0c.jpeg",
+      "filename": "06-zeke-train-local-prod__style-15__g3p2t1dqsnrmr0cygmp9zbzy0c.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.30404156,
+        "resolution_target": "1K",
+        "total_time": 22.347842723
+      }
+    },
+    {
+      "sceneSlug": "06-zeke-train-local-prod",
+      "sceneTitle": "6B. Zeke: train platform",
+      "speaker": "Zeke",
+      "line": "So local dev gets closer to production without turning Vite into a Cloudflare-specific thing. That’s the important bit.",
+      "style": "style-16",
+      "id": "5g1d03dqqxrmt0cygmpbqbw008",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/5g1d03dqqxrmt0cygmpbqbw008",
+      "outputUrl": "https://replicate.delivery/xezq/CQs1lh6O3x5DM12ck3jLBNYBCAWEfOeHFSsoWImI9fa0J2VtA/tmpxwqcwn8c.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/06-zeke-train-local-prod__style-16__5g1d03dqqxrmt0cygmpbqbw008.jpeg",
+      "filename": "06-zeke-train-local-prod__style-16__5g1d03dqqxrmt0cygmpbqbw008.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 17.341616807,
+        "resolution_target": "1K",
+        "total_time": 17.359867258
+      }
+    },
+    {
+      "sceneSlug": "06-zeke-train-local-prod",
+      "sceneTitle": "6B. Zeke: train platform",
+      "speaker": "Zeke",
+      "line": "So local dev gets closer to production without turning Vite into a Cloudflare-specific thing. That’s the important bit.",
+      "style": "style-17",
+      "id": "vzavqynqqxrmy0cygmpbzx9pe0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/vzavqynqqxrmy0cygmpbzx9pe0",
+      "outputUrl": "https://replicate.delivery/xezq/9UtruiLleC3xekWaWkU2Ny0xVs99dMaXIzmSxYbPScs3E7qWA/tmpcupfq7xe.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/06-zeke-train-local-prod__style-17__vzavqynqqxrmy0cygmpbzx9pe0.jpeg",
+      "filename": "06-zeke-train-local-prod__style-17__vzavqynqqxrmy0cygmpbzx9pe0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 14.848452269,
+        "resolution_target": "1K",
+        "total_time": 14.87302949
+      }
+    },
+    {
+      "sceneSlug": "06-zeke-train-local-prod",
+      "sceneTitle": "6B. Zeke: train platform",
+      "speaker": "Zeke",
+      "line": "So local dev gets closer to production without turning Vite into a Cloudflare-specific thing. That’s the important bit.",
+      "style": "style-18",
+      "id": "tvc43ddqrnrmt0cygmp8z5xga0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/tvc43ddqrnrmt0cygmp8z5xga0",
+      "outputUrl": "https://replicate.delivery/xezq/0n6kMCO2LGY6FNJfagHQHjMALjOxhRcNkXGidMylzEKaidVLA/tmp04fxdp4y.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/06-zeke-train-local-prod__style-18__tvc43ddqrnrmt0cygmp8z5xga0.jpeg",
+      "filename": "06-zeke-train-local-prod__style-18__tvc43ddqrnrmt0cygmp8z5xga0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 11.300326253,
+        "resolution_target": "1K",
+        "total_time": 11.324828576
+      }
+    },
+    {
+      "sceneSlug": "07-james-agent-loop",
+      "sceneTitle": "7A. James: agent loop",
+      "speaker": "James",
+      "line": "And then there’s the agent angle. Agents run builds, tests, linters, formatters, CLIs, all day, on repeat. Fast feedback loops stop being nice-to-have.",
+      "style": "style-14",
+      "id": "5242cgdqpnrmw0cygmpbd0q20m",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/5242cgdqpnrmw0cygmpbd0q20m",
+      "outputUrl": "https://replicate.delivery/xezq/w48KHeJye6rtOE7W8hemq7Lrr6w1Ja4FIMkBDlYEHm33J2VtA/tmpfw0xd9l4.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/07-james-agent-loop__style-14__5242cgdqpnrmw0cygmpbd0q20m.jpeg",
+      "filename": "07-james-agent-loop__style-14__5242cgdqpnrmw0cygmpbd0q20m.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.785876458,
+        "resolution_target": "1K",
+        "total_time": 18.808008821
+      }
+    },
+    {
+      "sceneSlug": "07-james-agent-loop",
+      "sceneTitle": "7A. James: agent loop",
+      "speaker": "James",
+      "line": "And then there’s the agent angle. Agents run builds, tests, linters, formatters, CLIs, all day, on repeat. Fast feedback loops stop being nice-to-have.",
+      "style": "style-15",
+      "id": "zbw65r5qvhrmt0cygmpamcxygc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/zbw65r5qvhrmt0cygmpamcxygc",
+      "outputUrl": "https://replicate.delivery/xezq/hz5XI8P5qTofESoteerf0uULseOGeRLBJeiQAF9j5tuGaidVLA/tmpmr7zib0k.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/07-james-agent-loop__style-15__zbw65r5qvhrmt0cygmpamcxygc.jpeg",
+      "filename": "07-james-agent-loop__style-15__zbw65r5qvhrmt0cygmpamcxygc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 11.626668975,
+        "resolution_target": "1K",
+        "total_time": 11.651972255
+      }
+    },
+    {
+      "sceneSlug": "07-james-agent-loop",
+      "sceneTitle": "7A. James: agent loop",
+      "speaker": "James",
+      "line": "And then there’s the agent angle. Agents run builds, tests, linters, formatters, CLIs, all day, on repeat. Fast feedback loops stop being nice-to-have.",
+      "style": "style-16",
+      "id": "h6s0p5xqtnrmw0cygmpbvqdw60",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/h6s0p5xqtnrmw0cygmpbvqdw60",
+      "outputUrl": "https://replicate.delivery/xezq/vFTtsKlL3WbqDlpQ1QMyB6xvMYlicjAOAFYoVbnMa8MPxuqF/tmpepdqf8gy.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/07-james-agent-loop__style-16__h6s0p5xqtnrmw0cygmpbvqdw60.jpeg",
+      "filename": "07-james-agent-loop__style-16__h6s0p5xqtnrmw0cygmpbvqdw60.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.079682597,
+        "resolution_target": "1K",
+        "total_time": 19.147017011
+      }
+    },
+    {
+      "sceneSlug": "07-james-agent-loop",
+      "sceneTitle": "7A. James: agent loop",
+      "speaker": "James",
+      "line": "And then there’s the agent angle. Agents run builds, tests, linters, formatters, CLIs, all day, on repeat. Fast feedback loops stop being nice-to-have.",
+      "style": "style-17",
+      "id": "edbsnkdqtdrmr0cygmpbrkg1qg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/edbsnkdqtdrmr0cygmpbrkg1qg",
+      "outputUrl": "https://replicate.delivery/xezq/avOQ7fYTXnSZLikf0fAfsMVEfXe9oQ0sscibrHnGN5kkPxuqF/tmp0ygxdv9s.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/07-james-agent-loop__style-17__edbsnkdqtdrmr0cygmpbrkg1qg.jpeg",
+      "filename": "07-james-agent-loop__style-17__edbsnkdqtdrmr0cygmpbrkg1qg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.914788215,
+        "resolution_target": "1K",
+        "total_time": 21.946507425
+      }
+    },
+    {
+      "sceneSlug": "07-james-agent-loop",
+      "sceneTitle": "7A. James: agent loop",
+      "speaker": "James",
+      "line": "And then there’s the agent angle. Agents run builds, tests, linters, formatters, CLIs, all day, on repeat. Fast feedback loops stop being nice-to-have.",
+      "style": "style-18",
+      "id": "j8wtfg5qsdrmr0cygmp82wzm6g",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/j8wtfg5qsdrmr0cygmp82wzm6g",
+      "outputUrl": "https://replicate.delivery/xezq/aS7lFd0TnNpHD5eCs5NkmVuJrc4bPNy6UxDKMaxjjmOaidVLA/tmpsleteyyl.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/07-james-agent-loop__style-18__j8wtfg5qsdrmr0cygmp82wzm6g.jpeg",
+      "filename": "07-james-agent-loop__style-18__j8wtfg5qsdrmr0cygmp82wzm6g.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 11.194317493,
+        "resolution_target": "1K",
+        "total_time": 11.243214927
+      }
+    },
+    {
+      "sceneSlug": "07-zeke-agent-gym-platform",
+      "sceneTitle": "7B. Zeke: agent gym",
+      "speaker": "Zeke",
+      "line": "Agents are basically developers who never get tired and have no emotional attachment to rerunning tests. Disturbing, but useful.",
+      "style": "style-14",
+      "id": "vhxj4y5qrnrmr0cygmpb6td204",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/vhxj4y5qrnrmr0cygmpb6td204",
+      "outputUrl": "https://replicate.delivery/xezq/11plphAXuEoDOF7ueSOOpN8YyBRqVEeGGNGZ2ptzPNq0E7qWA/tmpqj6oi_nc.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/07-zeke-agent-gym-platform__style-14__vhxj4y5qrnrmr0cygmpb6td204.jpeg",
+      "filename": "07-zeke-agent-gym-platform__style-14__vhxj4y5qrnrmr0cygmpb6td204.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 11.31617378,
+        "resolution_target": "1K",
+        "total_time": 11.348348364
+      }
+    },
+    {
+      "sceneSlug": "07-zeke-agent-gym-platform",
+      "sceneTitle": "7B. Zeke: agent gym",
+      "speaker": "Zeke",
+      "line": "Agents are basically developers who never get tired and have no emotional attachment to rerunning tests. Disturbing, but useful.",
+      "style": "style-15",
+      "id": "tk7br4nqt9rmy0cygmpbmh5j4c",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/tk7br4nqt9rmy0cygmpbmh5j4c",
+      "outputUrl": "https://replicate.delivery/xezq/C8bEvKkgPIqgHpVDT6HKKgl8ZMInaTCXCb49794HQbSPxuqF/tmpso25g53x.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/07-zeke-agent-gym-platform__style-15__tk7br4nqt9rmy0cygmpbmh5j4c.jpeg",
+      "filename": "07-zeke-agent-gym-platform__style-15__tk7br4nqt9rmy0cygmpbmh5j4c.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.754054239,
+        "resolution_target": "1K",
+        "total_time": 20.778764333
+      }
+    },
+    {
+      "sceneSlug": "07-zeke-agent-gym-platform",
+      "sceneTitle": "7B. Zeke: agent gym",
+      "speaker": "Zeke",
+      "line": "Agents are basically developers who never get tired and have no emotional attachment to rerunning tests. Disturbing, but useful.",
+      "style": "style-16",
+      "id": "e14wrn5qvhrmr0cygmpafekr3r",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/e14wrn5qvhrmr0cygmpafekr3r",
+      "outputUrl": "https://replicate.delivery/xezq/4rak233LnVoaJNHiD3yX1BpEMVzoeF1gEVJWjqcPeWeOK2VtA/tmpexizn8sc.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/07-zeke-agent-gym-platform__style-16__e14wrn5qvhrmr0cygmpafekr3r.jpeg",
+      "filename": "07-zeke-agent-gym-platform__style-16__e14wrn5qvhrmr0cygmpafekr3r.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 30.850678101,
+        "resolution_target": "1K",
+        "total_time": 30.862546769
+      }
+    },
+    {
+      "sceneSlug": "07-zeke-agent-gym-platform",
+      "sceneTitle": "7B. Zeke: agent gym",
+      "speaker": "Zeke",
+      "line": "Agents are basically developers who never get tired and have no emotional attachment to rerunning tests. Disturbing, but useful.",
+      "style": "style-17",
+      "id": "n00z1nxqvsrmt0cygmp9bzq3j8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/n00z1nxqvsrmt0cygmp9bzq3j8",
+      "outputUrl": "https://replicate.delivery/xezq/jwLf5IIyWLTyZqIqbBmEUGySRATt8sJpDClYFG4rr3TnidVLA/tmp3mg7i6q2.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/07-zeke-agent-gym-platform__style-17__n00z1nxqvsrmt0cygmp9bzq3j8.jpeg",
+      "filename": "07-zeke-agent-gym-platform__style-17__n00z1nxqvsrmt0cygmp9bzq3j8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 37.271933073,
+        "resolution_target": "1K",
+        "total_time": 37.305128541
+      }
+    },
+    {
+      "sceneSlug": "07-zeke-agent-gym-platform",
+      "sceneTitle": "7B. Zeke: agent gym",
+      "speaker": "Zeke",
+      "line": "Agents are basically developers who never get tired and have no emotional attachment to rerunning tests. Disturbing, but useful.",
+      "style": "style-18",
+      "id": "yjgq5qdqvhrmw0cygmpb9ndm00",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/yjgq5qdqvhrmw0cygmpb9ndm00",
+      "outputUrl": "https://replicate.delivery/xezq/HyzWrGBeA42cEyLdU6C5CxUp21Nx0XkjZqmX8peuNOj7E7qWA/tmp34x7aqlz.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/07-zeke-agent-gym-platform__style-18__yjgq5qdqvhrmw0cygmpb9ndm00.jpeg",
+      "filename": "07-zeke-agent-gym-platform__style-18__yjgq5qdqvhrmw0cygmpb9ndm00.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.434034075,
+        "resolution_target": "1K",
+        "total_time": 18.449197953
+      }
+    },
+    {
+      "sceneSlug": "08-james-fullstack-city",
+      "sceneTitle": "8A. James: full-stack city",
+      "speaker": "James",
+      "line": "Longer term, this is about Vite becoming a better foundation for full-stack apps and agents, with provider-agnostic primitives. And Cloudflare moving its own app tooling toward Vite, not the other way around.",
+      "style": "style-14",
+      "id": "jpfb9q5qt1rmr0cygmp935znm4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/jpfb9q5qt1rmr0cygmp935znm4",
+      "outputUrl": "https://replicate.delivery/xezq/aVqqs5YllkblItnXf0p23mX1TZF037ShzzjAzMcXpn0eE7qWA/tmpw4xsdifb.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/08-james-fullstack-city__style-14__jpfb9q5qt1rmr0cygmp935znm4.jpeg",
+      "filename": "08-james-fullstack-city__style-14__jpfb9q5qt1rmr0cygmp935znm4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.584331711,
+        "resolution_target": "1K",
+        "total_time": 20.596664352
+      }
+    },
+    {
+      "sceneSlug": "08-james-fullstack-city",
+      "sceneTitle": "8A. James: full-stack city",
+      "speaker": "James",
+      "line": "Longer term, this is about Vite becoming a better foundation for full-stack apps and agents, with provider-agnostic primitives. And Cloudflare moving its own app tooling toward Vite, not the other way around.",
+      "style": "style-15",
+      "id": "8d76aqxqx9rmt0cygmpbbc1rcw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/8d76aqxqx9rmt0cygmpbbc1rcw",
+      "outputUrl": "https://replicate.delivery/xezq/fQSTwvH4Sz2fA0r5Ycl5TJol5pCxwufLnQ6eSLOB9eGhnYX1C/tmpqeqjk9cm.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/08-james-fullstack-city__style-15__8d76aqxqx9rmt0cygmpbbc1rcw.jpeg",
+      "filename": "08-james-fullstack-city__style-15__8d76aqxqx9rmt0cygmpbbc1rcw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.4236396,
+        "resolution_target": "1K",
+        "total_time": 19.461738042
+      }
+    },
+    {
+      "sceneSlug": "08-james-fullstack-city",
+      "sceneTitle": "8A. James: full-stack city",
+      "speaker": "James",
+      "line": "Longer term, this is about Vite becoming a better foundation for full-stack apps and agents, with provider-agnostic primitives. And Cloudflare moving its own app tooling toward Vite, not the other way around.",
+      "style": "style-16",
+      "id": "07gc9cxqy9rmr0cygmpb8fxbar",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/07gc9cxqy9rmr0cygmpb8fxbar",
+      "outputUrl": "https://replicate.delivery/xezq/AE83aX1Rh2YdD5zAZHGuq5bXJ0USkCRviy6nyWmeVCgdidVLA/tmpf9uo_ime.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/08-james-fullstack-city__style-16__07gc9cxqy9rmr0cygmpb8fxbar.jpeg",
+      "filename": "08-james-fullstack-city__style-16__07gc9cxqy9rmr0cygmpb8fxbar.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.152069197,
+        "resolution_target": "1K",
+        "total_time": 18.198360425
+      }
+    },
+    {
+      "sceneSlug": "08-james-fullstack-city",
+      "sceneTitle": "8A. James: full-stack city",
+      "speaker": "James",
+      "line": "Longer term, this is about Vite becoming a better foundation for full-stack apps and agents, with provider-agnostic primitives. And Cloudflare moving its own app tooling toward Vite, not the other way around.",
+      "style": "style-17",
+      "id": "g4jqac5qvxrmy0cygmpbd9gkjw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/g4jqac5qvxrmy0cygmpbd9gkjw",
+      "outputUrl": "https://replicate.delivery/xezq/0okywoFxvfS1Fa3gDx3df4maDAfTLT2cDceUwYrwWs30TsraB/tmp9l5pk772.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/08-james-fullstack-city__style-17__g4jqac5qvxrmy0cygmpbd9gkjw.jpeg",
+      "filename": "08-james-fullstack-city__style-17__g4jqac5qvxrmy0cygmpbd9gkjw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.209819358,
+        "resolution_target": "1K",
+        "total_time": 20.231384824
+      }
+    },
+    {
+      "sceneSlug": "08-james-fullstack-city",
+      "sceneTitle": "8A. James: full-stack city",
+      "speaker": "James",
+      "line": "Longer term, this is about Vite becoming a better foundation for full-stack apps and agents, with provider-agnostic primitives. And Cloudflare moving its own app tooling toward Vite, not the other way around.",
+      "style": "style-18",
+      "id": "4b703rdqw9rmr0cygmpb548bdm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/4b703rdqw9rmr0cygmpb548bdm",
+      "outputUrl": "https://replicate.delivery/xezq/sw9yn8mfjq2oNiYHkijvfDkO3rQf9MvSpwaxwMOTvgzmJ2VtA/tmp58va0kdd.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/08-james-fullstack-city__style-18__4b703rdqw9rmr0cygmpb548bdm.jpeg",
+      "filename": "08-james-fullstack-city__style-18__4b703rdqw9rmr0cygmpb548bdm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 10.33913893,
+        "resolution_target": "1K",
+        "total_time": 10.375385103
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-finale-platform-exit",
+      "sceneTitle": "8B. Zeke: finale platform exit",
+      "speaker": "Zeke",
+      "line": "So Vite stays portable, Cloudflare gets easier, and the path is basically: keep the workflow developers already like. Also James? Still not babe.",
+      "style": "style-14",
+      "id": "x44azkxqvhrmr0cygmp9ev7yh0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/x44azkxqvhrmr0cygmp9ev7yh0",
+      "outputUrl": "https://replicate.delivery/xezq/Yvesp1dZquUcNShRRh8pxI0PflzfbR9kPMO1Polg1EVoJ2VtA/tmps1vrsg3_.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/08-zeke-finale-platform-exit__style-14__x44azkxqvhrmr0cygmp9ev7yh0.jpeg",
+      "filename": "08-zeke-finale-platform-exit__style-14__x44azkxqvhrmr0cygmp9ev7yh0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 11.686750066,
+        "resolution_target": "1K",
+        "total_time": 11.71688373
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-finale-platform-exit",
+      "sceneTitle": "8B. Zeke: finale platform exit",
+      "speaker": "Zeke",
+      "line": "So Vite stays portable, Cloudflare gets easier, and the path is basically: keep the workflow developers already like. Also James? Still not babe.",
+      "style": "style-15",
+      "id": "6g9dftnqtnrmr0cygmp83h64dc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/6g9dftnqtnrmr0cygmp83h64dc",
+      "outputUrl": "https://replicate.delivery/xezq/1lr8Rfcxf1opY0j6FVDZ3teaua0KiwOPuwevMGNdX3T9TsraB/tmpm142nfdg.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/08-zeke-finale-platform-exit__style-15__6g9dftnqtnrmr0cygmp83h64dc.jpeg",
+      "filename": "08-zeke-finale-platform-exit__style-15__6g9dftnqtnrmr0cygmp83h64dc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.812588967,
+        "resolution_target": "1K",
+        "total_time": 22.87684821
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-finale-platform-exit",
+      "sceneTitle": "8B. Zeke: finale platform exit",
+      "speaker": "Zeke",
+      "line": "So Vite stays portable, Cloudflare gets easier, and the path is basically: keep the workflow developers already like. Also James? Still not babe.",
+      "style": "style-16",
+      "id": "yd9j7pnqtxrmt0cygmpardq3gw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/yd9j7pnqtxrmt0cygmpardq3gw",
+      "outputUrl": "https://replicate.delivery/xezq/6AY07hcc2U60JtNx53RTC8ERgh5fJHnaB2V9E2ElfAm8E7qWA/tmpr6n6gwqg.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/08-zeke-finale-platform-exit__style-16__yd9j7pnqtxrmt0cygmpardq3gw.jpeg",
+      "filename": "08-zeke-finale-platform-exit__style-16__yd9j7pnqtxrmt0cygmpardq3gw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.007464979,
+        "resolution_target": "1K",
+        "total_time": 20.047442567
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-finale-platform-exit",
+      "sceneTitle": "8B. Zeke: finale platform exit",
+      "speaker": "Zeke",
+      "line": "So Vite stays portable, Cloudflare gets easier, and the path is basically: keep the workflow developers already like. Also James? Still not babe.",
+      "style": "style-17",
+      "id": "3kk81hxqtdrmw0cygmp840s6wr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/3kk81hxqtdrmw0cygmp840s6wr",
+      "outputUrl": "https://replicate.delivery/xezq/UQu10N5v3mIFAJEL8ILp2LqcxM0O2S03eDG4FF2MWCqgidVLA/tmp8_h899gt.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/08-zeke-finale-platform-exit__style-17__3kk81hxqtdrmw0cygmp840s6wr.jpeg",
+      "filename": "08-zeke-finale-platform-exit__style-17__3kk81hxqtdrmw0cygmp840s6wr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 24.466856498,
+        "resolution_target": "1K",
+        "total_time": 24.518592709
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-finale-platform-exit",
+      "sceneTitle": "8B. Zeke: finale platform exit",
+      "speaker": "Zeke",
+      "line": "So Vite stays portable, Cloudflare gets easier, and the path is basically: keep the workflow developers already like. Also James? Still not babe.",
+      "style": "style-18",
+      "id": "bdygbnnqs9rmy0cygmpa8jrcz8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/bdygbnnqs9rmy0cygmpa8jrcz8",
+      "outputUrl": "https://replicate.delivery/xezq/QmgQbVCwmgJtARAAY9rIRpdHgRDgpDfftZ66y54xVMw8E7qWA/tmpmpnarb56.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/remaining-variants-v2/08-zeke-finale-platform-exit__style-18__bdygbnnqs9rmy0cygmpa8jrcz8.jpeg",
+      "filename": "08-zeke-finale-platform-exit__style-18__bdygbnnqs9rmy0cygmpa8jrcz8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.402496968,
+        "resolution_target": "1K",
+        "total_time": 19.4415615
+      }
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "createdAt": "2026-06-01T21:27:06.592Z",
+  "model": "google/nano-banana-2",
+  "jobs": [
+    {
+      "sceneSlug": "01-james-wakeup-phone",
+      "sceneTitle": "1A. James: wake-up phone call",
+      "speaker": "James",
+      "line": "Hey Zeke, wake up. Did you see the VoidZero news?",
+      "style": "style-04",
+      "id": "kvrah32ex9rmw0cygmavx4av5g",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/kvrah32ex9rmw0cygmavx4av5g",
+      "outputUrl": "https://replicate.delivery/xezq/I7600apLjKI9HVhD3FKTtn9MkA3rfeFARRJsFESpueC4Z1VtA/tmp1qq6n9e8.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/01-james-wakeup-phone__style-04__kvrah32ex9rmw0cygmavx4av5g.jpeg",
+      "filename": "01-james-wakeup-phone__style-04__kvrah32ex9rmw0cygmavx4av5g.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.179656578,
+        "resolution_target": "1K",
+        "total_time": 18.19480114
+      }
+    },
+    {
+      "sceneSlug": "01-james-wakeup-phone",
+      "sceneTitle": "1A. James: wake-up phone call",
+      "speaker": "James",
+      "line": "Hey Zeke, wake up. Did you see the VoidZero news?",
+      "style": "style-05",
+      "id": "zpaz24teyhrmy0cygmat53c3jr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/zpaz24teyhrmy0cygmat53c3jr",
+      "outputUrl": "https://replicate.delivery/xezq/PLOXs97YFbo0NVQMWeQLh0FF4zemvGRj7rVP3VGqSVw9s6qWA/tmpa81du_f5.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/01-james-wakeup-phone__style-05__zpaz24teyhrmy0cygmat53c3jr.jpeg",
+      "filename": "01-james-wakeup-phone__style-05__zpaz24teyhrmy0cygmat53c3jr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.224536299,
+        "resolution_target": "1K",
+        "total_time": 19.250279482
+      }
+    },
+    {
+      "sceneSlug": "01-james-wakeup-phone",
+      "sceneTitle": "1A. James: wake-up phone call",
+      "speaker": "James",
+      "line": "Hey Zeke, wake up. Did you see the VoidZero news?",
+      "style": "style-06",
+      "id": "w9fk4y2ey5rmw0cygmav0226am",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/w9fk4y2ey5rmw0cygmav0226am",
+      "outputUrl": "https://replicate.delivery/xezq/XUMtwPRwpzKgDh1V2ELcBZX4O1DsegYzZffwuklWrIK7Z1VtA/tmpidzn0zfx.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/01-james-wakeup-phone__style-06__w9fk4y2ey5rmw0cygmav0226am.jpeg",
+      "filename": "01-james-wakeup-phone__style-06__w9fk4y2ey5rmw0cygmav0226am.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.146860788,
+        "resolution_target": "1K",
+        "total_time": 19.172228499
+      }
+    },
+    {
+      "sceneSlug": "01-james-wakeup-phone",
+      "sceneTitle": "1A. James: wake-up phone call",
+      "speaker": "James",
+      "line": "Hey Zeke, wake up. Did you see the VoidZero news?",
+      "style": "style-07",
+      "id": "3zgkj8jexhrmw0cygmavwhz6s0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/3zgkj8jexhrmw0cygmavwhz6s0",
+      "outputUrl": "https://replicate.delivery/xezq/sY2RT0OkeK3nc61ZhUvN3eXfP8r3BiVPr48gRoXgNvlDa1VtA/tmpy0km36t4.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/01-james-wakeup-phone__style-07__3zgkj8jexhrmw0cygmavwhz6s0.jpeg",
+      "filename": "01-james-wakeup-phone__style-07__3zgkj8jexhrmw0cygmavwhz6s0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 23.066645514,
+        "resolution_target": "1K",
+        "total_time": 23.078031488
+      }
+    },
+    {
+      "sceneSlug": "01-james-wakeup-phone",
+      "sceneTitle": "1A. James: wake-up phone call",
+      "speaker": "James",
+      "line": "Hey Zeke, wake up. Did you see the VoidZero news?",
+      "style": "style-08",
+      "id": "dwc511jeyhrmw0cygmav26deb0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/dwc511jeyhrmw0cygmav26deb0",
+      "outputUrl": "https://replicate.delivery/xezq/nZ8DkW8UG07WGJDdJpjd6NMgRMR59xH7ZRlKT5tgny4NruqF/tmpxbsmga0g.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/01-james-wakeup-phone__style-08__dwc511jeyhrmw0cygmav26deb0.jpeg",
+      "filename": "01-james-wakeup-phone__style-08__dwc511jeyhrmw0cygmav26deb0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.214027494,
+        "resolution_target": "1K",
+        "total_time": 13.232488892
+      }
+    },
+    {
+      "sceneSlug": "01-zeke-bed-phone",
+      "sceneTitle": "1B. Zeke: sleepy in bed",
+      "speaker": "Zeke",
+      "line": "James. It is very early. VoidZero, like Vite VoidZero?",
+      "style": "style-04",
+      "id": "5m6njytf3drmy0cygmavs02nk0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/5m6njytf3drmy0cygmavs02nk0",
+      "outputUrl": "https://replicate.delivery/xezq/MqVgt8DWJUrLHFGwVenTD6Cg9NRE3KBv5eebTBswGMn9Z1VtA/tmpznguv1n_.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/01-zeke-bed-phone__style-04__5m6njytf3drmy0cygmavs02nk0.jpeg",
+      "filename": "01-zeke-bed-phone__style-04__5m6njytf3drmy0cygmavs02nk0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.703764976,
+        "resolution_target": "1K",
+        "total_time": 19.723784029
+      }
+    },
+    {
+      "sceneSlug": "01-zeke-bed-phone",
+      "sceneTitle": "1B. Zeke: sleepy in bed",
+      "speaker": "Zeke",
+      "line": "James. It is very early. VoidZero, like Vite VoidZero?",
+      "style": "style-05",
+      "id": "8g7p6e2ey9rmw0cygmav4w7mn4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/8g7p6e2ey9rmw0cygmav4w7mn4",
+      "outputUrl": "https://replicate.delivery/xezq/9v6aiNmMJeTjTKFS49Ffpeg6MAAuHGr6CZa6TFZ9Ts7Ca1VtA/tmpdce94cn9.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/01-zeke-bed-phone__style-05__8g7p6e2ey9rmw0cygmav4w7mn4.jpeg",
+      "filename": "01-zeke-bed-phone__style-05__8g7p6e2ey9rmw0cygmav4w7mn4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 23.266200667,
+        "resolution_target": "1K",
+        "total_time": 23.282451671
+      }
+    },
+    {
+      "sceneSlug": "01-zeke-bed-phone",
+      "sceneTitle": "1B. Zeke: sleepy in bed",
+      "speaker": "Zeke",
+      "line": "James. It is very early. VoidZero, like Vite VoidZero?",
+      "style": "style-06",
+      "id": "znhr4btexnrmy0cygmarrh94j4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/znhr4btexnrmy0cygmarrh94j4",
+      "outputUrl": "https://replicate.delivery/xezq/flJd7ofhq0qGF09W6wbNoYhgsR8p8jLdLeR1hFMvif29zqraB/tmpmeebhorv.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/01-zeke-bed-phone__style-06__znhr4btexnrmy0cygmarrh94j4.jpeg",
+      "filename": "01-zeke-bed-phone__style-06__znhr4btexnrmy0cygmarrh94j4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.251710378,
+        "resolution_target": "1K",
+        "total_time": 21.268775825
+      }
+    },
+    {
+      "sceneSlug": "01-zeke-bed-phone",
+      "sceneTitle": "1B. Zeke: sleepy in bed",
+      "speaker": "Zeke",
+      "line": "James. It is very early. VoidZero, like Vite VoidZero?",
+      "style": "style-07",
+      "id": "xakb7vjex9rmr0cygmavks7g6c",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/xakb7vjex9rmr0cygmavks7g6c",
+      "outputUrl": "https://replicate.delivery/xezq/5DvkEb9ee9gLZk2t3YaB3240CZ4MmfOX2gXofU2lSseBoVX1C/tmpmlt7vtdr.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/01-zeke-bed-phone__style-07__xakb7vjex9rmr0cygmavks7g6c.jpeg",
+      "filename": "01-zeke-bed-phone__style-07__xakb7vjex9rmr0cygmavks7g6c.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.544756859,
+        "resolution_target": "1K",
+        "total_time": 21.555854167
+      }
+    },
+    {
+      "sceneSlug": "01-zeke-bed-phone",
+      "sceneTitle": "1B. Zeke: sleepy in bed",
+      "speaker": "Zeke",
+      "line": "James. It is very early. VoidZero, like Vite VoidZero?",
+      "style": "style-08",
+      "id": "pqyqykjfe9rmy0cygmas2bhw9w",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/pqyqykjfe9rmy0cygmas2bhw9w",
+      "outputUrl": "https://replicate.delivery/xezq/JelPUdbHNSR3M6a7imG8BHvls1FhnWYf0QyyfjNmAMX7Z1VtA/tmperdg0vc_.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/01-zeke-bed-phone__style-08__pqyqykjfe9rmy0cygmas2bhw9w.jpeg",
+      "filename": "01-zeke-bed-phone__style-08__pqyqykjfe9rmy0cygmas2bhw9w.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.556112613,
+        "resolution_target": "1K",
+        "total_time": 18.576009313
+      }
+    },
+    {
+      "sceneSlug": "02-james-matrix-news",
+      "sceneTitle": "2A. James: VoidZero joins Cloudflare",
+      "speaker": "James",
+      "line": "VoidZero is joining Cloudflare. The whole team. Vite, Vitest, Rolldown, Oxc, Vite+, all of it.",
+      "style": "style-04",
+      "id": "wevhemjex1rmt0cygmarqpggmw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/wevhemjex1rmt0cygmarqpggmw",
+      "outputUrl": "https://replicate.delivery/xezq/gLj7xWO5e4yxFydPRpdH6kNsfmg2LNJO3qdkBGVVRfGfzqraB/tmpyt254f7f.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/02-james-matrix-news__style-04__wevhemjex1rmt0cygmarqpggmw.jpeg",
+      "filename": "02-james-matrix-news__style-04__wevhemjex1rmt0cygmarqpggmw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.719939978,
+        "resolution_target": "1K",
+        "total_time": 20.73535827
+      }
+    },
+    {
+      "sceneSlug": "02-james-matrix-news",
+      "sceneTitle": "2A. James: VoidZero joins Cloudflare",
+      "speaker": "James",
+      "line": "VoidZero is joining Cloudflare. The whole team. Vite, Vitest, Rolldown, Oxc, Vite+, all of it.",
+      "style": "style-05",
+      "id": "3ch8ecjeysrmy0cygmas0y7qh0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/3ch8ecjeysrmy0cygmas0y7qh0",
+      "outputUrl": "https://replicate.delivery/xezq/3R9m476ZPvZSEJdUKR9PvmjVzUm86A2kJsguWTOoofngWdVLA/tmp0z0jhrpc.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/02-james-matrix-news__style-05__3ch8ecjeysrmy0cygmas0y7qh0.jpeg",
+      "filename": "02-james-matrix-news__style-05__3ch8ecjeysrmy0cygmas0y7qh0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.983921256,
+        "resolution_target": "1K",
+        "total_time": 23.014806445
+      }
+    },
+    {
+      "sceneSlug": "02-james-matrix-news",
+      "sceneTitle": "2A. James: VoidZero joins Cloudflare",
+      "speaker": "James",
+      "line": "VoidZero is joining Cloudflare. The whole team. Vite, Vitest, Rolldown, Oxc, Vite+, all of it.",
+      "style": "style-06",
+      "id": "2136622fasrmr0cygmat29tg8r",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/2136622fasrmr0cygmat29tg8r",
+      "outputUrl": "https://replicate.delivery/xezq/MysovCzKEKaIIhatmONvxvnxaag0Zfkufzi8fIma2MNfzqraB/tmpxbej1iqs.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/02-james-matrix-news__style-06__2136622fasrmr0cygmat29tg8r.jpeg",
+      "filename": "02-james-matrix-news__style-06__2136622fasrmr0cygmat29tg8r.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.62785124,
+        "resolution_target": "1K",
+        "total_time": 20.648875362
+      }
+    },
+    {
+      "sceneSlug": "02-james-matrix-news",
+      "sceneTitle": "2A. James: VoidZero joins Cloudflare",
+      "speaker": "James",
+      "line": "VoidZero is joining Cloudflare. The whole team. Vite, Vitest, Rolldown, Oxc, Vite+, all of it.",
+      "style": "style-07",
+      "id": "1prjw5jfcnrmy0cygmaswf1ppw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/1prjw5jfcnrmy0cygmaswf1ppw",
+      "outputUrl": "https://replicate.delivery/xezq/1bupBVNzW9qfZ6IpSYsnbh0p7UxJ0rSqBs49nIrIdeGAt6qWA/tmppulx52oz.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/02-james-matrix-news__style-07__1prjw5jfcnrmy0cygmaswf1ppw.jpeg",
+      "filename": "02-james-matrix-news__style-07__1prjw5jfcnrmy0cygmaswf1ppw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.431143853000002,
+        "resolution_target": "1K",
+        "total_time": 21.452518757
+      }
+    },
+    {
+      "sceneSlug": "02-james-matrix-news",
+      "sceneTitle": "2A. James: VoidZero joins Cloudflare",
+      "speaker": "James",
+      "line": "VoidZero is joining Cloudflare. The whole team. Vite, Vitest, Rolldown, Oxc, Vite+, all of it.",
+      "style": "style-08",
+      "id": "70yss12f4drmw0cygmartmxa14",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/70yss12f4drmw0cygmartmxa14",
+      "outputUrl": "https://replicate.delivery/xezq/ZrekD4dbwrTAACJnXyJ3Gj3SRUSboTXgSMNufF3etmowZ1VtA/tmp2_ennety.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/02-james-matrix-news__style-08__70yss12f4drmw0cygmartmxa14.jpeg",
+      "filename": "02-james-matrix-news__style-08__70yss12f4drmw0cygmartmxa14.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.755226998,
+        "resolution_target": "1K",
+        "total_time": 13.777816495
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-robe",
+      "sceneTitle": "2B. Zeke: robe in bathroom",
+      "speaker": "Zeke",
+      "line": "Huh. That’s actually big. I’m going to need the strong coffee for this one.",
+      "style": "style-04",
+      "id": "3ycte8jffdrmw0cygmavxhpx28",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/3ycte8jffdrmw0cygmavxhpx28",
+      "outputUrl": "https://replicate.delivery/xezq/5PQtFYi7VapTLJ0iQJevAPDaDnjmooQw0PyfHNiWE2K9s6qWA/tmp4z9k1_zr.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/02-zeke-bathroom-robe__style-04__3ycte8jffdrmw0cygmavxhpx28.jpeg",
+      "filename": "02-zeke-bathroom-robe__style-04__3ycte8jffdrmw0cygmavxhpx28.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.741693893,
+        "resolution_target": "1K",
+        "total_time": 18.759731703
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-robe",
+      "sceneTitle": "2B. Zeke: robe in bathroom",
+      "speaker": "Zeke",
+      "line": "Huh. That’s actually big. I’m going to need the strong coffee for this one.",
+      "style": "style-05",
+      "id": "rcx6z7jfd1rmr0cygmarvx147w",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/rcx6z7jfd1rmr0cygmarvx147w",
+      "outputUrl": "https://replicate.delivery/xezq/Cjtug9zoPQLkFtRGnjoHlwT2UplQOqvQ3vMstribGZHRruqF/tmptgg779bn.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/02-zeke-bathroom-robe__style-05__rcx6z7jfd1rmr0cygmarvx147w.jpeg",
+      "filename": "02-zeke-bathroom-robe__style-05__rcx6z7jfd1rmr0cygmarvx147w.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 25.383208023,
+        "resolution_target": "1K",
+        "total_time": 25.402773122
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-robe",
+      "sceneTitle": "2B. Zeke: robe in bathroom",
+      "speaker": "Zeke",
+      "line": "Huh. That’s actually big. I’m going to need the strong coffee for this one.",
+      "style": "style-06",
+      "id": "x61jy2jfe9rmt0cygmasdwzyhc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/x61jy2jfe9rmt0cygmasdwzyhc",
+      "outputUrl": "https://replicate.delivery/xezq/dZkgfCeGaKkx0Ut1zbGzSs6uVnDejHNjRSiZnVKfMmH0zqraB/tmp2_wn3ezr.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/02-zeke-bathroom-robe__style-06__x61jy2jfe9rmt0cygmasdwzyhc.jpeg",
+      "filename": "02-zeke-bathroom-robe__style-06__x61jy2jfe9rmt0cygmasdwzyhc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.463067516,
+        "resolution_target": "1K",
+        "total_time": 18.488788153
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-robe",
+      "sceneTitle": "2B. Zeke: robe in bathroom",
+      "speaker": "Zeke",
+      "line": "Huh. That’s actually big. I’m going to need the strong coffee for this one.",
+      "style": "style-07",
+      "id": "8hkf56tff1rmr0cygmar0ccbyr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/8hkf56tff1rmr0cygmar0ccbyr",
+      "outputUrl": "https://replicate.delivery/xezq/Bs4Mq2jg6xY1CBRMSLXC396G8peiis3ZguEr9Ufn5wV9s6qWA/tmpqbny3ung.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/02-zeke-bathroom-robe__style-07__8hkf56tff1rmr0cygmar0ccbyr.jpeg",
+      "filename": "02-zeke-bathroom-robe__style-07__8hkf56tff1rmr0cygmar0ccbyr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.904890615,
+        "resolution_target": "1K",
+        "total_time": 18.917818081
+      }
+    },
+    {
+      "sceneSlug": "02-zeke-bathroom-robe",
+      "sceneTitle": "2B. Zeke: robe in bathroom",
+      "speaker": "Zeke",
+      "line": "Huh. That’s actually big. I’m going to need the strong coffee for this one.",
+      "style": "style-08",
+      "id": "1v58fyjfchrmy0cygmarhtwrec",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/1v58fyjfchrmy0cygmarhtwrec",
+      "outputUrl": "https://replicate.delivery/xezq/laCiW4fyvc2BNK2ox7dZLHwBQ6AZeUNB6Sf4emrejyyrnVX1C/tmpfhdgolvd.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/02-zeke-bathroom-robe__style-08__1v58fyjfchrmy0cygmarhtwrec.jpeg",
+      "filename": "02-zeke-bathroom-robe__style-08__1v58fyjfchrmy0cygmarhtwrec.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.091453363,
+        "resolution_target": "1K",
+        "total_time": 19.107838138
+      }
+    },
+    {
+      "sceneSlug": "03-james-open-source-laptop",
+      "sceneTitle": "3A. James: Vite stays Vite",
+      "speaker": "James",
+      "line": "The main thing they’re saying is: Vite stays Vite. MIT licensed, open source, vendor-agnostic, community-driven.",
+      "style": "style-04",
+      "id": "vcn54s2fd9rmy0cygmavaj92rc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/vcn54s2fd9rmy0cygmavaj92rc",
+      "outputUrl": "https://replicate.delivery/xezq/AGF44ZpWSBZvKlvijcUQxubtR6fxgfVEUJhtdWbNjeA6Z1VtA/tmpmr8589qs.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/03-james-open-source-laptop__style-04__vcn54s2fd9rmy0cygmavaj92rc.jpeg",
+      "filename": "03-james-open-source-laptop__style-04__vcn54s2fd9rmy0cygmavaj92rc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.990119771,
+        "resolution_target": "1K",
+        "total_time": 19.008440687
+      }
+    },
+    {
+      "sceneSlug": "03-james-open-source-laptop",
+      "sceneTitle": "3A. James: Vite stays Vite",
+      "speaker": "James",
+      "line": "The main thing they’re saying is: Vite stays Vite. MIT licensed, open source, vendor-agnostic, community-driven.",
+      "style": "style-05",
+      "id": "01a27g2fe9rmt0cygmatbrhgc4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/01a27g2fe9rmt0cygmatbrhgc4",
+      "outputUrl": "https://replicate.delivery/xezq/tWSeXfIiuRuVg05EerAyJfnMy6ScE6d0STShLTQjIcKF0qraB/tmp3qtfeqvn.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/03-james-open-source-laptop__style-05__01a27g2fe9rmt0cygmatbrhgc4.jpeg",
+      "filename": "03-james-open-source-laptop__style-05__01a27g2fe9rmt0cygmatbrhgc4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.582163204,
+        "resolution_target": "1K",
+        "total_time": 22.597806835
+      }
+    },
+    {
+      "sceneSlug": "03-james-open-source-laptop",
+      "sceneTitle": "3A. James: Vite stays Vite",
+      "speaker": "James",
+      "line": "The main thing they’re saying is: Vite stays Vite. MIT licensed, open source, vendor-agnostic, community-driven.",
+      "style": "style-06",
+      "id": "8ezhqqtfc9rmt0cygmattv7zw0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/8ezhqqtfc9rmt0cygmattv7zw0",
+      "outputUrl": "https://replicate.delivery/xezq/PSD1WXCe4ATURKydtOKzUPQnxou2gdM5hUeAO5FMJUUDt6qWA/tmphbhc6wg6.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/03-james-open-source-laptop__style-06__8ezhqqtfc9rmt0cygmattv7zw0.jpeg",
+      "filename": "03-james-open-source-laptop__style-06__8ezhqqtfc9rmt0cygmattv7zw0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 24.592498564,
+        "resolution_target": "1K",
+        "total_time": 24.609261089
+      }
+    },
+    {
+      "sceneSlug": "03-james-open-source-laptop",
+      "sceneTitle": "3A. James: Vite stays Vite",
+      "speaker": "James",
+      "line": "The main thing they’re saying is: Vite stays Vite. MIT licensed, open source, vendor-agnostic, community-driven.",
+      "style": "style-07",
+      "id": "h1jjt3tfdnrmt0cygmatsj9qd4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/h1jjt3tfdnrmt0cygmatsj9qd4",
+      "outputUrl": "https://replicate.delivery/xezq/X4UiU93yQQp9FtWHuGGmGNIsDl4dv73UUdzE5ckv4AvNruqF/tmped0rx6nn.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/03-james-open-source-laptop__style-07__h1jjt3tfdnrmt0cygmatsj9qd4.jpeg",
+      "filename": "03-james-open-source-laptop__style-07__h1jjt3tfdnrmt0cygmatsj9qd4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 11.160337027,
+        "resolution_target": "1K",
+        "total_time": 11.175322957
+      }
+    },
+    {
+      "sceneSlug": "03-james-open-source-laptop",
+      "sceneTitle": "3A. James: Vite stays Vite",
+      "speaker": "James",
+      "line": "The main thing they’re saying is: Vite stays Vite. MIT licensed, open source, vendor-agnostic, community-driven.",
+      "style": "style-08",
+      "id": "6r8dk82fe5rmy0cygmat0rezd0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/6r8dk82fe5rmy0cygmat0rezd0",
+      "outputUrl": "https://replicate.delivery/xezq/35FTZ4sHWtbLF5NcXnX8EqtHyHOffb4DDHoqatCefkdVzqraB/tmpdjyh89uq.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/03-james-open-source-laptop__style-08__6r8dk82fe5rmy0cygmat0rezd0.jpeg",
+      "filename": "03-james-open-source-laptop__style-08__6r8dk82fe5rmy0cygmat0rezd0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 11.070868643,
+        "resolution_target": "1K",
+        "total_time": 11.080670945
+      }
+    },
+    {
+      "sceneSlug": "03-zeke-kitchen-coffee",
+      "sceneTitle": "3B. Zeke: kitchen coffee",
+      "speaker": "Zeke",
+      "line": "Good. Because the fastest way to make JavaScript people nervous is to touch their build tool.",
+      "style": "style-04",
+      "id": "frw96jtffhrmw0cygmasknbq9m",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/frw96jtffhrmw0cygmasknbq9m",
+      "outputUrl": "https://replicate.delivery/xezq/jDGXZMXT9bZVGpy4nFUrtY96yePe3T37zHJxaDNRbrpeZ1VtA/tmpxi34s7_g.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/03-zeke-kitchen-coffee__style-04__frw96jtffhrmw0cygmasknbq9m.jpeg",
+      "filename": "03-zeke-kitchen-coffee__style-04__frw96jtffhrmw0cygmasknbq9m.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.00656916,
+        "resolution_target": "1K",
+        "total_time": 20.050332047
+      }
+    },
+    {
+      "sceneSlug": "03-zeke-kitchen-coffee",
+      "sceneTitle": "3B. Zeke: kitchen coffee",
+      "speaker": "Zeke",
+      "line": "Good. Because the fastest way to make JavaScript people nervous is to touch their build tool.",
+      "style": "style-05",
+      "id": "cdj6gjtfexrmr0cygmatc0w4dg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/cdj6gjtfexrmr0cygmatc0w4dg",
+      "outputUrl": "https://replicate.delivery/xezq/ggSgxaxKLS4CFBUNhRvc1MOwwhYms0bh3Wqor4PGVIEQruqF/tmpd0cki4g5.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/03-zeke-kitchen-coffee__style-05__cdj6gjtfexrmr0cygmatc0w4dg.jpeg",
+      "filename": "03-zeke-kitchen-coffee__style-05__cdj6gjtfexrmr0cygmatc0w4dg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.664489341,
+        "resolution_target": "1K",
+        "total_time": 21.697083134
+      }
+    },
+    {
+      "sceneSlug": "03-zeke-kitchen-coffee",
+      "sceneTitle": "3B. Zeke: kitchen coffee",
+      "speaker": "Zeke",
+      "line": "Good. Because the fastest way to make JavaScript people nervous is to touch their build tool.",
+      "style": "style-06",
+      "id": "1gde0caffdrmw0cygmar8vwr7r",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/1gde0caffdrmw0cygmar8vwr7r",
+      "outputUrl": "https://replicate.delivery/xezq/Wlst6RVfedmGc0w0vF5TD5ylcTZbyAxMod0QxgDFHMhBt6qWA/tmpux4_fihh.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/03-zeke-kitchen-coffee__style-06__1gde0caffdrmw0cygmar8vwr7r.jpeg",
+      "filename": "03-zeke-kitchen-coffee__style-06__1gde0caffdrmw0cygmar8vwr7r.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.880799662,
+        "resolution_target": "1K",
+        "total_time": 22.903102749
+      }
+    },
+    {
+      "sceneSlug": "03-zeke-kitchen-coffee",
+      "sceneTitle": "3B. Zeke: kitchen coffee",
+      "speaker": "Zeke",
+      "line": "Good. Because the fastest way to make JavaScript people nervous is to touch their build tool.",
+      "style": "style-07",
+      "id": "qdfz8ntfenrmy0cygmatwe71kw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/qdfz8ntfenrmy0cygmatwe71kw",
+      "outputUrl": "https://replicate.delivery/xezq/54gr4xzGTXoMDRSFzBNNjvPeR7S5q4PIHyNeYuxPYr2At6qWA/tmpak3_qkrz.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/03-zeke-kitchen-coffee__style-07__qdfz8ntfenrmy0cygmatwe71kw.jpeg",
+      "filename": "03-zeke-kitchen-coffee__style-07__qdfz8ntfenrmy0cygmatwe71kw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.696795479,
+        "resolution_target": "1K",
+        "total_time": 21.709379225
+      }
+    },
+    {
+      "sceneSlug": "03-zeke-kitchen-coffee",
+      "sceneTitle": "3B. Zeke: kitchen coffee",
+      "speaker": "Zeke",
+      "line": "Good. Because the fastest way to make JavaScript people nervous is to touch their build tool.",
+      "style": "style-08",
+      "id": "e9k6jx2ffhrmt0cygmashb17pg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/e9k6jx2ffhrmt0cygmashb17pg",
+      "outputUrl": "https://replicate.delivery/xezq/yd8Gv1cSH6arOZRBxENrsSYh4XKkWIyw8zg7YTE47wDRruqF/tmp95mqhgc0.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/variants/03-zeke-kitchen-coffee__style-08__e9k6jx2ffhrmt0cygmashb17pg.jpeg",
+      "filename": "03-zeke-kitchen-coffee__style-08__e9k6jx2ffhrmt0cygmashb17pg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 25.506228054,
+        "resolution_target": "1K",
+        "total_time": 25.555309586
+      }
+    }
+  ]
+}

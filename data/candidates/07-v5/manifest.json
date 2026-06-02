@@ -1,0 +1,1126 @@
+{
+  "createdAt": "2026-06-02T17:41:41.556Z",
+  "model": "google/nano-banana-2",
+  "jobs": [
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "style": "style-04",
+      "id": "syk096abehrmr0cyh5pv37kf1c",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/syk096abehrmr0cyh5pv37kf1c",
+      "outputUrl": "https://replicate.delivery/xezq/H0EqlfBsfGmhkUfbM4PQUHeJyHHoCfbfI36pNyvsRaqF5HzqF/tmpcpimr_4l.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/01-james-predawn-desk__style-04__syk096abehrmr0cyh5pv37kf1c.jpeg",
+      "filename": "01-james-predawn-desk__style-04__syk096abehrmr0cyh5pv37kf1c.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 14.092669448,
+        "resolution_target": "1K",
+        "total_time": 14.131909652
+      }
+    },
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "style": "style-05",
+      "id": "j1g32njbehrmr0cyh5przkv7hw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/j1g32njbehrmr0cyh5przkv7hw",
+      "outputUrl": "https://replicate.delivery/xezq/sEfppf7faOM7NoreFjxrQETWjWAAZDKfqNDQV2AK2teD5HzqF/tmpmu5mnls8.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/01-james-predawn-desk__style-05__j1g32njbehrmr0cyh5przkv7hw.jpeg",
+      "filename": "01-james-predawn-desk__style-05__j1g32njbehrmr0cyh5przkv7hw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 14.970851215,
+        "resolution_target": "1K",
+        "total_time": 15.008513034
+      }
+    },
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "style": "style-07",
+      "id": "f7n354tbenrmw0cyh5psvj0p1r",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/f7n354tbenrmw0cyh5psvj0p1r",
+      "outputUrl": "https://replicate.delivery/xezq/w8tFHvs3F5ruEplQXN9Iz5jvDzWWHHuoD95rKowujp75HzqF/tmpvnfjlvro.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/01-james-predawn-desk__style-07__f7n354tbenrmw0cyh5psvj0p1r.jpeg",
+      "filename": "01-james-predawn-desk__style-07__f7n354tbenrmw0cyh5psvj0p1r.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 17.229875303,
+        "resolution_target": "1K",
+        "total_time": 17.275770553
+      }
+    },
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "style": "style-09",
+      "id": "7x4bgsjbcsrmr0cyh5pr0h1ea8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/7x4bgsjbcsrmr0cyh5pr0h1ea8",
+      "outputUrl": "https://replicate.delivery/xezq/yqoufDao4sw6TaHaP0bJMPyoeNjG9yt31gjupOkIdswsfYWtA/tmps3jdu2hf.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/01-james-predawn-desk__style-09__7x4bgsjbcsrmr0cyh5pr0h1ea8.jpeg",
+      "filename": "01-james-predawn-desk__style-09__7x4bgsjbcsrmr0cyh5pr0h1ea8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.597581651,
+        "resolution_target": "1K",
+        "total_time": 22.639169706
+      }
+    },
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "style": "style-11",
+      "id": "1e0zf9jbgxrmt0cyh5prp87myw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/1e0zf9jbgxrmt0cyh5prp87myw",
+      "outputUrl": "https://replicate.delivery/xezq/ZMiTaje7NmwpZyv2mTJCI8PUND8fQsHugAre7Oj2UoUKfxsaB/tmpz22q6fwg.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/01-james-predawn-desk__style-11__1e0zf9jbgxrmt0cyh5prp87myw.jpeg",
+      "filename": "01-james-predawn-desk__style-11__1e0zf9jbgxrmt0cyh5prp87myw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 15.240875225,
+        "resolution_target": "1K",
+        "total_time": 15.260338387000001
+      }
+    },
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "style": "style-13",
+      "id": "etfdf5tbchrmr0cyh5pv3q4258",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/etfdf5tbchrmr0cyh5pv3q4258",
+      "outputUrl": "https://replicate.delivery/xezq/tdV29FKowUqGENjC0RvLdT3NrcMDj583XN7kHNbIu8VePmVLA/tmprqj81c7x.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/01-james-predawn-desk__style-13__etfdf5tbchrmr0cyh5pv3q4258.jpeg",
+      "filename": "01-james-predawn-desk__style-13__etfdf5tbchrmr0cyh5pv3q4258.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 35.158312816,
+        "resolution_target": "1K",
+        "total_time": 35.193777155
+      }
+    },
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "style": "style-15",
+      "id": "bzwyb5tbghrmw0cyh5pvqy4e6r",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/bzwyb5tbghrmw0cyh5pvqy4e6r",
+      "outputUrl": "https://replicate.delivery/xezq/uEeWBFdgopyXEaMEyfVwTSKuFRf4KOjuyNhAuSGhXLIdfxsaB/tmpfxbroiia.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/01-james-predawn-desk__style-15__bzwyb5tbghrmw0cyh5pvqy4e6r.jpeg",
+      "filename": "01-james-predawn-desk__style-15__bzwyb5tbghrmw0cyh5pvqy4e6r.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 24.279402659,
+        "resolution_target": "1K",
+        "total_time": 24.290023495
+      }
+    },
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "style": "style-17",
+      "id": "z8g6j2jbk5rmt0cyh5ps51exwg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/z8g6j2jbk5rmt0cyh5ps51exwg",
+      "outputUrl": "https://replicate.delivery/xezq/pHJJOfNNLz0ZeUSZtJQK6VOrrMvzZXSf38ktweGMuTccejZ1C/tmpw94_4edp.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/01-james-predawn-desk__style-17__z8g6j2jbk5rmt0cyh5ps51exwg.jpeg",
+      "filename": "01-james-predawn-desk__style-17__z8g6j2jbk5rmt0cyh5ps51exwg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 17.702892429,
+        "resolution_target": "1K",
+        "total_time": 17.721922541
+      }
+    },
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "style": "style-19",
+      "id": "mefamw2bn1rmy0cyh5pvhk2eem",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/mefamw2bn1rmy0cyh5pvhk2eem",
+      "outputUrl": "https://replicate.delivery/xezq/0MAiuaBzbDr8FZOCzYHdLIy3lpgLCeYuXh8IckIVt1l3PmVLA/tmpjhh1za6e.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/01-james-predawn-desk__style-19__mefamw2bn1rmy0cyh5pvhk2eem.jpeg",
+      "filename": "01-james-predawn-desk__style-19__mefamw2bn1rmy0cyh5pvhk2eem.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 25.732796289,
+        "resolution_target": "1K",
+        "total_time": 25.750664343
+      }
+    },
+    {
+      "sceneSlug": "01-james-predawn-desk",
+      "style": "style-22",
+      "id": "g3kxyj2bf9rmt0cyh5pvp37h60",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/g3kxyj2bf9rmt0cyh5pvp37h60",
+      "outputUrl": "https://replicate.delivery/xezq/sYZ5LL7zn2aLJ5pCGA8ARbrZRtvO7wjOHtPEXEf2jjD0PmVLA/tmpjuuvazpf.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/01-james-predawn-desk__style-22__g3kxyj2bf9rmt0cyh5pvp37h60.jpeg",
+      "filename": "01-james-predawn-desk__style-22__g3kxyj2bf9rmt0cyh5pvp37h60.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.633158891,
+        "resolution_target": "1K",
+        "total_time": 18.668518208
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-04",
+      "id": "hnjdh8abh1rmw0cyh5pvrbsrym",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/hnjdh8abh1rmw0cyh5pvrbsrym",
+      "outputUrl": "https://replicate.delivery/xezq/e4qC9agsBYTQHiKU4cTUsTfHCZknHsU8aMwIKBvMWY1sfYWtA/tmphdrmnmwv.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/05-james-vite-explainer__style-04__hnjdh8abh1rmw0cyh5pvrbsrym.jpeg",
+      "filename": "05-james-vite-explainer__style-04__hnjdh8abh1rmw0cyh5pvrbsrym.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.267577865,
+        "resolution_target": "1K",
+        "total_time": 22.280548009
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-05",
+      "id": "hp2z9bjbp1rmw0cyh5pvxc96yr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/hp2z9bjbp1rmw0cyh5pvxc96yr",
+      "outputUrl": "https://replicate.delivery/xezq/k4AUqbCKLyqCGlGfqLWhUtjAgqeU0TXcaFyv58PAjMpnfYWtA/tmpp463be_f.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/05-james-vite-explainer__style-05__hp2z9bjbp1rmw0cyh5pvxc96yr.jpeg",
+      "filename": "05-james-vite-explainer__style-05__hp2z9bjbp1rmw0cyh5pvxc96yr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 17.159665618,
+        "resolution_target": "1K",
+        "total_time": 17.186702193
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-07",
+      "id": "6w5nhgjbrhrmw0cyh5prc7e3ww",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/6w5nhgjbrhrmw0cyh5prc7e3ww",
+      "outputUrl": "https://replicate.delivery/xezq/3Og1aRUQ7WIfYKEfVkOavd36GLfT6OYdI8qxfl9ucINpejZ1C/tmpacpo3kze.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/05-james-vite-explainer__style-07__6w5nhgjbrhrmw0cyh5prc7e3ww.jpeg",
+      "filename": "05-james-vite-explainer__style-07__6w5nhgjbrhrmw0cyh5prc7e3ww.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.757627064,
+        "resolution_target": "1K",
+        "total_time": 20.791470893
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-09",
+      "id": "btjn05abhxrmy0cyh5pv5k6xmw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/btjn05abhxrmy0cyh5pv5k6xmw",
+      "outputUrl": "https://replicate.delivery/xezq/uOfeOZ8sk7nR3UFOxaoOBuGeGd3x5CppBenxf4Hwnso59jZ1C/tmp45rgpznk.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/05-james-vite-explainer__style-09__btjn05abhxrmy0cyh5pv5k6xmw.jpeg",
+      "filename": "05-james-vite-explainer__style-09__btjn05abhxrmy0cyh5pv5k6xmw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 25.805882576,
+        "resolution_target": "1K",
+        "total_time": 25.834518249
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-11",
+      "id": "te4vt4abr5rmy0cyh5ps38a4em",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/te4vt4abr5rmy0cyh5ps38a4em",
+      "outputUrl": "https://replicate.delivery/xezq/jSNdBGIxfIVyCC2emt0lQR6ehxKleHwfCQfdBKgLVFvP7HzqF/tmputsw3_vs.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/05-james-vite-explainer__style-11__te4vt4abr5rmy0cyh5ps38a4em.jpeg",
+      "filename": "05-james-vite-explainer__style-11__te4vt4abr5rmy0cyh5ps38a4em.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.668952478,
+        "resolution_target": "1K",
+        "total_time": 22.727784124
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-13",
+      "id": "jz2qfrabhsrmy0cyh5pssvdyvr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/jz2qfrabhsrmy0cyh5pssvdyvr",
+      "outputUrl": "https://replicate.delivery/xezq/YWgQSh26Ox5oO5KN7gWeOPVkcyJxm5ehT1FA1dPRejmdfxsaB/tmp2kna1fut.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/05-james-vite-explainer__style-13__jz2qfrabhsrmy0cyh5pssvdyvr.jpeg",
+      "filename": "05-james-vite-explainer__style-13__jz2qfrabhsrmy0cyh5pssvdyvr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 24.962257918,
+        "resolution_target": "1K",
+        "total_time": 24.975238278
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-15",
+      "id": "j4dkgtabmhrmt0cyh5psksym3w",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/j4dkgtabmhrmt0cyh5psksym3w",
+      "outputUrl": "https://replicate.delivery/xezq/XiX7IGm7ofTaZKI9qWntWqheBMjDbSe2sefY2ebGDhEs8HzqF/tmp1v6s_vjs.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/05-james-vite-explainer__style-15__j4dkgtabmhrmt0cyh5psksym3w.jpeg",
+      "filename": "05-james-vite-explainer__style-15__j4dkgtabmhrmt0cyh5psksym3w.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 28.242400749,
+        "resolution_target": "1K",
+        "total_time": 28.295111133
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-17",
+      "id": "94wwyrjbj5rmy0cyh5prp4bf48",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/94wwyrjbj5rmy0cyh5prp4bf48",
+      "outputUrl": "https://replicate.delivery/xezq/Yc18rceNSLVYB60UBVIuGSpSAZx90qxKgTzHj7nBcY9yPmVLA/tmp5djlsq47.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/05-james-vite-explainer__style-17__94wwyrjbj5rmy0cyh5prp4bf48.jpeg",
+      "filename": "05-james-vite-explainer__style-17__94wwyrjbj5rmy0cyh5prp4bf48.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 15.235236509,
+        "resolution_target": "1K",
+        "total_time": 15.25697827
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-19",
+      "id": "yczmb8abh1rmt0cyh5psye8h9m",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/yczmb8abh1rmt0cyh5psye8h9m",
+      "outputUrl": "https://replicate.delivery/xezq/DquCPwexTft73E5J1OfJrDMayfjYKfxQggnqVnZvkgY99jZ1C/tmpoquav1lu.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/05-james-vite-explainer__style-19__yczmb8abh1rmt0cyh5psye8h9m.jpeg",
+      "filename": "05-james-vite-explainer__style-19__yczmb8abh1rmt0cyh5psye8h9m.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 25.927286136,
+        "resolution_target": "1K",
+        "total_time": 25.938706842
+      }
+    },
+    {
+      "sceneSlug": "05-james-vite-explainer",
+      "style": "style-22",
+      "id": "vfbg9zabpdrmy0cyh5prtwzavm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/vfbg9zabpdrmy0cyh5prtwzavm",
+      "outputUrl": "https://replicate.delivery/xezq/7HJrOGpfg70AVKZPbcyAP5a98m9xV4gF6WQytAYrePktfYWtA/tmp4ssgrd_k.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/05-james-vite-explainer__style-22__vfbg9zabpdrmy0cyh5prtwzavm.jpeg",
+      "filename": "05-james-vite-explainer__style-22__vfbg9zabpdrmy0cyh5prtwzavm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 23.360259449,
+        "resolution_target": "1K",
+        "total_time": 23.381945024
+      }
+    },
+    {
+      "sceneSlug": "07-james-open-commitment",
+      "style": "style-04",
+      "id": "qkt501jbj5rmr0cyh5pt4ezbdr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/qkt501jbj5rmr0cyh5pt4ezbdr",
+      "outputUrl": "https://replicate.delivery/xezq/DiKGzy0GtWLNO1RXlMfebFU1GbwbY0exLHcTuow08jHbfxsaB/tmp1r_c8kuc.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/07-james-open-commitment__style-04__qkt501jbj5rmr0cyh5pt4ezbdr.jpeg",
+      "filename": "07-james-open-commitment__style-04__qkt501jbj5rmr0cyh5pt4ezbdr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 24.014340514,
+        "resolution_target": "1K",
+        "total_time": 24.024676755
+      }
+    },
+    {
+      "sceneSlug": "07-james-open-commitment",
+      "style": "style-05",
+      "id": "b61r4mjbrhrmr0cyh5ptts2sn0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/b61r4mjbrhrmr0cyh5ptts2sn0",
+      "outputUrl": "https://replicate.delivery/xezq/felsKBuZBNgH5k5O973t4xi5WImGx4qhWBKigpuGWQeHfxsaB/tmpbielkgag.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/07-james-open-commitment__style-05__b61r4mjbrhrmr0cyh5ptts2sn0.jpeg",
+      "filename": "07-james-open-commitment__style-05__b61r4mjbrhrmr0cyh5ptts2sn0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.046470929,
+        "resolution_target": "1K",
+        "total_time": 13.117814257
+      }
+    },
+    {
+      "sceneSlug": "07-james-open-commitment",
+      "style": "style-07",
+      "id": "6z96fc2brhrmy0cyh5prn9p0r8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/6z96fc2brhrmy0cyh5prn9p0r8",
+      "outputUrl": "https://replicate.delivery/xezq/1j98cCeQeyhrL01UHOYCHj2vGRgA3nynrfijqOfZFlQvejZ1C/tmptfw_56bu.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/07-james-open-commitment__style-07__6z96fc2brhrmy0cyh5prn9p0r8.jpeg",
+      "filename": "07-james-open-commitment__style-07__6z96fc2brhrmy0cyh5prn9p0r8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.65568345,
+        "resolution_target": "1K",
+        "total_time": 21.74052127
+      }
+    },
+    {
+      "sceneSlug": "07-james-open-commitment",
+      "style": "style-09",
+      "id": "gw09xsabqdrmt0cyh5psas7fn0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/gw09xsabqdrmt0cyh5psas7fn0",
+      "outputUrl": "https://replicate.delivery/xezq/x0Gf750oWVy2EiCF7AAnFcIJNcf3E3x9Tj9TkVjIGUllfYWtA/tmpkex6dhsc.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/07-james-open-commitment__style-09__gw09xsabqdrmt0cyh5psas7fn0.jpeg",
+      "filename": "07-james-open-commitment__style-09__gw09xsabqdrmt0cyh5psas7fn0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 15.331086613,
+        "resolution_target": "1K",
+        "total_time": 15.416715176
+      }
+    },
+    {
+      "sceneSlug": "07-james-open-commitment",
+      "style": "style-11",
+      "id": "vhy0rtabqxrmy0cyh5ptbqjtqm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/vhy0rtabqxrmy0cyh5ptbqjtqm",
+      "outputUrl": "https://replicate.delivery/xezq/wNsFlwP9WzrbExGIE3cALsEQc9umvBs0xeRS32NM7NfvfYWtA/tmprwp2uwys.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/07-james-open-commitment__style-11__vhy0rtabqxrmy0cyh5ptbqjtqm.jpeg",
+      "filename": "07-james-open-commitment__style-11__vhy0rtabqxrmy0cyh5ptbqjtqm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 25.323878273,
+        "resolution_target": "1K",
+        "total_time": 25.374069436
+      }
+    },
+    {
+      "sceneSlug": "07-james-open-commitment",
+      "style": "style-13",
+      "id": "b27jgxjbt9rmt0cyh5pvw98qbg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/b27jgxjbt9rmt0cyh5pvw98qbg",
+      "outputUrl": "https://replicate.delivery/xezq/KbGAYXe6dft9fogubOdBtNLRbH2pwYukCv5HAlEFBP3ZfxsaB/tmp7wso13j_.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/07-james-open-commitment__style-13__b27jgxjbt9rmt0cyh5pvw98qbg.jpeg",
+      "filename": "07-james-open-commitment__style-13__b27jgxjbt9rmt0cyh5pvw98qbg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.791508352,
+        "resolution_target": "1K",
+        "total_time": 22.865793218
+      }
+    },
+    {
+      "sceneSlug": "07-james-open-commitment",
+      "style": "style-15",
+      "id": "y4hn7ftbv5rmr0cyh5pv3h8yhm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/y4hn7ftbv5rmr0cyh5pv3h8yhm",
+      "outputUrl": "https://replicate.delivery/xezq/CXTh39JNWXbkMNhwyg7QnUsfGOro1AaFbnoDeEBk3SkkfYWtA/tmpj12n6o_p.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/07-james-open-commitment__style-15__y4hn7ftbv5rmr0cyh5pv3h8yhm.jpeg",
+      "filename": "07-james-open-commitment__style-15__y4hn7ftbv5rmr0cyh5pv3h8yhm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 14.231671493,
+        "resolution_target": "1K",
+        "total_time": 14.293586155
+      }
+    },
+    {
+      "sceneSlug": "07-james-open-commitment",
+      "style": "style-17",
+      "id": "7av0qv2bpnrmt0cyh5psrp4an4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/7av0qv2bpnrmt0cyh5psrp4an4",
+      "outputUrl": "https://replicate.delivery/xezq/sew13afZEBt4ZkRK4b1IbEO3rRK0LIljklB9z56L3R7sfYWtA/tmpla649e6a.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/07-james-open-commitment__style-17__7av0qv2bpnrmt0cyh5psrp4an4.jpeg",
+      "filename": "07-james-open-commitment__style-17__7av0qv2bpnrmt0cyh5psrp4an4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.405625588,
+        "resolution_target": "1K",
+        "total_time": 22.455973419
+      }
+    },
+    {
+      "sceneSlug": "07-james-open-commitment",
+      "style": "style-19",
+      "id": "nb24vnabehrmy0cyh5psw79h5r",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/nb24vnabehrmy0cyh5psw79h5r",
+      "outputUrl": "https://replicate.delivery/xezq/vR1MfBItPN0ldKETjeqKPAlKMvyVe3R3h5IfInDWiute8jZ1C/tmpdtj9v584.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/07-james-open-commitment__style-19__nb24vnabehrmy0cyh5psw79h5r.jpeg",
+      "filename": "07-james-open-commitment__style-19__nb24vnabehrmy0cyh5psw79h5r.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.064301325,
+        "resolution_target": "1K",
+        "total_time": 18.105535208
+      }
+    },
+    {
+      "sceneSlug": "07-james-open-commitment",
+      "style": "style-22",
+      "id": "v85tv22bqdrmy0cyh5psdmbf9w",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/v85tv22bqdrmy0cyh5psdmbf9w",
+      "outputUrl": "https://replicate.delivery/xezq/P4edAUYyvi21Sqekj5qArX4qlvYfPRmRTQNb3fXSgRIwejZ1C/tmpealgdj5a.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/07-james-open-commitment__style-22__v85tv22bqdrmy0cyh5psdmbf9w.jpeg",
+      "filename": "07-james-open-commitment__style-22__v85tv22bqdrmy0cyh5psdmbf9w.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.490744738,
+        "resolution_target": "1K",
+        "total_time": 22.540318519
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-big-huh",
+      "style": "style-04",
+      "id": "ydp23ctbq5rmy0cyh5ptpwvm1g",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/ydp23ctbq5rmy0cyh5ptpwvm1g",
+      "outputUrl": "https://replicate.delivery/xezq/K4poJa367gbXMlz6j0uUGPRiCHXGuBiy6fddQ5UxQxpyPmVLA/tmpfrma2fws.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/08-zeke-big-huh__style-04__ydp23ctbq5rmy0cyh5ptpwvm1g.jpeg",
+      "filename": "08-zeke-big-huh__style-04__ydp23ctbq5rmy0cyh5ptpwvm1g.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 15.873282476,
+        "resolution_target": "1K",
+        "total_time": 15.936286022
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-big-huh",
+      "style": "style-05",
+      "id": "nz11w7jbtnrmr0cyh5prswhfmr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/nz11w7jbtnrmr0cyh5prswhfmr",
+      "outputUrl": "https://replicate.delivery/xezq/AEKGkhgMiGIVLpAHX7FtHUdfFIm0eHPqExtlrVv5EeceejZ1C/tmpy8khxkoo.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/08-zeke-big-huh__style-05__nz11w7jbtnrmr0cyh5prswhfmr.jpeg",
+      "filename": "08-zeke-big-huh__style-05__nz11w7jbtnrmr0cyh5prswhfmr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 26.238398867,
+        "resolution_target": "1K",
+        "total_time": 26.270554486
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-big-huh",
+      "style": "style-07",
+      "id": "35acwnjbt9rmr0cyh5pvwx3cgc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/35acwnjbt9rmr0cyh5pvwx3cgc",
+      "outputUrl": "https://replicate.delivery/xezq/MBNuG9eoCk2WTabQCI2ffhV9efCe4F9wv5LduUtpH0Em7HzqF/tmplgm4pob3.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/08-zeke-big-huh__style-07__35acwnjbt9rmr0cyh5pvwx3cgc.jpeg",
+      "filename": "08-zeke-big-huh__style-07__35acwnjbt9rmr0cyh5pvwx3cgc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 24.062615773,
+        "resolution_target": "1K",
+        "total_time": 24.109691515
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-big-huh",
+      "style": "style-09",
+      "id": "s27sw9abshrmr0cyh5psnp4x64",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/s27sw9abshrmr0cyh5psnp4x64",
+      "outputUrl": "https://replicate.delivery/xezq/XGSXUcMC6ZIeKiiszsR3MDU9DT8XfFTc1MmkM7Ml31eKfxsaB/tmpwiypyljv.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/08-zeke-big-huh__style-09__s27sw9abshrmr0cyh5psnp4x64.jpeg",
+      "filename": "08-zeke-big-huh__style-09__s27sw9abshrmr0cyh5psnp4x64.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 15.743559423,
+        "resolution_target": "1K",
+        "total_time": 15.848781424
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-big-huh",
+      "style": "style-11",
+      "id": "6pfdcjabrdrmw0cyh5ptshwcjw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/6pfdcjabrdrmw0cyh5ptshwcjw",
+      "outputUrl": "https://replicate.delivery/xezq/jQs60fLe9XnWgUV2EA1e1AXKLAX2FvkP6IOe9N9QV5lLfjZ1C/tmp7tibrka0.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/08-zeke-big-huh__style-11__6pfdcjabrdrmw0cyh5ptshwcjw.jpeg",
+      "filename": "08-zeke-big-huh__style-11__6pfdcjabrdrmw0cyh5ptshwcjw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 28.53140345,
+        "resolution_target": "1K",
+        "total_time": 28.550585257
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-big-huh",
+      "style": "style-13",
+      "id": "hq792s2brnrmw0cyh5pvhtbxr4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/hq792s2brnrmw0cyh5pvhtbxr4",
+      "outputUrl": "https://replicate.delivery/xezq/NpbXckKYwXKEBJ6WIxJpveYxhAVSMGuP2zaB0nY59nL4PmVLA/tmptz871oz_.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/08-zeke-big-huh__style-13__hq792s2brnrmw0cyh5pvhtbxr4.jpeg",
+      "filename": "08-zeke-big-huh__style-13__hq792s2brnrmw0cyh5pvhtbxr4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 26.503282321,
+        "resolution_target": "1K",
+        "total_time": 26.570802837
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-big-huh",
+      "style": "style-15",
+      "id": "qee13rjbnnrmt0cyh5pvfrek8c",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/qee13rjbnnrmt0cyh5pvfrek8c",
+      "outputUrl": "https://replicate.delivery/xezq/U5QaUv5ZnW7YCBiqKPtMdQ0IYEQ9ToWpOZMfRF8uFZN5PmVLA/tmp38maw_hf.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/08-zeke-big-huh__style-15__qee13rjbnnrmt0cyh5pvfrek8c.jpeg",
+      "filename": "08-zeke-big-huh__style-15__qee13rjbnnrmt0cyh5pvfrek8c.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 28.49078254,
+        "resolution_target": "1K",
+        "total_time": 28.513118551
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-big-huh",
+      "style": "style-17",
+      "id": "4ja53babt9rmw0cyh5ptd7fva8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/4ja53babt9rmw0cyh5ptd7fva8",
+      "outputUrl": "https://replicate.delivery/xezq/j6yO4nNyFv4lCVmA2Klru0heeUvFPcytfBysP8o3MkacfxsaB/tmpqexvjsj_.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/08-zeke-big-huh__style-17__4ja53babt9rmw0cyh5ptd7fva8.jpeg",
+      "filename": "08-zeke-big-huh__style-17__4ja53babt9rmw0cyh5ptd7fva8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 24.507076283,
+        "resolution_target": "1K",
+        "total_time": 24.567784263
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-big-huh",
+      "style": "style-19",
+      "id": "kw5k3ytbpnrmy0cyh5pr3m9krg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/kw5k3ytbpnrmy0cyh5pr3m9krg",
+      "outputUrl": "https://replicate.delivery/xezq/sJfPkrp8S5RjKKPIXSM8KThP3sYr7hH9lECUNRv1MiejfYWtA/tmpoy4yn4lf.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/08-zeke-big-huh__style-19__kw5k3ytbpnrmy0cyh5pr3m9krg.jpeg",
+      "filename": "08-zeke-big-huh__style-19__kw5k3ytbpnrmy0cyh5pr3m9krg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.557128496,
+        "resolution_target": "1K",
+        "total_time": 13.583521516
+      }
+    },
+    {
+      "sceneSlug": "08-zeke-big-huh",
+      "style": "style-22",
+      "id": "sr68kgjbwhrmw0cyh5psbkd0r8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/sr68kgjbwhrmw0cyh5psbkd0r8",
+      "outputUrl": "https://replicate.delivery/xezq/8ecMSQSHfBugv0vceASKRl2zqFRgeyQbyLh0QZWpnwQMejZ1C/tmpexh_dadt.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/08-zeke-big-huh__style-22__sr68kgjbwhrmw0cyh5psbkd0r8.jpeg",
+      "filename": "08-zeke-big-huh__style-22__sr68kgjbwhrmw0cyh5psbkd0r8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 13.852014011,
+        "resolution_target": "1K",
+        "total_time": 13.880977079
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "style": "style-04",
+      "id": "4rc9drjbmnrmr0cyh5prms1xvc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/4rc9drjbmnrmr0cyh5prms1xvc",
+      "outputUrl": "https://replicate.delivery/xezq/g9eHRRYkxmXIaKX7HHecexdjK2mAW3AYvAaeGirmNYG8ejZ1C/tmph707tjeq.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/09-james-fund__style-04__4rc9drjbmnrmr0cyh5prms1xvc.jpeg",
+      "filename": "09-james-fund__style-04__4rc9drjbmnrmr0cyh5prms1xvc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 25.998501905,
+        "resolution_target": "1K",
+        "total_time": 26.063556747
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "style": "style-05",
+      "id": "pvvhxwjbv1rmy0cyh5ps78n9xw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/pvvhxwjbv1rmy0cyh5ps78n9xw",
+      "outputUrl": "https://replicate.delivery/xezq/N48WfuaIiKR6XiTiiY81EmfKnCKSQ6AxtXMuXdp2vHecfxsaB/tmpmj8wevt5.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/09-james-fund__style-05__pvvhxwjbv1rmy0cyh5ps78n9xw.jpeg",
+      "filename": "09-james-fund__style-05__pvvhxwjbv1rmy0cyh5ps78n9xw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 24.317153847,
+        "resolution_target": "1K",
+        "total_time": 24.392833064
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "style": "style-07",
+      "id": "sqyzwwabwxrmr0cyh5psa2h2j4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/sqyzwwabwxrmr0cyh5psa2h2j4",
+      "outputUrl": "https://replicate.delivery/xezq/3let1ID0EhVbbyncKO6IAz2zFaqimVhRWVqu2fa4AmAqfYWtA/tmpqb3r6kn5.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/09-james-fund__style-07__sqyzwwabwxrmr0cyh5psa2h2j4.jpeg",
+      "filename": "09-james-fund__style-07__sqyzwwabwxrmr0cyh5psa2h2j4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.94976084,
+        "resolution_target": "1K",
+        "total_time": 20.972244762
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "style": "style-09",
+      "id": "nkhqcxtbq5rmt0cyh5prnfwx30",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/nkhqcxtbq5rmt0cyh5prnfwx30",
+      "outputUrl": "https://replicate.delivery/xezq/jXi7YbFlxvbZEZKY8dAhHqzUNkSwt11AUWbvfNGRm2n4PmVLA/tmpu_g3xkxf.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/09-james-fund__style-09__nkhqcxtbq5rmt0cyh5prnfwx30.jpeg",
+      "filename": "09-james-fund__style-09__nkhqcxtbq5rmt0cyh5prnfwx30.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 27.435452265,
+        "resolution_target": "1K",
+        "total_time": 27.502456353
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "style": "style-11",
+      "id": "xr196bjbjxrmt0cyh5pt828xvc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/xr196bjbjxrmt0cyh5pt828xvc",
+      "outputUrl": "https://replicate.delivery/xezq/p7jsbYRPmpZzPlOV1Fu0SMs8WUAtniLAS0X1VfVDoS93PmVLA/tmp8lr0kiy0.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/09-james-fund__style-11__xr196bjbjxrmt0cyh5pt828xvc.jpeg",
+      "filename": "09-james-fund__style-11__xr196bjbjxrmt0cyh5pt828xvc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 25.271888927,
+        "resolution_target": "1K",
+        "total_time": 25.284562995
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "style": "style-13",
+      "id": "azc051tbvsrmr0cyh5ptwvd4gc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/azc051tbvsrmr0cyh5ptwvd4gc",
+      "outputUrl": "https://replicate.delivery/xezq/ztv9ouCZcOqOJ5dsAecXITCAWZVg3YT7gph8c4vm4gl2PmVLA/tmpge2umvy8.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/09-james-fund__style-13__azc051tbvsrmr0cyh5ptwvd4gc.jpeg",
+      "filename": "09-james-fund__style-13__azc051tbvsrmr0cyh5ptwvd4gc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 23.529519689,
+        "resolution_target": "1K",
+        "total_time": 23.605411572
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "style": "style-15",
+      "id": "3b8a9f2bsdrmy0cyh5pvhzr6zm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/3b8a9f2bsdrmy0cyh5pvhzr6zm",
+      "outputUrl": "https://replicate.delivery/xezq/149sREeeuvkA2kqQNRDdpCuabeQ3AnaEV8U7EuXtcqthfxsaB/tmp5zhcv15t.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/09-james-fund__style-15__3b8a9f2bsdrmy0cyh5pvhzr6zm.jpeg",
+      "filename": "09-james-fund__style-15__3b8a9f2bsdrmy0cyh5pvhzr6zm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 26.839014834,
+        "resolution_target": "1K",
+        "total_time": 26.882064211
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "style": "style-17",
+      "id": "80x26fabtxrmr0cyh5psf1emg0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/80x26fabtxrmr0cyh5psf1emg0",
+      "outputUrl": "https://replicate.delivery/xezq/hiLgXdSc2D4bK1eZNMQMG1HH67Acl0facsCagSESPH8rfYWtA/tmpmu28k1uw.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/09-james-fund__style-17__80x26fabtxrmr0cyh5psf1emg0.jpeg",
+      "filename": "09-james-fund__style-17__80x26fabtxrmr0cyh5psf1emg0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.881718652,
+        "resolution_target": "1K",
+        "total_time": 21.900475267
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "style": "style-19",
+      "id": "vqb13wabrdrmr0cyh5pvwvewx4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/vqb13wabrdrmr0cyh5pvwvewx4",
+      "outputUrl": "https://replicate.delivery/xezq/p1apCeFjsRxcaSVTqIUP4XX3PPsD6U65Ixqqk77Pyln1PmVLA/tmpxho3pbsp.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/09-james-fund__style-19__vqb13wabrdrmr0cyh5pvwvewx4.jpeg",
+      "filename": "09-james-fund__style-19__vqb13wabrdrmr0cyh5pvwvewx4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.927693591,
+        "resolution_target": "1K",
+        "total_time": 22.029261311
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "style": "style-22",
+      "id": "rd8enmtbqxrmt0cyh5pvhx6anr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/rd8enmtbqxrmt0cyh5pvhx6anr",
+      "outputUrl": "https://replicate.delivery/xezq/oP3elNa5z33ORi6161fva9hhfRete1ZwD33roS7bABjs8jZ1C/tmpe9jlkcoa.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/09-james-fund__style-22__rd8enmtbqxrmt0cyh5pvhx6anr.jpeg",
+      "filename": "09-james-fund__style-22__rd8enmtbqxrmt0cyh5pvhx6anr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 15.74376408,
+        "resolution_target": "1K",
+        "total_time": 15.85626617
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-04",
+      "id": "ynj43vabs5rmr0cyh5ps990qj0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/ynj43vabs5rmr0cyh5ps990qj0",
+      "outputUrl": "https://replicate.delivery/xezq/xbo24dQU1y5PJN2BQc5U99dALqj7Z6NZDu8JPUTFwnm6HzqF/tmpx51m7lyn.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/11-james-adapter-dance__style-04__ynj43vabs5rmr0cyh5ps990qj0.jpeg",
+      "filename": "11-james-adapter-dance__style-04__ynj43vabs5rmr0cyh5ps990qj0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.156865746,
+        "resolution_target": "1K",
+        "total_time": 20.17912255
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-05",
+      "id": "78webb2br5rmr0cyh5ptay3zbw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/78webb2br5rmr0cyh5ptay3zbw",
+      "outputUrl": "https://replicate.delivery/xezq/F5RpQeU3MkznViTZObhcRktTJGI5ifqMNF1hJsSjNeyKfxsaB/tmp2mukby55.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/11-james-adapter-dance__style-05__78webb2br5rmr0cyh5ptay3zbw.jpeg",
+      "filename": "11-james-adapter-dance__style-05__78webb2br5rmr0cyh5ptay3zbw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 16.010383325,
+        "resolution_target": "1K",
+        "total_time": 16.100049447
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-07",
+      "id": "9qthkh2bssrmy0cyh5pr61s9mm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/9qthkh2bssrmy0cyh5pr61s9mm",
+      "outputUrl": "https://replicate.delivery/xezq/X8L6JLyzYbp8Opf3SecCotbitLUDtrwDSEVeCtlL72OYfxsaB/tmpzt7joh9o.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/11-james-adapter-dance__style-07__9qthkh2bssrmy0cyh5pr61s9mm.jpeg",
+      "filename": "11-james-adapter-dance__style-07__9qthkh2bssrmy0cyh5pr61s9mm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.889011158,
+        "resolution_target": "1K",
+        "total_time": 22.954439127
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-09",
+      "id": "q1mbbxabrnrmr0cyh5ps51wd7c",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/q1mbbxabrnrmr0cyh5ps51wd7c",
+      "outputUrl": "https://replicate.delivery/xezq/J85DmZa80s5gNhfc4wDIxPV4K2P7s36SsaawekoMfscjfxsaB/tmp7hncvhj7.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/11-james-adapter-dance__style-09__q1mbbxabrnrmr0cyh5ps51wd7c.jpeg",
+      "filename": "11-james-adapter-dance__style-09__q1mbbxabrnrmr0cyh5ps51wd7c.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 27.265096991,
+        "resolution_target": "1K",
+        "total_time": 27.33726816
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-11",
+      "id": "nw695rjbqnrmr0cyh5psb4qytw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/nw695rjbqnrmr0cyh5psb4qytw",
+      "outputUrl": "https://replicate.delivery/xezq/efCQLb8IsAoTGEbDwsifMB3pGx4DshNSufgzeE7YXY0W8jZ1C/tmppqjx13ya.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/11-james-adapter-dance__style-11__nw695rjbqnrmr0cyh5psb4qytw.jpeg",
+      "filename": "11-james-adapter-dance__style-11__nw695rjbqnrmr0cyh5psb4qytw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 12.584324061,
+        "resolution_target": "1K",
+        "total_time": 12.628372122
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-13",
+      "id": "d135bttbsxrmr0cyh5ps78e5tm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/d135bttbsxrmr0cyh5ps78e5tm",
+      "outputUrl": "https://replicate.delivery/xezq/DqMATqYvAirrMVtzRSnLoi5HJ77W7fEGflaXtGxQV6KrfYWtA/tmp654j_0a9.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/11-james-adapter-dance__style-13__d135bttbsxrmr0cyh5ps78e5tm.jpeg",
+      "filename": "11-james-adapter-dance__style-13__d135bttbsxrmr0cyh5ps78e5tm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.242566187,
+        "resolution_target": "1K",
+        "total_time": 21.324204638
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-15",
+      "id": "5qpr8yjbpnrmy0cyh5ptfm0hw8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/5qpr8yjbpnrmy0cyh5ptfm0hw8",
+      "outputUrl": "https://replicate.delivery/xezq/rBeRAbUa4pwLYqmt4nl21teVj1s65MtQP56wR2xhELGyfYWtA/tmp8rl041vn.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/11-james-adapter-dance__style-15__5qpr8yjbpnrmy0cyh5ptfm0hw8.jpeg",
+      "filename": "11-james-adapter-dance__style-15__5qpr8yjbpnrmy0cyh5ptfm0hw8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 28.508618837,
+        "resolution_target": "1K",
+        "total_time": 28.533229286
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-17",
+      "id": "5nk12sabq9rmt0cyh5ptfb71m8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/5nk12sabq9rmt0cyh5ptfb71m8",
+      "outputUrl": "https://replicate.delivery/xezq/2R5Elf5mBDSEWi4b8lnd8SXTO81vTdIwKve0dymp9CfIfxsaB/tmpyjs4x7l4.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/11-james-adapter-dance__style-17__5nk12sabq9rmt0cyh5ptfb71m8.jpeg",
+      "filename": "11-james-adapter-dance__style-17__5nk12sabq9rmt0cyh5ptfb71m8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 14.752690507,
+        "resolution_target": "1K",
+        "total_time": 14.829540319
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-19",
+      "id": "yr66qv2btdrmr0cyh5psg34888",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/yr66qv2btdrmr0cyh5psg34888",
+      "outputUrl": "https://replicate.delivery/xezq/YYWV7uXWgraPN5ImeWNP6OM4qgfoJsjvtoxoxCOOCI9vfYWtA/tmp5pqj27pl.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/11-james-adapter-dance__style-19__yr66qv2btdrmr0cyh5psg34888.jpeg",
+      "filename": "11-james-adapter-dance__style-19__yr66qv2btdrmr0cyh5psg34888.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 25.253826397,
+        "resolution_target": "1K",
+        "total_time": 25.320777798
+      }
+    },
+    {
+      "sceneSlug": "11-james-adapter-dance",
+      "style": "style-22",
+      "id": "v23vd4abrdrmr0cyh5psg1334r",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/v23vd4abrdrmr0cyh5psg1334r",
+      "outputUrl": "https://replicate.delivery/xezq/kVYJg5ucAgJWGB54mG2G7JXfwnAJNUuWm1RHdGVUNnY3PmVLA/tmpxozctxvi.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/11-james-adapter-dance__style-22__v23vd4abrdrmr0cyh5psg1334r.jpeg",
+      "filename": "11-james-adapter-dance__style-22__v23vd4abrdrmr0cyh5psg1334r.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 24.844606986,
+        "resolution_target": "1K",
+        "total_time": 24.86077269
+      }
+    },
+    {
+      "sceneSlug": "12-zeke-finale",
+      "style": "style-04",
+      "id": "rk3h3y2bt5rmw0cyh5prskdt18",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/rk3h3y2bt5rmw0cyh5prskdt18",
+      "outputUrl": "https://replicate.delivery/xezq/azWUeuSdyURXG6Yu9xIwPLHLneln9OmoOoa2c5HNratifYWtA/tmpxikfip3w.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/12-zeke-finale__style-04__rk3h3y2bt5rmw0cyh5prskdt18.jpeg",
+      "filename": "12-zeke-finale__style-04__rk3h3y2bt5rmw0cyh5prskdt18.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 12.960519615,
+        "resolution_target": "1K",
+        "total_time": 13.001132502
+      }
+    },
+    {
+      "sceneSlug": "12-zeke-finale",
+      "style": "style-05",
+      "id": "pz5j94abp5rmy0cyh5psa9j3gr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/pz5j94abp5rmy0cyh5psa9j3gr",
+      "outputUrl": "https://replicate.delivery/xezq/OwDUe0ykCgQFVyDaYb0w1efe86TpLzect8bBSM7no3Ve8HzqF/tmp7a7g7brv.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/12-zeke-finale__style-05__pz5j94abp5rmy0cyh5psa9j3gr.jpeg",
+      "filename": "12-zeke-finale__style-05__pz5j94abp5rmy0cyh5psa9j3gr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 29.648226702,
+        "resolution_target": "1K",
+        "total_time": 29.700300502
+      }
+    },
+    {
+      "sceneSlug": "12-zeke-finale",
+      "style": "style-07",
+      "id": "q348h1abvdrmt0cyh5prye1enc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/q348h1abvdrmt0cyh5prye1enc",
+      "outputUrl": "https://replicate.delivery/xezq/vpUqdRat1V6ILNGCel6vBcfSXCcu9XmCKFsYCxw8Gb6qfYWtA/tmpfkl5ejyo.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/12-zeke-finale__style-07__q348h1abvdrmt0cyh5prye1enc.jpeg",
+      "filename": "12-zeke-finale__style-07__q348h1abvdrmt0cyh5prye1enc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.809765328,
+        "resolution_target": "1K",
+        "total_time": 20.875916993
+      }
+    },
+    {
+      "sceneSlug": "12-zeke-finale",
+      "style": "style-09",
+      "id": "zwv9yq2br9rmy0cyh5pts8v4vm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/zwv9yq2br9rmy0cyh5pts8v4vm",
+      "outputUrl": "https://replicate.delivery/xezq/nlcCTYS2fek5CUc8eeSZ9mwUIo7w6FQasiHsSVDJdglBfjZ1C/tmpubhtcxmv.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/12-zeke-finale__style-09__zwv9yq2br9rmy0cyh5pts8v4vm.jpeg",
+      "filename": "12-zeke-finale__style-09__zwv9yq2br9rmy0cyh5pts8v4vm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 26.457957486,
+        "resolution_target": "1K",
+        "total_time": 26.487989926
+      }
+    },
+    {
+      "sceneSlug": "12-zeke-finale",
+      "style": "style-11",
+      "id": "y898xyabw1rmt0cyh5pr8y9e8w",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/y898xyabw1rmt0cyh5pr8y9e8w",
+      "outputUrl": "https://replicate.delivery/xezq/nvETO3cWQTIDCJQqRQ3Q3odE2xZIXt6g3cqGYsaWGaB7HzqF/tmp_4gc_c8i.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/12-zeke-finale__style-11__y898xyabw1rmt0cyh5pr8y9e8w.jpeg",
+      "filename": "12-zeke-finale__style-11__y898xyabw1rmt0cyh5pr8y9e8w.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.995475468,
+        "resolution_target": "1K",
+        "total_time": 23.010678355
+      }
+    },
+    {
+      "sceneSlug": "12-zeke-finale",
+      "style": "style-13",
+      "id": "ywy58mtbrnrmr0cyh5ps9t5kxm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/ywy58mtbrnrmr0cyh5ps9t5kxm",
+      "outputUrl": "https://replicate.delivery/xezq/eoKxqbUhxU1BVqVZYideLJQbCel5wIJU8VKz8LQDfHf49jZ1C/tmpmf8kxiwy.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/12-zeke-finale__style-13__ywy58mtbrnrmr0cyh5ps9t5kxm.jpeg",
+      "filename": "12-zeke-finale__style-13__ywy58mtbrnrmr0cyh5ps9t5kxm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 25.871653033,
+        "resolution_target": "1K",
+        "total_time": 25.927720152
+      }
+    },
+    {
+      "sceneSlug": "12-zeke-finale",
+      "style": "style-15",
+      "id": "k2mjrpabtxrmr0cyh5przx9xw0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/k2mjrpabtxrmr0cyh5przx9xw0",
+      "outputUrl": "https://replicate.delivery/xezq/pf7HZ1tM9fgq008OrITkAqfxVyTLWRGRvPeQUcjJ9bZ7ejZ1C/tmpwksvtcol.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/12-zeke-finale__style-15__k2mjrpabtxrmr0cyh5przx9xw0.jpeg",
+      "filename": "12-zeke-finale__style-15__k2mjrpabtxrmr0cyh5przx9xw0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 24.743873085,
+        "resolution_target": "1K",
+        "total_time": 24.754587447
+      }
+    },
+    {
+      "sceneSlug": "12-zeke-finale",
+      "style": "style-17",
+      "id": "kqv56ztbtdrmt0cyh5pv2p3pvw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/kqv56ztbtdrmt0cyh5pv2p3pvw",
+      "outputUrl": "https://replicate.delivery/xezq/uuRzQyx4fuWdf00KeUrwejrnLQ1ojstWmAeUQA6JMaN19jZ1C/tmp0nsgb6o9.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/12-zeke-finale__style-17__kqv56ztbtdrmt0cyh5pv2p3pvw.jpeg",
+      "filename": "12-zeke-finale__style-17__kqv56ztbtdrmt0cyh5pv2p3pvw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 24.840312798,
+        "resolution_target": "1K",
+        "total_time": 24.893878765
+      }
+    },
+    {
+      "sceneSlug": "12-zeke-finale",
+      "style": "style-19",
+      "id": "76s56j2bvsrmy0cyh5ps1x2ke4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/76s56j2bvsrmy0cyh5ps1x2ke4",
+      "outputUrl": "https://replicate.delivery/xezq/Xe5qVhAe6ymLGUEDhDq4QXqffAfQdHb2Ye8SKOU1TLKA7HzqF/tmp93xy5mh3.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/12-zeke-finale__style-19__76s56j2bvsrmy0cyh5ps1x2ke4.jpeg",
+      "filename": "12-zeke-finale__style-19__76s56j2bvsrmy0cyh5ps1x2ke4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.558925207,
+        "resolution_target": "1K",
+        "total_time": 22.57503095
+      }
+    },
+    {
+      "sceneSlug": "12-zeke-finale",
+      "style": "style-22",
+      "id": "v4tegy2bk1rmw0cyh5prbat8n4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/v4tegy2bk1rmw0cyh5prbat8n4",
+      "outputUrl": "https://replicate.delivery/xezq/YgqNTgk96eTqcKvdqSEUbRIZ3J1uOoQMVdzjKxvrSg40PmVLA/tmpjpu_a5uz.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v5-variants/12-zeke-finale__style-22__v4tegy2bk1rmw0cyh5prbat8n4.jpeg",
+      "filename": "12-zeke-finale__style-22__v4tegy2bk1rmw0cyh5prbat8n4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.962823132,
+        "resolution_target": "1K",
+        "total_time": 19.981325325
+      }
+    }
+  ]
+}

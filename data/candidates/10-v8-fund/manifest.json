@@ -1,0 +1,516 @@
+{
+  "createdAt": "2026-06-02T21:06:18.397Z",
+  "model": "google/nano-banana-2",
+  "jobs": [
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "community-treasury",
+      "style": "style-15",
+      "id": "txferjczmxrmy0cyh8mbvg4zn4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/txferjczmxrmy0cyh8mbvg4zn4",
+      "outputUrl": "https://replicate.delivery/xezq/HqUEWBD2cgo8EFsaY4n4046ImFoEdH8ynFAWND0g0efZfesaB/tmpm1r8_7fj.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__community-treasury__style-15__txferjczmxrmy0cyh8mbvg4zn4.jpeg",
+      "filename": "09-james-fund__community-treasury__style-15__txferjczmxrmy0cyh8mbvg4zn4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 14.606178886,
+        "resolution_target": "1K",
+        "total_time": 14.639434274
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "bank-vault",
+      "style": "style-04",
+      "id": "brzkt4czp9rmt0cyh8m9zcgrxm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/brzkt4czp9rmt0cyh8m9zcgrxm",
+      "outputUrl": "https://replicate.delivery/xezq/uzsM5miyhf0Hf0dxA2xivG9DSjcZQf3EWoS1Dli5dEy4e9saB/tmpswu_bwd6.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__bank-vault__style-04__brzkt4czp9rmt0cyh8m9zcgrxm.jpeg",
+      "filename": "09-james-fund__bank-vault__style-04__brzkt4czp9rmt0cyh8m9zcgrxm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 17.627042615,
+        "resolution_target": "1K",
+        "total_time": 17.665332083
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "bank-vault",
+      "style": "style-09",
+      "id": "3ag326czp5rmw0cyh8m8411gvm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/3ag326czp5rmw0cyh8m8411gvm",
+      "outputUrl": "https://replicate.delivery/xezq/KrZVsq4Iebw1OiHZaoyGyfeIwe29VVDUkFyHQzmNmPjAe7Z1C/tmpsxtobork.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__bank-vault__style-09__3ag326czp5rmw0cyh8m8411gvm.jpeg",
+      "filename": "09-james-fund__bank-vault__style-09__3ag326czp5rmw0cyh8m8411gvm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.455858085,
+        "resolution_target": "1K",
+        "total_time": 21.507213694
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "community-treasury",
+      "style": "style-05",
+      "id": "vaf9q74zqhrmr0cyh8mbppqxkw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/vaf9q74zqhrmr0cyh8mbppqxkw",
+      "outputUrl": "https://replicate.delivery/xezq/eukPxFwf2mmeloklFLxKGzWJzB3GsntdYGL2Sldhqg1oe9saB/tmpsp_tit10.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__community-treasury__style-05__vaf9q74zqhrmr0cyh8mbppqxkw.jpeg",
+      "filename": "09-james-fund__community-treasury__style-05__vaf9q74zqhrmr0cyh8mbppqxkw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 9.959781826,
+        "resolution_target": "1K",
+        "total_time": 9.972898408
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "bank-vault",
+      "style": "style-11",
+      "id": "dpwyk2czqxrmy0cyh8m854ddqm",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/dpwyk2czqxrmy0cyh8m854ddqm",
+      "outputUrl": "https://replicate.delivery/xezq/Fgad83SWR2YfbiPVJtMgEmwk0Ox54dmfl1777KE41YgbfesaB/tmpdwnul6f9.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__bank-vault__style-11__dpwyk2czqxrmy0cyh8m854ddqm.jpeg",
+      "filename": "09-james-fund__bank-vault__style-11__dpwyk2czqxrmy0cyh8m854ddqm.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 16.978213966,
+        "resolution_target": "1K",
+        "total_time": 16.996370914
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "support-dashboard",
+      "style": "style-07",
+      "id": "xcbsgewzq1rmy0cyh8masch5gw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/xcbsgewzq1rmy0cyh8masch5gw",
+      "outputUrl": "https://replicate.delivery/xezq/x1glE7F8sk5pPl9fcNoQfgWcbZtM0SWQjqdbwvV5YwCbfesaB/tmpzd27bksc.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__support-dashboard__style-07__xcbsgewzq1rmy0cyh8masch5gw.jpeg",
+      "filename": "09-james-fund__support-dashboard__style-07__xcbsgewzq1rmy0cyh8masch5gw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 16.31363418,
+        "resolution_target": "1K",
+        "total_time": 16.349284459
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "bank-vault",
+      "style": "style-07",
+      "id": "7jj02x4zr9rmt0cyh8mbfyqarr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/7jj02x4zr9rmt0cyh8mbfyqarr",
+      "outputUrl": "https://replicate.delivery/xezq/A3ufljFS7Z1bSilhePDDnF0AeRggo32ploWrTKxJHrM7e9saB/tmp3y0cmpx3.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__bank-vault__style-07__7jj02x4zr9rmt0cyh8mbfyqarr.jpeg",
+      "filename": "09-james-fund__bank-vault__style-07__7jj02x4zr9rmt0cyh8mbfyqarr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.201247485,
+        "resolution_target": "1K",
+        "total_time": 19.216114892
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "support-dashboard",
+      "style": "style-04",
+      "id": "v4cprqczrxrmy0cyh8m9pt4zk8",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/v4cprqczrxrmy0cyh8m9pt4zk8",
+      "outputUrl": "https://replicate.delivery/xezq/svG2BGyHPcbsCRzdUQ0yRgfzf2D1tvxGgKxcsZLjqJ3ee9saB/tmp66gcumd7.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__support-dashboard__style-04__v4cprqczrxrmy0cyh8m9pt4zk8.jpeg",
+      "filename": "09-james-fund__support-dashboard__style-04__v4cprqczrxrmy0cyh8m9pt4zk8.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.041907796,
+        "resolution_target": "1K",
+        "total_time": 20.058057477
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "bank-vault",
+      "style": "style-19",
+      "id": "zrqwrpczsdrmy0cyh8mbmt28fc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/zrqwrpczsdrmy0cyh8mbmt28fc",
+      "outputUrl": "https://replicate.delivery/xezq/aDaZwwqtIs7jKhLBgxuEVMoUyZZCaeuC8pfWBCA685FgfesaB/tmp6xtwqfej.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__bank-vault__style-19__zrqwrpczsdrmy0cyh8mbmt28fc.jpeg",
+      "filename": "09-james-fund__bank-vault__style-19__zrqwrpczsdrmy0cyh8mbmt28fc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.240175165,
+        "resolution_target": "1K",
+        "total_time": 22.291861598
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "support-dashboard",
+      "style": "style-15",
+      "id": "956nd0czs9rmt0cyh8mb4cj36c",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/956nd0czs9rmt0cyh8mb4cj36c",
+      "outputUrl": "https://replicate.delivery/xezq/UN4lKVZXMfwqBqyWpLeixkgjKDYvt8efA1ayrRV0dAfn77Z1C/tmpmik4kopa.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__support-dashboard__style-15__956nd0czs9rmt0cyh8mb4cj36c.jpeg",
+      "filename": "09-james-fund__support-dashboard__style-15__956nd0czs9rmt0cyh8mb4cj36c.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 17.374319106,
+        "resolution_target": "1K",
+        "total_time": 17.396188879
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "community-treasury",
+      "style": "style-07",
+      "id": "vmymf4czsxrmr0cyh8ma998fgr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/vmymf4czsxrmr0cyh8ma998fgr",
+      "outputUrl": "https://replicate.delivery/xezq/23hsCyJ6mNJoL5nURkRfCSTWAfEpOaDF2n4UT4ruwdPee9saB/tmp26gsyqgp.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__community-treasury__style-07__vmymf4czsxrmr0cyh8ma998fgr.jpeg",
+      "filename": "09-james-fund__community-treasury__style-07__vmymf4czsxrmr0cyh8ma998fgr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.6579392,
+        "resolution_target": "1K",
+        "total_time": 19.675284379
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "bank-vault",
+      "style": "style-17",
+      "id": "m5fbwv4zshrmt0cyh8m9qq56p4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/m5fbwv4zshrmt0cyh8m9qq56p4",
+      "outputUrl": "https://replicate.delivery/xezq/ETsCe38IffOZTpGWp9VUI62HxDHSG1BQ6HegOtdi8WIs99saB/tmp1zp4c2rx.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__bank-vault__style-17__m5fbwv4zshrmt0cyh8m9qq56p4.jpeg",
+      "filename": "09-james-fund__bank-vault__style-17__m5fbwv4zshrmt0cyh8m9qq56p4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 16.860967763,
+        "resolution_target": "1K",
+        "total_time": 16.88116856
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "support-dashboard",
+      "style": "style-22",
+      "id": "8bqbpr4zssrmw0cyh8mb8vkp74",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/8bqbpr4zssrmw0cyh8mb8vkp74",
+      "outputUrl": "https://replicate.delivery/xezq/2fT472xyMVTEQS30YrgpxbnznniUaix1j5S2M5Qc3TYtvnVLA/tmpmv4c6in3.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__support-dashboard__style-22__8bqbpr4zssrmw0cyh8mb8vkp74.jpeg",
+      "filename": "09-james-fund__support-dashboard__style-22__8bqbpr4zssrmw0cyh8mb8vkp74.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 15.425727006,
+        "resolution_target": "1K",
+        "total_time": 15.45743972
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "bank-vault",
+      "style": "style-05",
+      "id": "8nrehzwzmxrmt0cyh8maz6rwv4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/8nrehzwzmxrmt0cyh8maz6rwv4",
+      "outputUrl": "https://replicate.delivery/xezq/PgkGmUscSPqKMtARaHnYDyiewnqKfclVSAcKf4CIeeTo77Z1C/tmpdty3r4bx.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__bank-vault__style-05__8nrehzwzmxrmt0cyh8maz6rwv4.jpeg",
+      "filename": "09-james-fund__bank-vault__style-05__8nrehzwzmxrmt0cyh8maz6rwv4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.04952995,
+        "resolution_target": "1K",
+        "total_time": 19.081879174
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "community-treasury",
+      "style": "style-04",
+      "id": "hk7194wzqnrmy0cyh8m983n7gw",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/hk7194wzqnrmy0cyh8m983n7gw",
+      "outputUrl": "https://replicate.delivery/xezq/xrWzgWPOeN0jD6MHeGTyf5Rh8ozIOwjOStzDybvY7lw7e9saB/tmphr0lc9s_.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__community-treasury__style-04__hk7194wzqnrmy0cyh8m983n7gw.jpeg",
+      "filename": "09-james-fund__community-treasury__style-04__hk7194wzqnrmy0cyh8m983n7gw.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.929833321,
+        "resolution_target": "1K",
+        "total_time": 18.943382177
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "community-treasury",
+      "style": "style-13",
+      "id": "z62v2r4zv9rmw0cyh8m8jdmprc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/z62v2r4zv9rmw0cyh8m8jdmprc",
+      "outputUrl": "https://replicate.delivery/xezq/SF2BfKa23oTgNCZ3PJumKqIa2mwdseZEQKTcxl6xbPShfesaB/tmp6xj89cqg.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__community-treasury__style-13__z62v2r4zv9rmw0cyh8m8jdmprc.jpeg",
+      "filename": "09-james-fund__community-treasury__style-13__z62v2r4zv9rmw0cyh8m8jdmprc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 22.546888059,
+        "resolution_target": "1K",
+        "total_time": 22.585332719
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "community-treasury",
+      "style": "style-11",
+      "id": "tyqke3czxxrmr0cyh8m9spz60m",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/tyqke3czxxrmr0cyh8m9spz60m",
+      "outputUrl": "https://replicate.delivery/xezq/BUCLfcdNbTwCOyW0eU9k4fY1G590sp53tuFk6xFdm9w9e9saB/tmp9sogni2l.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__community-treasury__style-11__tyqke3czxxrmr0cyh8m9spz60m.jpeg",
+      "filename": "09-james-fund__community-treasury__style-11__tyqke3czxxrmr0cyh8m9spz60m.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.379766379,
+        "resolution_target": "1K",
+        "total_time": 19.394903394
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "bank-vault",
+      "style": "style-13",
+      "id": "6s7xzhczx9rmr0cyh8m98veea4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/6s7xzhczx9rmr0cyh8m98veea4",
+      "outputUrl": "https://replicate.delivery/xezq/6CZnO1802NoELVAnTkKIkIeE4ttDQNz62aWQKMMBcjivvnVLA/tmpj4x7sjdk.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__bank-vault__style-13__6s7xzhczx9rmr0cyh8m98veea4.jpeg",
+      "filename": "09-james-fund__bank-vault__style-13__6s7xzhczx9rmr0cyh8m98veea4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.091094343,
+        "resolution_target": "1K",
+        "total_time": 21.110234267
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "community-treasury",
+      "style": "style-19",
+      "id": "6qnrr74zzdrmt0cyh8m9xc59rr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/6qnrr74zzdrmt0cyh8m9xc59rr",
+      "outputUrl": "https://replicate.delivery/xezq/Y3nYfUkz8IVDJa1OJ2O9zs9CkfWdy36mg76tB4B22Wwee9saB/tmp8a7h3z7b.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__community-treasury__style-19__6qnrr74zzdrmt0cyh8m9xc59rr.jpeg",
+      "filename": "09-james-fund__community-treasury__style-19__6qnrr74zzdrmt0cyh8m9xc59rr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.91737336,
+        "resolution_target": "1K",
+        "total_time": 19.934945005
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "support-dashboard",
+      "style": "style-09",
+      "id": "b90r0dmzyhrmt0cyh8mazkzb90",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/b90r0dmzyhrmt0cyh8mazkzb90",
+      "outputUrl": "https://replicate.delivery/xezq/ShIZIyI4BYJ6H9Qwpat62v5LAdxW5JjlWE6s4qJ0bGQ13zqF/tmpghe0_fax.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__support-dashboard__style-09__b90r0dmzyhrmt0cyh8mazkzb90.jpeg",
+      "filename": "09-james-fund__support-dashboard__style-09__b90r0dmzyhrmt0cyh8mazkzb90.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 10.666084175,
+        "resolution_target": "1K",
+        "total_time": 10.685965935
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "support-dashboard",
+      "style": "style-13",
+      "id": "vv4bww4zznrmt0cyh8m8q42cqc",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/vv4bww4zznrmt0cyh8m8q42cqc",
+      "outputUrl": "https://replicate.delivery/xezq/TLJB9LyZjBL5J9QP6FJj0Hif0Jpn3fW7hhUdfyIW5zW4e9saB/tmp3v841ttp.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__support-dashboard__style-13__vv4bww4zznrmt0cyh8m8q42cqc.jpeg",
+      "filename": "09-james-fund__support-dashboard__style-13__vv4bww4zznrmt0cyh8m8q42cqc.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 17.757299046,
+        "resolution_target": "1K",
+        "total_time": 17.778653107
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "support-dashboard",
+      "style": "style-17",
+      "id": "qvq6w4wzzsrmy0cyh8mbq39jsg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/qvq6w4wzzsrmy0cyh8mbq39jsg",
+      "outputUrl": "https://replicate.delivery/xezq/boiaP064ihKPOtZMDd21yH0Wbh9GuevcRTMn6YZmrXfdfesaB/tmprk9dzso2.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__support-dashboard__style-17__qvq6w4wzzsrmy0cyh8mbq39jsg.jpeg",
+      "filename": "09-james-fund__support-dashboard__style-17__qvq6w4wzzsrmy0cyh8mbq39jsg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.803845017,
+        "resolution_target": "1K",
+        "total_time": 18.837035509
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "support-dashboard",
+      "style": "style-05",
+      "id": "e9ydr9d009rmr0cyh8mbfph72w",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/e9ydr9d009rmr0cyh8mbfph72w",
+      "outputUrl": "https://replicate.delivery/xezq/0ePWtmFz8B1kaqdr4qeaUV9DlBPXaAZ6ojWHJk93Rp5fe9saB/tmptamx_a7y.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__support-dashboard__style-05__e9ydr9d009rmr0cyh8mbfph72w.jpeg",
+      "filename": "09-james-fund__support-dashboard__style-05__e9ydr9d009rmr0cyh8mbfph72w.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.460804604,
+        "resolution_target": "1K",
+        "total_time": 20.521489856
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "support-dashboard",
+      "style": "style-19",
+      "id": "k9rq8xd005rmw0cyh8m84n7qgr",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/k9rq8xd005rmw0cyh8m84n7qgr",
+      "outputUrl": "https://replicate.delivery/xezq/3ceiRFAI6KQZfEsBkwIUlQPHXhxSiIMWhw1pAfz7VBZAf9saB/tmpoubem99y.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__support-dashboard__style-19__k9rq8xd005rmw0cyh8m84n7qgr.jpeg",
+      "filename": "09-james-fund__support-dashboard__style-19__k9rq8xd005rmw0cyh8m84n7qgr.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 21.617998002,
+        "resolution_target": "1K",
+        "total_time": 21.690137744
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "community-treasury",
+      "style": "style-17",
+      "id": "85ggf2500nrmw0cyh8mak4qh84",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/85ggf2500nrmw0cyh8mak4qh84",
+      "outputUrl": "https://replicate.delivery/xezq/CraC4SK65g6OJtR98k5nBJjqKvQz338TnehKKfoGy8Eee9saB/tmpuprahwlc.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__community-treasury__style-17__85ggf2500nrmw0cyh8mak4qh84.jpeg",
+      "filename": "09-james-fund__community-treasury__style-17__85ggf2500nrmw0cyh8mak4qh84.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.238847778,
+        "resolution_target": "1K",
+        "total_time": 19.269388395
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "support-dashboard",
+      "style": "style-11",
+      "id": "0x8v6t5015rmw0cyh8masgh8gg",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/0x8v6t5015rmw0cyh8masgh8gg",
+      "outputUrl": "https://replicate.delivery/xezq/PxKyEON4rFLwPVas1trJK3ybPVQX6mJ0RrUnQcl37gQ33zqF/tmp8dhiih5c.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__support-dashboard__style-11__0x8v6t5015rmw0cyh8masgh8gg.jpeg",
+      "filename": "09-james-fund__support-dashboard__style-11__0x8v6t5015rmw0cyh8masgh8gg.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 19.111604253,
+        "resolution_target": "1K",
+        "total_time": 19.184802808
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "community-treasury",
+      "style": "style-22",
+      "id": "97z0gy5015rmy0cyh8magrxds4",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/97z0gy5015rmy0cyh8magrxds4",
+      "outputUrl": "https://replicate.delivery/xezq/ldvQIJN6nwanHte4WVn3vdhf3pTQyCz8Ltgd83Q6rXxfe9saB/tmpume9lg0c.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__community-treasury__style-22__97z0gy5015rmy0cyh8magrxds4.jpeg",
+      "filename": "09-james-fund__community-treasury__style-22__97z0gy5015rmy0cyh8magrxds4.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.788810718,
+        "resolution_target": "1K",
+        "total_time": 20.869569027
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "bank-vault",
+      "style": "style-22",
+      "id": "2k4ad8n005rmt0cyh8may5p34m",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/2k4ad8n005rmt0cyh8may5p34m",
+      "outputUrl": "https://replicate.delivery/xezq/qaeLFqXKzWzWfUHBEN8ztiagkjt4ekDjNf3gwsOGjECr99saB/tmpxe1qe9pq.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__bank-vault__style-22__2k4ad8n005rmt0cyh8may5p34m.jpeg",
+      "filename": "09-james-fund__bank-vault__style-22__2k4ad8n005rmt0cyh8may5p34m.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 15.488049251,
+        "resolution_target": "1K",
+        "total_time": 15.504116072
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "community-treasury",
+      "style": "style-09",
+      "id": "mqsjs75025rmy0cyh8m8gvey8c",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/mqsjs75025rmy0cyh8m8gvey8c",
+      "outputUrl": "https://replicate.delivery/xezq/lODrF3i2zEKcKN3BRsKzYaLOk11sHwMghIPX4Oft6eree9saB/tmpaqr2692_.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__community-treasury__style-09__mqsjs75025rmy0cyh8m8gvey8c.jpeg",
+      "filename": "09-james-fund__community-treasury__style-09__mqsjs75025rmy0cyh8m8gvey8c.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 20.081146897,
+        "resolution_target": "1K",
+        "total_time": 20.102182339
+      }
+    },
+    {
+      "sceneSlug": "09-james-fund",
+      "concept": "bank-vault",
+      "style": "style-15",
+      "id": "dkywetn031rmy0cyh8m8mjf8a0",
+      "status": "succeeded",
+      "webUrl": "https://replicate.com/p/dkywetn031rmy0cyh8m8mjf8a0",
+      "outputUrl": "https://replicate.delivery/xezq/R0WuIORZnxKaL1fD204fZvBdwdFXyyDffSdQzCMi6WZ299saB/tmp8mb7d9op.jpeg",
+      "outputFile": "/Users/z/Desktop/voidzero/data/v8-fund-variants/09-james-fund__bank-vault__style-15__dkywetn031rmy0cyh8m8mjf8a0.jpeg",
+      "filename": "09-james-fund__bank-vault__style-15__dkywetn031rmy0cyh8m8mjf8a0.jpeg",
+      "metrics": {
+        "image_output_count": 1,
+        "predict_time": 18.473613254,
+        "resolution_target": "1K",
+        "total_time": 18.553085599
+      }
+    }
+  ]
+}
