@@ -20,6 +20,12 @@ The video is a conversation split into twelve short segments, alternating betwee
 
 5. Stitch. All twelve captioned clips are joined into the final video with [ffmpeg](https://ffmpeg.org).
 
+6. Background Music. The final video is layered with instrumental background music generated with Suno AI. The music sets a playful, goofy tone that complements the casual phone conversation between friends. Rather than orchestral or polished production, the track uses lo-fi homemade aesthetics: wonky flute and kazoo, creaky toy instruments, hand percussion—the kind of thing that sounds like it was recorded on a four-track tape recorder in someone's bedroom. The music gently pokes fun at the mundanity of daily morning routines while staying supportive of the dialogue.
+
+The successful Suno prompt was:
+
+> Instrumental lo-fi, silly homemade recording, wonky flute and kazoo, creaky toy instruments, hand claps and percussion, playful and goofy, recorded on a four-track tape recorder, gentle mischief and humor about mundane daily life, morning routine chaos, imperfect and charming, 90 seconds
+
 ## The generate-many, pick-the-best workflow
 
 Almost nothing here was a one-shot. For every scene, many candidate images were generated across a wide spread of art styles, then reviewed in a simple local gallery and narrowed down to a favorite. Lines were rewritten, audio was re-recorded when the delivery felt off, and individual segments were regenerated in isolation without rebuilding the whole video. The repo keeps the full set of candidates, not just the winners, so the journey is visible.
@@ -35,6 +41,7 @@ Almost nothing here was a one-shot. For every scene, many candidate images were 
 - [whisper.cpp](https://github.com/ggml-org/whisper.cpp) for caption word timing
 - [nice-ass-captions](https://github.com/zeke/nice-ass-captions) for burning in the stylized captions
 - [ffmpeg](https://ffmpeg.org) for normalizing and stitching everything together
+- [Suno AI](https://suno.ai) for background music generation
 - [OpenCode](https://opencode.ai) as the agent environment where it was all orchestrated
 
 ## What it cost
