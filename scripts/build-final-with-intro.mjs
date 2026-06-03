@@ -9,13 +9,18 @@
 
 import { spawnSync } from "node:child_process";
 import { mkdirSync, readdirSync, writeFileSync } from "node:fs";
-import { join, resolve } from "node:path";
+import { basename, extname, join, resolve } from "node:path";
 
 const ROOT = resolve(import.meta.dirname, "..");
 const INTRO = join(ROOT, "intro/out/intro.mp4");
 const OUTRO = join(ROOT, "intro/out/outro.mp4");
 const SEG_DIR = join(ROOT, "data/segments/v5-captioned");
-const MUSIC = join(ROOT, "data/music/pancake-parade.mp3");
+// Music track: optional first CLI arg (path), else the default. The track's
+// name is included in the output filename so multiple versions are distinct.
+const MUSIC = process.argv[2]
+  ? resolve(process.argv[2])
+  : join(ROOT, "data/music/pancake-parade.mp3");
+const MUSIC_STEM = basename(MUSIC, extname(MUSIC));
 const RING = join(ROOT, "data/sfx/originals/ringback-us.wav");
 const TMP = join(ROOT, "data/tmp/final-build");
 const FINAL_DIR = join(ROOT, "data/final");
@@ -28,15 +33,25 @@ const RING_PLAY = 3.1; // seconds of ring audio to use (≈ intro length)
 const RING_FADE_OUT = 0.4; // fades out as segment 1 begins
 const RING_GAIN = 0.6; // ring level in the mix
 
+// Outro = intro reversed, then hold the final (blank) frame so the video loops
+// and the music has room to fade out.
+const OUTRO_LINGER = 2.0; // seconds to hold the last frame after the reverse
+
 // Music bed (fades in from the start, ducks under dialogue, fades out at end).
-const MUSIC_GAIN = 0.3; // level when no one is speaking (intro/outro)
+const MUSIC_GAIN = 0.22; // level when no one is speaking (intro/outro)
 const MUSIC_FADE_IN = 5.0; // slow fade-in from t=0
-const MUSIC_FADE_OUT = 3.0; // fade-out over the final seconds (the outro)
+const MUSIC_FADE_OUT = 5.0; // fade-out over the final seconds (the lingering outro)
 // Sidechain ducking: music dips while dialogue is present.
 const DUCK_THRESHOLD = 0.05;
 const DUCK_RATIO = 8;
 const DUCK_ATTACK = 20; // ms
 const DUCK_RELEASE = 400; // ms
+
+// Per-segment audio gain applied at stitch time (filename -> ffmpeg volume value).
+// Segments listed here are re-encoded with the gain; all others are stream-copied.
+const SEGMENT_GAIN = {
+  "06-03-zeke-kitchen-coffee.mp4": "3dB",
+};
 
 // Match the captioned segments so the concat is a stream copy.
 const A_RATE = 32000;
@@ -63,13 +78,15 @@ function ffprobeDuration(file) {
   );
 }
 
-function matchClip(src, dst) {
+function matchClip(src, dst, vf) {
   // Transcode a (possibly silent / mismatched) clip to the segments' params
   // and give it a silent mono AAC track so concat -c copy works.
+  // Optional `vf` applies a video filtergraph (e.g. reverse + linger for the outro).
   run("ffmpeg", [
     "-y", "-loglevel", "error",
     "-i", src,
     "-f", "lavfi", "-i", `anullsrc=channel_layout=mono:sample_rate=${A_RATE}`,
+    ...(vf ? ["-vf", vf] : []),
     "-map", "0:v:0", "-map", "1:a:0",
     "-c:v", "libx264", "-profile:v", "high", "-level", "3.1",
     "-pix_fmt", "yuv420p", "-r", "25", "-video_track_timescale", "12800",
@@ -79,21 +96,50 @@ function matchClip(src, dst) {
   ]);
 }
 
-function nextOutputPath() {
-  const re = /^voidzero-final-(\d+)\.mp4$/;
+function applyGain(src, gain, dst) {
+  // Re-encode just the audio with a volume bump; copy the video so the clip
+  // still concat-copies with the rest.
+  run("ffmpeg", [
+    "-y", "-loglevel", "error",
+    "-i", src,
+    "-c:v", "copy",
+    "-af", `volume=${gain}`,
+    "-c:a", "aac", "-ar", String(A_RATE), "-ac", String(A_CH),
+    "-movflags", "+faststart",
+    dst,
+  ]);
+}
+
+function makeOutro(introSrc, dst) {
+  // Outro is derived from the intro: reverse it, then clone the final frame for
+  // OUTRO_LINGER seconds. Silent. This is the canonical outro (intro/out/outro.mp4).
+  run("ffmpeg", [
+    "-y", "-loglevel", "error",
+    "-i", introSrc,
+    "-vf", `reverse,tpad=stop_mode=clone:stop_duration=${OUTRO_LINGER}`,
+    "-an",
+    dst,
+  ]);
+}
+
+function nextOutputPath(label) {
+  const re = /^voidzero-final-(\d+)(?:-.*)?\.mp4$/;
   let max = 0;
   for (const f of readdirSync(FINAL_DIR)) {
     const m = f.match(re);
     if (m) max = Math.max(max, parseInt(m[1], 10));
   }
   const n = String(max + 1).padStart(3, "0");
-  return join(FINAL_DIR, `voidzero-final-${n}.mp4`);
+  const suffix = label ? `-${label}` : "";
+  return join(FINAL_DIR, `voidzero-final-${n}${suffix}.mp4`);
 }
 
 // --- 1. matched intro / outro ---------------------------------------------
 mkdirSync(TMP, { recursive: true });
 const introMatched = join(TMP, "intro-matched.mp4");
 const outroMatched = join(TMP, "outro-matched.mp4");
+console.log(`Deriving outro from intro (reverse + ${OUTRO_LINGER}s linger)...`);
+makeOutro(INTRO, OUTRO); // (re)write the canonical intro/out/outro.mp4
 console.log("Transcoding intro/outro to match segments...");
 matchClip(INTRO, introMatched);
 matchClip(OUTRO, outroMatched);
@@ -102,12 +148,16 @@ matchClip(OUTRO, outroMatched);
 const segFiles = readdirSync(SEG_DIR)
   .filter((f) => /^\d\d-.*\.mp4$/.test(f))
   .sort();
+const segPaths = segFiles.map((f) => {
+  const gain = SEGMENT_GAIN[f];
+  if (!gain) return join(SEG_DIR, f);
+  const boosted = join(TMP, `gain-${f}`);
+  console.log(`Applying ${gain} gain to ${f}...`);
+  applyGain(join(SEG_DIR, f), gain, boosted);
+  return boosted;
+});
 const concatList = join(TMP, "concat.txt");
-const lines = [
-  introMatched,
-  ...segFiles.map((f) => join(SEG_DIR, f)),
-  outroMatched,
-].map((p) => `file '${p}'`);
+const lines = [introMatched, ...segPaths, outroMatched].map((p) => `file '${p}'`);
 writeFileSync(concatList, lines.join("\n") + "\n");
 
 const base = join(TMP, "base.mp4");
@@ -147,8 +197,8 @@ const filter = [
   `[mixed]alimiter=limit=0.95[out]`,
 ].join(";");
 
-const out = nextOutputPath();
-console.log("Mixing dialogue + ducked music + ringback...");
+const out = nextOutputPath(MUSIC_STEM);
+console.log(`Mixing dialogue + ducked music (${MUSIC_STEM}) + ringback...`);
 run("ffmpeg", [
   "-y", "-loglevel", "error",
   "-i", base,

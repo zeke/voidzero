@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Segment 2 — TTS variants</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin:0; padding:32px; font-family:system-ui,sans-serif; background:#2b4d43; color:#f3efe7; }
+  h1 { margin:0 0 4px; }
+  p.intro { color:#cfe0d8; max-width:760px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(340px,1fr)); gap:14px; margin-top:20px; }
+  .card { background:rgba(0,0,0,.22); border:1px solid rgba(255,255,255,.12); border-radius:12px; padding:14px 16px; }
+  .name { font-weight:700; }
+  .meta { font-size:12px; color:#a9c2b7; margin:2px 0 8px; }
+  .text { font-size:13px; color:#dfeae4; margin-bottom:10px; font-style:italic; }
+  audio { width:100%; }
+</style></head><body>
+  <h1>Segment 2 — TTS variants (zeke)</h1>
+  <p class="intro">minimax/speech-2.8-hd. Same voice (R8_JURR4DHK); varying speed, pitch, emotion, and pause-marker phrasing. Tell me the variant key (e.g. <code>04-surprised</code>) you want and I'll bake it in.</p>
+  <div class="grid">
+    <div class="card">
+      <div class="name">Surprised — 0.86 / pitch 0</div>
+      <div class="meta">speed 0.86 · pitch 0 · emotion surprised</div>
+      <div class="text">Ah. James. Good morning. You mean the veet people? Also did you just call me 'babe'?</div>
+      <audio controls preload="none" src="../data/tmp/v5-preview/variants/r3-01-surprised-086-p0.mp3"></audio>
+    </div>
+    <div class="card">
+      <div class="name">Surprised — 0.88 / pitch 0</div>
+      <div class="meta">speed 0.88 · pitch 0 · emotion surprised</div>
+      <div class="text">Ah. James. Good morning. You mean the veet people? Also did you just call me 'babe'?</div>
+      <audio controls preload="none" src="../data/tmp/v5-preview/variants/r3-02-surprised-088-p0.mp3"></audio>
+    </div>
+    <div class="card">
+      <div class="name">Surprised — 0.90 / pitch 0</div>
+      <div class="meta">speed 0.9 · pitch 0 · emotion surprised</div>
+      <div class="text">Ah. James. Good morning. You mean the veet people? Also did you just call me 'babe'?</div>
+      <audio controls preload="none" src="../data/tmp/v5-preview/variants/r3-03-surprised-090-p0.mp3"></audio>
+    </div>
+    <div class="card">
+      <div class="name">Surprised — 0.86 / pitch -1</div>
+      <div class="meta">speed 0.86 · pitch -1 · emotion surprised</div>
+      <div class="text">Ah. James. Good morning. You mean the veet people? Also did you just call me 'babe'?</div>
+      <audio controls preload="none" src="../data/tmp/v5-preview/variants/r3-04-surprised-086-pm1.mp3"></audio>
+    </div>
+    <div class="card">
+      <div class="name">Surprised — 0.90 / pitch -1</div>
+      <div class="meta">speed 0.9 · pitch -1 · emotion surprised</div>
+      <div class="text">Ah. James. Good morning. You mean the veet people? Also did you just call me 'babe'?</div>
+      <audio controls preload="none" src="../data/tmp/v5-preview/variants/r3-05-surprised-090-pm1.mp3"></audio>
+    </div>
+    <div class="card">
+      <div class="name">Surprised — 0.88 / pitch 0 / pauses</div>
+      <div class="meta">speed 0.88 · pitch 0 · emotion surprised · pauses</div>
+      <div class="text">Ah. &lt;#0.4#> James. &lt;#0.3#> Good morning. &lt;#0.5#> You mean the veet people? &lt;#0.4#> Also did you just call me 'babe'?</div>
+      <audio controls preload="none" src="../data/tmp/v5-preview/variants/r3-06-surprised-088-p0-paused.mp3"></audio>
+    </div>
+    <div class="card">
+      <div class="name">Surprised — 0.90 / pitch 0 / pauses</div>
+      <div class="meta">speed 0.9 · pitch 0 · emotion surprised · pauses</div>
+      <div class="text">Ah. &lt;#0.4#> James. &lt;#0.3#> Good morning. &lt;#0.5#> You mean the veet people? &lt;#0.4#> Also did you just call me 'babe'?</div>
+      <audio controls preload="none" src="../data/tmp/v5-preview/variants/r3-07-surprised-090-p0-paused.mp3"></audio>
+    </div></div>
+</body></html>

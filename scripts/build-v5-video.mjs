@@ -42,7 +42,7 @@ const selections = {
 
 const segments = [
   ["01-james-predawn-desk", "james", "Wake up babe. VoidZero just joined Cloudflare."],
-  ["01-zeke-bed-phone", "zeke", "Good morning, James... You mean the veet guys? And since when do you call me babe?"],
+  ["01-zeke-bed-phone", "zeke", "Ah. James. Good morning. You mean the veet people? Also did you just call me 'babe'?"],
   ["02-james-kitchen-laptops", "james", "Sorry, I got excited. Yes, the veet people. The team behind veet, Veet test, Rolldown, Oxc, Veet plus, all of it."],
   ["02-zeke-bathroom-toothbrush", "zeke", "Remind me. What’s veet again?"],
   ["05-james-vite-explainer", "james", "Have you been living under a rock, my guy? Veet is the de facto build tool of the JavaScript ecosystem. Fast dev server, fast feedback loop, used by frameworks like Vue, Astro, React Router, TanStack Start. Ring a bell?"],
@@ -119,13 +119,19 @@ async function getJamesVoiceId() {
   return cache.jamesVoiceId;
 }
 
+// Per-segment TTS delivery overrides (minimax/speech-2.8-hd). Defaults: speed 1,
+// pitch 0, emotion auto.
+const ttsOverrides = {
+  "01-zeke-bed-phone": { speed: 0.86, pitch: 0, emotion: "surprised" }, // just woken, sardonic
+  "08-zeke-big-huh": { speed: 0.88 },
+};
+
 async function createTtsPrediction(segment, voiceId) {
-  const sleepy = segment.slug === "01-zeke-bed-phone";
-  const bigHuh = segment.slug === "08-zeke-big-huh";
+  const o = ttsOverrides[segment.slug] ?? {};
   return api("/models/minimax/speech-2.8-hd/predictions", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ input: { text: segment.text, voice_id: voiceId, speed: sleepy ? 0.72 : bigHuh ? 0.88 : 1, pitch: sleepy ? -1 : 0, volume: 1, emotion: "auto", audio_format: "mp3", sample_rate: 32000, english_normalization: true, subtitle_enable: false } }),
+    body: JSON.stringify({ input: { text: segment.text, voice_id: voiceId, speed: o.speed ?? 1, pitch: o.pitch ?? 0, volume: 1, emotion: o.emotion ?? "auto", audio_format: "mp3", sample_rate: 32000, english_normalization: true, subtitle_enable: false } }),
   });
 }
 
