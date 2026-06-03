@@ -92,4 +92,4 @@ This was produced in one OpenCode session. Two kinds of spend: the AI coding age
 
 Most of the cost was the agent session, not the media. These figures are estimates: the per-image and per-clip prices are approximate, and the agent cost is the reported session total.
 
-For the technical details of how to run and reproduce everything, see [AGENTS.md](./AGENTS.md).
+For the general creative process behind a project like this, described step by step and abstracted away from this particular video, see [PROCESS.md](./PROCESS.md). For the technical details of how to run and reproduce everything, see [AGENTS.md](./AGENTS.md).
