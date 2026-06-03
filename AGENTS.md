@@ -33,13 +33,16 @@ transcripts/                   exact spoken line per segment (drives captions)
 assets/zeke/                   Zeke identity reference images + voice sample
 jamesquickfake/                James identity reference images + voice sample mp4
 site/                          local review galleries (static HTML)
+intro/                         Remotion project for the 3s logo intro card (node_modules + out/ gitignored)
 data/
   candidates/                  all nano-banana-2 candidate image sets
     01-first 02-variants 03-remaining 04-remaining-v2 05-short-v3
     06-short-v4 07-v5 08-v6-focused 09-v7-adapter 10-v8-fund
   audio/                       proof/ short-v4/ v5/ + voices.json
+  music/                       background music tracks (pancake-parade.mp3)
+  sfx/                         phone-ring candidates: originals/ (downloads + synthesized) + candidates/ (loudness-matched previews)
   segments/                    per-segment finished clips: proof/ short-v4/ v5/ v5-captioned/
-  final/                       stitched outputs (voidzero-v5.mp4, voidzero-v5-captioned.mp4, milestones)
+  final/                       stitched outputs (voidzero-v5.mp4, voidzero-v5-captioned.mp4, voidzero-final-NNN.mp4, milestones)
   tmp/                         scratch (gitignored, recreated at runtime)
 ```
 
@@ -64,9 +67,18 @@ Video pipeline:
 - `build-short-v4-video.mjs` 12-segment short v4 (legacy)
 - `build-v5-video.mjs` current builder. Holds the `selections` map (scene -> `source:filename`) and the 12 spoken lines. `resolveSelection()` maps a source prefix (`short v3`, `short v4`, `v5`, `v6 focused`, `v7 adapter`, `v8 fund`, plus legacy `existing v4`/`new v5`/`prior v5`) to a `data/candidates/*` dir. Per-segment audio uses speaker -> voice ID; segment-specific speed/pitch tweaks live in `createTtsPrediction()`. Caches by file existence, so deleting a segment's audio/raw/video forces regeneration of just that segment.
 
+Final assembly (intro + segments + outro + audio):
+
+- `build-final-with-intro.mjs` builds the full looping deliverable: transcodes `intro/out/intro.mp4` and the reversed `intro/out/outro.mp4` to match the captioned segments' params (h264 High/L3.1, 1280x720/25fps, AAC 32kHz mono), concat-copies intro + 12 `v5-captioned` segments + outro, then mixes audio: original dialogue + `data/music/pancake-parade.mp3` (slow fade-in, sidechain-ducked under dialogue, fade-out over the outro) + a ringback tone (`data/sfx/originals/ringback-us.wav`, cropped/faded) over the intro. Writes `data/final/voidzero-final-NNN.mp4`, auto-incrementing. All levels/timings are constants at the top. Re-runnable, no API cost.
+- `site/sfx.html` auditions the phone-ring candidates in `data/sfx/candidates/`; the chosen one feeds the build script.
+
 Captioning + stitch:
 
 - `caption-v5-final.mjs` runs the local captioner over all 12 segment clips with per-segment word counts, position, and timing mode, then writes a concat list. Edit the `segments` array to change words-per-chunk, caption position, or `whisper` vs `uniform` timing per segment.
+
+Intro card (Remotion, in `intro/`):
+
+- 3s (75 frames @ 25fps, 1280x720) logo card meant to play before segment 1. Composition id `Intro` in `src/Root.tsx`; animation in `src/Composition.tsx`; both logos are inline single-path SVGs in `src/logos.tsx` (VoidZero wordmark white, Cloudflare logomark orange `#F6821F`). Background `#2b4d43` is sampled from frame 0 of the "Wake up babe" segment. Both logos emerge from a central slit, slide apart (VoidZero left, Cloudflare right), then a faint arrow fades in between them. Tweakable layout/timing constants live at the top of `Composition.tsx`. Build: `cd intro && npx remotion render Intro out/intro.mp4`. Output has a silent AAC track, matching the finals for concat. The outro (`out/outro.mp4`) is the intro reversed (`ffmpeg -i intro.mp4 -vf reverse -an outro.mp4`) so the full video loops; `build-final-with-intro.mjs` consumes both.
 
 Galleries (no API calls, safe to re-run):
 

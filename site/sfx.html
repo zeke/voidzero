@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>VoidZero Intro — Phone Ring Picker</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin: 0; padding: 32px; font-family: system-ui, sans-serif; background: #2b4d43; color: #f3efe7; }
+  h1 { margin: 0 0 4px; }
+  p.intro { color: #cfe0d8; max-width: 760px; }
+  h2 { margin: 36px 0 12px; border-bottom: 1px solid rgba(255,255,255,.15); padding-bottom: 6px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; }
+  .card { background: rgba(0,0,0,.22); border: 1px solid rgba(255,255,255,.12); border-radius: 12px; padding: 14px 16px; }
+  .card .name { font-weight: 700; margin-bottom: 2px; }
+  .card .meta { font-size: 12px; color: #a9c2b7; margin-bottom: 10px; }
+  audio { width: 100%; }
+  code { background: rgba(0,0,0,.3); padding: 2px 6px; border-radius: 6px; color: #F6821F; font-size: 12px; }
+  .note { font-size: 13px; color: #a9c2b7; margin-top: 28px; }
+</style>
+</head>
+<body>
+  <h1>Phone ring picker</h1>
+  <p class="intro">Auditions for the ring that plays over the 3s intro card. Each preview is loudness-matched (-16 LUFS) for fair comparison. Tell me the filename you want and I'll bake it into the final.</p>
+
+  <h2>Ringback tones — the outgoing "waiting for pickup" ring (synthesized)</h2>
+  <div class="grid" id="ringback"></div>
+
+  <h2>Modern phones (Mixkit, free license)</h2>
+  <div class="grid" id="mixkit"></div>
+
+  <h2>Classic &amp; electronic bells (Wikimedia Commons)</h2>
+  <div class="grid" id="commons"></div>
+
+  <p class="note">Mixkit clips: free license, fine for this video. Commons clips may be CC-BY-SA (attribution); flag if you need fully unencumbered. Originals (untrimmed) live in <code>data/sfx/originals/</code>.</p>
+
+<script>
+  const ringback = [
+    ["ringback-us", "US ringback — 440+480 Hz, 2s on / 4s off (the classic US 'waiting' ring)"],
+    ["ringback-us-earpiece", "US ringback, telephone-earpiece filtered (300–3400 Hz, thinner/through-the-phone)"],
+    ["ringback-uk", "UK ringback — 400+450 Hz double-ring 'brr-brr'"],
+  ];
+  const mixkit = [
+    ["mixkit-1350", "short beep / blip"],
+    ["mixkit-1351", "short beep / blip"],
+    ["mixkit-1352", "phone tone"],
+    ["mixkit-1353", "phone tone"],
+    ["mixkit-1354", "phone tone"],
+    ["mixkit-1356", "phone tone"],
+    ["mixkit-1357", "phone tone"],
+    ["mixkit-1359", "phone tone"],
+    ["mixkit-1360", "phone tone"],
+    ["mixkit-1361", "phone tone"],
+    ["mixkit-1393", "phone tone"],
+    ["mixkit-2862", "phone tone"],
+  ];
+  const commons = [
+    ["commons-model500", "Model 500 — classic British landline bell"],
+    ["commons-siemens", "Siemens & Halske — automatic telephone bell"],
+    ["commons-iskra-eta", "Iskra Eta — automatic telephone bell"],
+    ["commons-iskra-ata2", "Iskra ATA 2 — automatic telephone bell"],
+    ["commons-tesla", "Nikola Tesla — automatic telephone bell"],
+  ];
+  function render(list, el) {
+    document.getElementById(el).innerHTML = list.map(([id, desc]) => `
+      <div class="card">
+        <div class="name">${id}</div>
+        <div class="meta">${desc} — <code>${id}.mp3</code></div>
+        <audio controls preload="none" src="../data/sfx/candidates/${id}.mp3"></audio>
+      </div>`).join("");
+  }
+  render(ringback, "ringback");
+  render(mixkit, "mixkit");
+  render(commons, "commons");
+</script>
+</body>
+</html>
