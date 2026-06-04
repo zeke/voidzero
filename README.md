@@ -1,10 +1,10 @@
-# VoidZero
+# VoidZero video
 
- This repo contains the pieces of a promo video announcing that [VoidZero](https://voidzero.dev/), the team behind [Vite](https://vite.dev/), is joining [Cloudflare](https://www.cloudflare.com/).
+This repo contains the pieces of a promo video announcing that [VoidZero](https://voidzero.dev/), the team behind [Vite](https://vite.dev/), is joining [Cloudflare](https://www.cloudflare.com/).
 
 Instead of a press release, the news is delivered as an early-morning phone call between two deepfaked coworkers: James, who is already wide awake and far too online, and Zeke, who is very much not. James breaks the news, Zeke slowly catches up over coffee, and along the way the important points land: Vite stays open source and vendor-neutral, there is a million-dollar ecosystem fund for maintainers, and Cloudflare is moving toward Vite rather than the other way around.
 
-TODO: SCREENSHOT LINK TO WATCH THE VIDEO
+Watch the video here: https://x.com/zeke/status/2062544345858011162?s=20
 
 ## Tools and models
 
