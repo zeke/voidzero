@@ -4,7 +4,7 @@ This repo contains the pieces of a promo video announcing that [VoidZero](https:
 
 Instead of a press release, the news is delivered as an early-morning phone call between two deepfaked coworkers: James, who is already wide awake and far too online, and Zeke, who is very much not. James breaks the news, Zeke slowly catches up over coffee, and along the way the important points land: Vite stays open source and vendor-neutral, there is a million-dollar ecosystem fund for maintainers, and Cloudflare is moving toward Vite rather than the other way around.
 
-Watch the video here: https://x.com/zeke/status/2062544345858011162?s=20
+[![VoidZero joins Cloudflare deepfake video](demo-thumb.jpg)](demo.mp4)
 
 ## Tools and models
 
